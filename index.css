@@ -1,0 +1,50 @@
+@media only screen and (min-width : 0px){
+      body {
+        color: white;
+        font-family: 'Lato';
+        clear: both;
+        background-image: url(./images/portfoliobackground.png);
+        background-size: cover;
+      }
+      h1 {
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 3em;
+        margin: 20px 20px 0px 20px;
+        width: 60vw;
+      }
+
+      nav {
+      display: block;
+      position: absolute;
+      top: 35px;
+      right: 20px;
+    }
+    li {
+      float: left;
+      margin: 0 3vw;
+      font-size: 1.2em;
+      font-weight: 700;
+      color: white;
+    }
+      .profilepic {
+        height:300px;
+        width: 300px;
+        background-image: url(./images/pic.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin: 20px auto;
+      }
+      p {
+        font-size: 1.3em;
+        margin: 10px 20px
+      }
+
+
+      a {
+        text-decoration: none;
+      }
+      ul {
+        list-style-type: none;
+      }
+  }
