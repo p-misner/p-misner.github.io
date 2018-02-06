@@ -1,16 +1,17 @@
-    @media only screen and (min-width : 0px){
-      body {
+@media only screen and (min-width : 0px){
+    body {
         font-family: 'Lato', sans-serif;
         margin: 15px;
         font-weight: 300;
       }
       h1 {
-        margin-left: -5px;
-        font-size: 4em;
-        font-family: 'Lato' , sans-serif;
+        font-weight: 700;
         text-transform: uppercase;
+        font-size: 4em;
+        margin: 40px 20px 45px 0px;
+        width: 60vw;
       }
-      h2 {
+   h2 {
         font-weight: 700;
         text-transform: uppercase;
         font-size: 1.4em;
@@ -22,32 +23,42 @@
         font-weight: 600;
         text-transform: uppercase;
         margin-top: 7px;
+        margin-bottom: -15px;
       }
       h4 {
         font-weight: 400;
+        margin-bottom: -10px;
       }
       h5 {
         font-weight: 400;
       }
-      div {
-        line-height: 1.1em;
+
+    h3, h4, h5, p {
+        margin-left: 20px;
       }
 
-      span {
-        font-weight: 400;
-        text-transform: none;
-        font-size: 0.8em;
-        float: right;
-      }
+    nav {
+      display: block;
+      width: 40vw;
+    }
 
-      nav ul li {
-        display: inline-block;
-        font-size: 2em;
+    nav ul {
+      position: absolute;
+      top: 18px;
+      right: 20px;
+    }
+    nav ul li {
+      margin: 0 8px;
+      font-size: 1.2em;
+      font-weight: 700;
+      display: inline-block;
       }
 
       nav ul li a:link {
         text-decoration: none;
         color: black;
+        border-bottom: 2px solid;
+
 
       }
       nav ul li a:visited {
@@ -59,19 +70,37 @@
       nav ul li a:active {
         color: #0e08f9;
       }
-       nav ul {
-      position: absolute;
-      top: 15;
-      right: 0;
 
-    }
-
-      li {
-        list-style: none;
-        list-style-position: inside;
+      .profilepic {
+        height:300px;
+        width: 300px;
+        background-image: url(./images/pic.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin: 20px auto;
       }
+
+      ul {
+        list-style-type: none;
+      }
+
+
+
+
+      div {
+        line-height: 1.1em;
+      }
+
+      span {
+        font-weight: 400;
+        text-transform: none;
+        font-size: 0.8em;
+        float: right;
+      }
+
+
       .extraspacing {
-        margin-top: 7px;
+        height: 7px;
       }
 
       .blue {
@@ -82,46 +111,13 @@
         margin-right: 3px;
       }
 
-     h3,  h4, h5, p, li {
-        margin-left: 20px;
-      }
 
       .container {
-        max-width: 800px;
+        max-width: 900px;
+        margin: 0 auto;
       }
 
   }
 
-  /* Custom, iPhone Retina */
-  @media only screen and (min-width : 320px){
-
-  }
-
-  /* Extra Small Devices, Phones */
-  @media only screen and (min-width : 530px){
-    body {
-      //background-color: aliceblue;
-    }
-
-    nav ul {
-      position: absolute;
-      top: 43px;
-      right: 0px;
-    }
-  }
-
-  /* Small Devices, Tablets */
-  @media only screen and (min-width : 768px){
 
 
-  }
-
-  /* Medium Devices, Desktops */
-  @media only screen and (min-width : 992px){
-
-  }
-
-  /* Large Devices, Wide Screens */
-  @media only screen and (min-width : 1200px){
-
-  }
