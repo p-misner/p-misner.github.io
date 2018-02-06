@@ -14,6 +14,12 @@
         width: 60vw;
       }
 
+  h2 {
+    font-size: 320%;
+    margin: 0 10vw 30px 10vw;
+
+  }
+
       nav {
       display: block;
       position: absolute;
@@ -33,7 +39,7 @@
         background-image: url(./images/pic.png);
         background-size: contain;
         background-repeat: no-repeat;
-        margin: 20px auto;
+        margin: 100px auto 20px auto;
       }
       p {
         font-size: 1.3em;
@@ -41,9 +47,25 @@
       }
 
 
-      a {
+      a:link {
+        text-decoration: none;
+        color: white;
+        border-bottom: 2px solid;
+
+      }
+      a:visited {
+        color: white;
         text-decoration: none;
       }
+      a:hover {
+        text-decoration: none;
+        border-bottom: 5px solid white;
+      }
+      a:active {
+        opacity: 0.6;
+      }
+
+
       ul {
         list-style-type: none;
       }
