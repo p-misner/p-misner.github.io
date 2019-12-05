@@ -178,6 +178,12 @@
        <h3> Components</h3>
        <p>The project was broken up into two main components, the XY plotter and the harvester. </p>
        <h4>XY Plotter</h4>
+       <p>The XY plotter found its inspiration in the vertical CNC miller <a href="https://youtu.be/gtJ5Z3phDhs">“The Maslow”</a>. The plotter is based on this machine, but moves our robot rather than a router. First, we started on a smaller scale using a wood frame, motors lent to us by our professor, an arduino and motor driver board we already owned, and cheap slot encoders from Amazon. Our first challenge was designing a working codewheel, as the ones provided with the slot encoders did not work. We iterated and tested several times.</p>
+       <img src="images/placeholder.jpeg" alt="placeholder image" height=200 width=300 >
+       <p>caption: top left: provided encoder. We made the slots larger, which eventually yielded working results (bottom). We also tried using much larger wheels, which could not compensate for small slots that were insufficient to block the light. The clear acrylic was an attempt to sandwich three laser cut pieces, which a rope could sit between. This attempt was doomed from the start, as clear plastic does not block light; even if painted, it was too warped to be useful.</p>
+       <p>After testing with the working encoder wheels, critical precision problems were discovered, even in one dimension (controlling a single motor moving a weight up and down). First, the rope was slipping on the teeth of the encoder wheel, leading to bad readings. This was subtle, and was only noticed when a mark was made on both rope and wheel. After moving between setpoints a few dozen times, a noticeable drift of about an inch was noticed. The more significant problem was more difficult to discover. The control code used a boolean to keep track of the motor direction. The assumption made was that the rope would not move unless the motor pulled it, and since the motor direction was controlled, whether the rope was increasing or decreasing in length would be known. This was necessary, as slot encoders have no way to sense directionality -- they only pulse when interrupted. </p>
+       <p>However, this assumption was wrong. Due to inertia and the DC motor’s discrete positioning, there would be unforeseen small displacements when stopping the motor. These would be recorded incorrectly, causing major sensor error. The solution to the first problem was to capstan the rope (wrap it around the pulley to increase friction). The solution to the second problem was to change encoders to use a quadrature encoder (which can sense directionality), which we did on our larger scale design.</p>
+       <p class="fix">Morgan's VERSION OF WHAT HAPPENS NEXT: The next step of making the XY plotter was using the lessons learned from the wooden mount to transition to a larger mount on the rails of Nolop. Special mounts were printed for this purpose, allowing us to easily scale the size of the XY plotter by changing their positions on the rails. This control system involves measuring out the lengths of the two ropes to calibrate them, as well as the distance between the two motors. The controls operate by the user typing in the horizontal and vertical distance from the leftmost motor in the form XXXX”,YYYY”.</p>
        <h4>Harvester</h4>
        <p>The harvester was made of two different motors, one that controlled rotation and one that controlled the movement of the harvesting arms. The arms were designed to scoop the pots using hooks; these hooks would attach to the loops added to the traditional cups in the hydroponic system. </p>
        <p>The harvester is controlled by a Raspberry Pi that can be accessed using Wifi. This controlled “speaks” to an arduino over serial communications; which controls the positions of the two stepper motors. When controlling the harvester, commands dictate turning the bot to position the arms in alignment with a pot, and moving them up and down. Currently, each command to turn does not turn the bot very far to allow for fine-tuning of the machine.</p>
@@ -189,29 +195,39 @@
        <p>The motor that controlled the rotation was also the connection point between the bot and the XY plotter. A motor sleeve was made to clamp over the D shaped motor shaft, and was designed to have a small lip, allowing for the ropes to be fixed to this point. The weight of the bot allowed for it to be turned without twisting the ropes. The arms are threaded within small shafts that allow for rotation.</p>
        <p> A pulley attached to the shaft of one of the motors allows for the bot to wind the ropes connecting the arms up and therefore raise the arms (the reverse lowers them). There were some problems getting this to function properly, spooling the rope proved challenging, as the off-center placement of the spool meant that the arms came in at an angle. This was solved by adding some rudimentary pulleys to the bot to allow for better alignment. </p>
      
-       <h4> Misc Other Challenges</h4>
+       <!--<h4> Misc Other Challenges</h4>
        <ul>The motor that controlled the rotation was also the connection point between the bot and the XY plotter. A motor sleeve was made to clamp over the D shaped motor shaft, and was designed to have a small lip, allowing for the ropes to be fixed to this point. The weight of the bot allowed for it to be turned without twisting the ropes. The arms are threaded within small shafts that allow for rotation.
          <li> Pots</li>
          <li> Test Appartus</li>
          <li> Cutting PVC</li>
-       </ul>
+       </ul> -->
       </div> 
     </div>
      <div class="row finalresult">
       <div class="twelve column">
        <h3> Final Result</h3>
+       <p class="fix"> Our video will be here</p>
+       <img src="images/placeholder.jpeg">
       </div>
     </div>
      <div class="row future">
       <div class="twelve column">
        <h3> Next Steps/ Future Improvement</h3>
-       <p> In the future, improving the accuracy of the replacement of the harvester would be a huge step towards making this a marketable item. Without replacement, it makes it difficult for this to be a fully useable object. Currently, replacement is tricky and is not easily replicable. </p>
+       <p>In the future, improving the accuracy of the replacement of the harvester would be a huge step towards making this a marketable item. Without replacement of the pots in their holes, it makes it difficult for this to be a fully useable object. Currently, replacement is tricky and is not easily replicable. This is mostly due to the fact that the arms and rotation do not have a great deal of precision, and must be done with incremental adjustments. These adjustments make large movements difficult, but smaller movements more precise.</p>
+       <p>Additionally, to make this scalable, we would like to be able to hold multiple pots at one time. Currently our limit is 2 pots, but we would like to be able to transport more than two at a time. This might involve redesigning the arms or possibly using a net system to catch fully-grown lettuce. This may also involve strengthening the ropes that hold up our bot and lettuce, as well as the connection points to the rails.</p>
+       <p>Lastly, to make this more user friendly, we would like to see if we are able to combine the controls into a single computer interface rather than having multiple inputs between different computers. Ideally some sort of computer or phone application would be ideal, but a single controller operating the two different sections is the goal. </p>
       </div>
     </div>
-     
-     
-     
+       
   </div>
+   <div class="section footer">
+    <div class="row ">
+       <div class="twelve columns">
+         <h4> Thanks for Reading!</h4>
+       </div>
+    </div>
+   
+   </div>
 	
 
 

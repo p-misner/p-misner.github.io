@@ -14,8 +14,6 @@ h2 {
  color: white;
  font-family: 'Overpass',serif;
   text-shadow: 8px 8px 5px rgb(29,58,10);
-
-
 }
 h3{
  
@@ -40,6 +38,10 @@ nav a:hover {
  color: whitesmoke;
  text-decoration: none;
 }
+thead {
+ color: darkblue;
+ background-color: aliceblue;
+}
 
 .hero{
  background-image: url('../images/wiresgreen.png');
@@ -53,8 +55,6 @@ nav a:hover {
 .background {
  margin-top: 2rem;
 }
-
-
 .modelo-wrapper{
  width: 100%; 
  padding-bottom: 56.25%; 
@@ -75,7 +75,10 @@ nav a:hover {
  background-color: red;
  
 }
-thead {
- color: darkblue;
- background-color: aliceblue;
+.footer {
+  background-color: green;
+  margin-left: 0;
+  padding-left: 0;
+  text-align: center;
+  padding: 40px;
 }
