@@ -55,11 +55,9 @@ img {
  margin: auto;
  display: block;
 }
-video {
+.finalvid {
  margin-bottom: 30px;
- background-color: red;
- width:640px; 
- height:480;
+ height:40vh;
 }
 
 .hero{
@@ -109,7 +107,7 @@ video {
   color: white;
 }
 
-#materials, #future , #finalresults, #components{
+#materials, #future , #final, #components{
  text-decoration: none;
 color: black;
 }
