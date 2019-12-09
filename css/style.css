@@ -44,6 +44,24 @@ thead {
  background-color: aliceblue;
 }
 
+th, td {
+text-indent: 10px;
+}
+img {
+ min-height: 100px;
+ height:50vw;
+ width:auto;
+ max-height: 400px;
+ margin: auto;
+ display: block;
+}
+video {
+ margin-bottom: 30px;
+ background-color: red;
+ width:640px; 
+ height:480;
+}
+
 .hero{
  background-image: url('../images/wiresgreen.png');
  background-color: forestgreen;
@@ -76,6 +94,12 @@ thead {
  //background-color: red;
  
 }
+
+.caption {
+ opacity: 0.6;
+ text-align: center;
+ 
+}
 .footer {
   background-color: green;
   margin-left: 0;
@@ -83,4 +107,9 @@ thead {
   text-align: center;
   padding: 40px;
   color: white;
+}
+
+#materials, #future , #finalresults, #components{
+ text-decoration: none;
+color: black;
 }

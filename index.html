@@ -26,10 +26,10 @@
     <div class="row nav">
       <div class="twelve columns">
         <nav >
-          <a href="#">Background</a>
-          <a href="#">Components</a>
-          <a href="#">Final</a>
-          <a href="#">Next Steps</a>
+          <a href="#materials">Materials</a>
+          <a href="#components">Components</a>
+          <a href="#final">Final Result</a>
+          <a href="#future">Next Steps</a>
           
         </nav>
       </div>
@@ -45,160 +45,36 @@
    </div>
    </div>
    <div class="container">
-    <div class="row background">
+    <div id="background" class="row background">
       <div class="twelve columns">
         <h3> Background </h3>
         <p> In this project, we attempted to create something that would harvest hydroponic gardens. Looking at the future, we believe that hydroponic gardens may become necessary to feed the growing population. Most systems are made of small cups placed in rows or pipes that contain water or a water-nutrient mixture. These gardens can grow most types of food, like berries, lettuce and other leafy greens, or herbs. They require little in terms of soil and land, and can be grown vertically. However, the downside is that these vertical gardens cannot be grown higher than the gardener can reach, or how far they can reach on a ladder. Our challenge was to build something that could harvest the small cups and bring them to the gardener, enabling the gardener to plant gardens much taller than they could reach on their own. </p>
       </div>
     </div>
-    <div class="row materials">
-      <div class="twelve columns">
-        <h3> Material List</h3>
-        <p> !!!!!! I will fix the styling on this once we fix the content errors !!!!!!</p>
-        <table class="u-full-width">
-          <thead class="table-title">
-           <tr>
-             <th> Material</th>
-             <th> Amount </th>
-            <th> Cost </th>
-           </tr>
-          </thead>
-         <thead>
-           <tr>
-              <th> Electronics</th>
-              <th></th>
-              <th></th>
-           </tr>
-         </thead>
-          <tbody>
-            <tr>
-              <td> Arduino Uno</td>
-              <td> 1</td>
-              <td> $15</td>
-            </tr>
-           <tr>
-              <td> Arduino Mega</td>
-              <td> 1</td>
-              <td> $18</td>
-            </tr>
-           <tr>
-              <td> Stepper Motors</td>
-              <td> 1</td>
-              <td> $15</td>
-            </tr>
-           <tr>
-              <td> Servo Motors</td>
-              <td> 1</td>
-              <td> $15</td>
-            </tr>
-           <tr >
-              <td>BEMONOC High Torque 24V DC Electric Right Angle Reversible Gear Motor </td>
-              <td> 2</td>
-              <td> $15</td>
-            </tr>
-           <tr >
-              <td> L298N stepper driver</td>
-              <td> 2</td>
-              <td > free</td>
-            </tr>
-           <tr >
-              <td>KNACRO Dual DC Motor Drive Module</td>
-              <td> 2</td>
-              <td > $</td>
-            </tr>
-           <tr >
-              <td>Breadboards</td>
-              <td> 4</td>
-              <td > $</td>
-            </tr>
-           <tr >
-              <td>Dupont headers</td>
-              <td> ~10</td>
-              <td > $</td>
-            </tr>
-           <thead>
-           <tr>
-              <th> Misc</th>
-              <th></th>
-              <th></th>
-           </tr>
-         </thead>
-           <tr>
-              <td> Paracord Rope</td>
-              <td> 60 feet</td>
-              <td class="fix"> $15</td>
-            </tr>
-            <tr>
-              <td> Two by Four Wood</td>
-              <td> ~30 ft</td>
-              <td class="fix"> $15</td>
-            </tr>
-           <tr>
-              <td> Power Source </td>
-              <td> 24 Volts</td>
-              <td class="fix"> $15</td>
-            </tr>
-           <tr>
-              <td> Battery </td>
-              <td> 12 Volts</td>
-              <td class="fix"> $15</td>
-            </tr>
-           <tr>
-              <td> Portable USB Phone Charger </td>
-              <td class="fix"> 5V</td>
-              <td > $15</td>
-            </tr>
-           
-           <thead>
-           <tr>
-              <th> 3D Printed Parts</th>
-              <th></th>
-              <th></th>
-           </tr>
-         </thead>
-           <tr>
-              <td> <a href="#" >Motor Shaft Sleeve</a> </td>
-              <td > 1 </td>
-              <td > --</td>
-           </tr>
-           <tr>
-              <td> <a href="#" >Motor Clamp</a> </td>
-              <td >2 </td>
-              <td > --</td>
-           </tr>
-           <tr>
-              <td> <a href="#" >Rail Mount</a> </td>
-              <td > 2 </td>
-              <td > $15</td>
-           </tr>
-           
-           
-           <tr>
-              <td> <a href="https://youtu.be/p7jbtIbZKwQ">Assorted Lengths of Wire</a></td>
-              <td> 1</td>
-              <td> $15</td>
-            </tr>
-          </tbody>
-        </table>
-      
-      </div>
-    </div>
-    <div class="row ideation">
+    
+    <!--<div class="row ideation">
       <div class="twelve column">
        <h3> Ideation</h3>
       </div>
-    </div>
-    <div class="row components">
+    </div> -->
+    <div  class="row components">
       <div class="twelve columns">
-       <h3> Components</h3>
+       <a id="components"><h3> Components</h3></a>
        <p>The project was broken up into two main components, the XY plotter and the harvester. </p>
        <h4>XY Plotter</h4>
-       <p>The XY plotter found its inspiration in the vertical CNC miller <a href="https://youtu.be/gtJ5Z3phDhs">“The Maslow”</a>. The plotter is based on this machine, but moves our robot rather than a router. First, we started on a smaller scale using a wood frame, motors lent to us by our professor, an arduino and motor driver board we already owned, and cheap slot encoders from Amazon. Our first challenge was designing a working codewheel, as the ones provided with the slot encoders did not work. We iterated and tested several times.</p>
-       <img src="images/placeholder.jpeg" alt="placeholder image" height=200 width=300 >
-       <p>caption: top left: provided encoder. We made the slots larger, which eventually yielded working results (bottom). We also tried using much larger wheels, which could not compensate for small slots that were insufficient to block the light. The clear acrylic was an attempt to sandwich three laser cut pieces, which a rope could sit between. This attempt was doomed from the start, as clear plastic does not block light; even if painted, it was too warped to be useful.</p>
+       <p>The XY plotter found its inspiration in the vertical CNC miller <a href="https://youtu.be/gtJ5Z3phDhs">“The Maslow”</a>. The plotter is based on this machine, but moves our robot rather than a router. First, we started on a smaller scale using a wood frame, motors lent to us by our professor, an arduino and motor driver board we already owned, and cheap slot encoders from Amazon. Our first challenge was designing a working codewheel, as the ones provided with the slot encoders did not work. We iterated and tested several times, as seen in the image below.</p>
+       <img src="images/encoders.png" alt="placeholder image"  >
+       <div class='six column modelo-wrapper'>  
+               <iframe src="https://app.modelo.io/embedded/TwqR-K9LI_?viewport=false&autoplay=false" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> 
+       </div>
+       <p class="caption">The top left encoder next to the quarter was the provided encoder. We made the slots larger, which eventually yielded working results (bottom encoder). We also tried using much larger wheels, which could not compensate for small slots that were insufficient to block the light. The clear acrylic was an attempt to sandwich three laser cut pieces, which a rope could sit between. This attempt was doomed from the start, as clear plastic does not block light; even if painted, it was too warped to be useful.</p>
        <p>After testing with the working encoder wheels, critical precision problems were discovered, even in one dimension (controlling a single motor moving a weight up and down). First, the rope was slipping on the teeth of the encoder wheel, leading to bad readings. This was subtle, and was only noticed when a mark was made on both rope and wheel. After moving between setpoints a few dozen times, a noticeable drift of about an inch was noticed. The more significant problem was more difficult to discover. The control code used a boolean to keep track of the motor direction. The assumption made was that the rope would not move unless the motor pulled it, and since the motor direction was controlled, whether the rope was increasing or decreasing in length would be known. This was necessary, as slot encoders have no way to sense directionality -- they only pulse when interrupted. </p>
        <p>However, this assumption was wrong. Due to inertia and the DC motor’s discrete positioning, there would be unforeseen small displacements when stopping the motor. These would be recorded incorrectly, causing major sensor error. The solution to the first problem was to capstan the rope (wrap it around the pulley to increase friction). The solution to the second problem was to change encoders to use a quadrature encoder (which can sense directionality), which we did on our larger scale design.</p>
-       <p class="fix">Morgan's VERSION OF WHAT HAPPENS NEXT: The next step of making the XY plotter was using the lessons learned from the wooden mount to transition to a larger mount on the rails of Nolop. Special mounts were printed for this purpose, allowing us to easily scale the size of the XY plotter by changing their positions on the rails. This control system involves measuring out the lengths of the two ropes to calibrate them, as well as the distance between the two motors. The controls operate by the user typing in the horizontal and vertical distance from the leftmost motor in the form XXXX”,YYYY”.</p>
+       <p >The next step of making the XY plotter was using the lessons learned from the wooden mount to transition to a larger mount on the rails of Nolop. Special mounts were printed for this purpose, allowing us to easily scale the size of the XY plotter by changing their positions on the rails.</p>
+       <img src="images/placeholder.jpeg">
+       <p class="caption">[Nolop Rail3.STL here. Caption: the Encoder is press fit into the ring; the pulley goes into the smaller hole. Gears connect the two, allowing the encoder to rotate as the pulley does while removing weight from the encoder]</p>
+       <p> This was when the second major hurdle to the XY plotter was encountered. 24V motors with worm gears were selected for their high torque, speed, and low backdrivability. However, finding a motor driver board that could run them was a challenge. Despite the specifications claiming the board could support the voltage and current required, we burned multiple L298N drivers attempting to drive the motors (along with two Arduino Unos, an Arduino Leonardo, a Raspberry Pi, and a USB port (temporarily)). After trial and error with other approaches, the final motor driver board was tested and found to work well. As the deadline closed in, we could finally test our control system.</p>
+       <p>The XY plotter’s control system requires measuring the distance between the two pulleys once. Each time the system is rebooted, the lengths of the two ropes are measured to define the initial placement of the motor. The controls operate by the user typing in the horizontal and vertical distance from the leftmost pully in the form “XXXX YYYY”, where X and Y can be any length of floating point number defining a coordinate system with an origin at the top left pulley. The plotter was successfully controllable and precise, as shown in our demonstration video. </p>
        <h4>Harvester</h4>
        <p>The harvester was made of two different motors, one that controlled rotation and one that controlled the movement of the harvesting arms. The arms were designed to scoop the pots using hooks; these hooks would attach to the loops added to the traditional cups in the hydroponic system. </p>
        <p>The harvester is controlled by a Raspberry Pi that can be accessed using Wifi. This controlled “speaks” to an arduino over serial communications; which controls the positions of the two stepper motors. When controlling the harvester, commands dictate turning the bot to position the arms in alignment with a pot, and moving them up and down. Currently, each command to turn does not turn the bot very far to allow for fine-tuning of the machine.</p>
@@ -208,6 +84,8 @@
        </div>
        
        <p>The motor that controlled the rotation was also the connection point between the bot and the XY plotter. A motor sleeve was made to clamp over the D shaped motor shaft, and was designed to have a small lip, allowing for the ropes to be fixed to this point. The weight of the bot allowed for it to be turned without twisting the ropes. The arms are threaded within small shafts that allow for rotation.</p>
+       <img src="images/spoolsclampsquarter.png" alt="parts for harvestor">
+       <p class="caption">A collection of the 3D parts used in the Harvestor. From the top left, clockwise, pictured are version 1 of the spool, version 2 of the spool, the arm sleeve, and one half of the motor clamp.</p>
        <p> A pulley attached to the shaft of one of the motors allows for the bot to wind the ropes connecting the arms up and therefore raise the arms (the reverse lowers them). There were some problems getting this to function properly, spooling the rope proved challenging, as the off-center placement of the spool meant that the arms came in at an angle. This was solved by adding some rudimentary pulleys to the bot to allow for better alignment. </p>
      
        <!--<h4> Misc Other Challenges</h4>
@@ -218,16 +96,147 @@
        </ul> -->
       </div> 
     </div>
-     <div class="row finalresult">
-      <div class="twelve column">
-       <h3> Final Result</h3>
-       <p class="fix"> Our video will be here</p>
-       <img src="images/placeholder.jpeg">
+    <div class="row materials">
+      <div class="twelve columns">
+      <a id="materials"> <h3> Material List</h3></a>
+        <table class="u-full-width">
+          <thead class="table-title">
+           <tr>
+             <th> Material</th>
+             <th> Amount </th>
+            
+           </tr>
+          </thead>
+         <thead>
+           <tr>
+              <th> Electronics</th>
+              <th></th>
+              
+           </tr>
+         </thead>
+          <tbody>
+            <tr>
+              <td> Arduino Uno</td>
+              <td> 1</td>
+              
+            </tr>
+           <tr>
+              <td> Arduino Mega</td>
+              <td> 1</td>
+              
+            </tr>
+           <tr>
+              <td> Stepper Motors</td>
+              <td> 1</td>
+              
+            </tr>
+           <tr>
+              <td> Servo Motors</td>
+              <td> 1</td>
+              
+            </tr>
+           <tr >
+              <td>BEMONOC High Torque 24V DC Electric Right Angle Reversible Gear Motor </td>
+              <td> 2</td>
+              
+            </tr>
+           <tr >
+              <td> L298N stepper driver</td>
+              <td> 2</td>
+              
+            </tr>
+           <tr >
+              <td>KNACRO Dual DC Motor Drive Module</td>
+              <td> 2</td>
+              
+            </tr>
+           <tr >
+              <td>Breadboards</td>
+              <td> 4</td>
+              
+            </tr>
+           <tr >
+              <td>Dupont headers</td>
+              <td> ~10</td>
+              
+            </tr>
+           <thead>
+           <tr>
+              <th> Misc</th>
+              <th></th>
+              
+           </tr>
+         </thead>
+           <tr>
+              <td> Paracord Rope</td>
+              <td> 60 feet</td>
+              
+            </tr>
+            <tr>
+              <td> Two by Four Wood</td>
+              <td> ~30 ft</td>
+              
+            </tr>
+           <tr>
+              <td> Power Source </td>
+              <td> 24 Volts</td>
+             
+            </tr>
+           <tr>
+              <td> Battery </td>
+              <td> 12 Volts</td>
+              
+            </tr>
+           <tr>
+              <td> Portable USB Phone Charger </td>
+              <td > 5V</td>
+              
+            </tr>
+           
+           <thead>
+           <tr>
+              <th> 3D Printed Parts</th>
+              <th></th>
+              
+           </tr>
+         </thead>
+           <tr>
+              <td> <a  >Motor Shaft Sleeve</a> </td>
+              <td > 1 </td>
+              
+           </tr>
+           <tr>
+              <td> <a  >Motor Clamp</a> </td>
+              <td >2 </td>
+             
+           </tr>
+           <tr>
+              <td> <a  >Rail Mount</a> </td>
+              <td > 2 </td>
+             
+           </tr>
+           
+           
+           <tr>
+              <td> <a href="https://youtu.be/p7jbtIbZKwQ">Assorted Lengths of Wire</a></td>
+              <td> 1</td>
+              
+            </tr>
+          </tbody>
+        </table>
+      
       </div>
     </div>
-     <div class="row future">
+     <div  class="row finalresult">
       <div class="twelve column">
-       <h3> Next Steps/ Future Improvement</h3>
+       <a id="final">"<h3> Final Result</h3></a>
+       <p > A video of our harvester in action!</p>
+       <video src="images/mutedMovie-1.mov" controls ></video>
+      </div>
+    </div>
+     <div  class="row future">
+      <div class="twelve column">
+      <a id="future"> <h3> Next Steps/ Future Improvement</h3></a>
        <p>In the future, improving the accuracy of the replacement of the harvester would be a huge step towards making this a marketable item. Without replacement of the pots in their holes, it makes it difficult for this to be a fully useable object. Currently, replacement is tricky and is not easily replicable. This is mostly due to the fact that the arms and rotation do not have a great deal of precision, and must be done with incremental adjustments. These adjustments make large movements difficult, but smaller movements more precise.</p>
        <p>Additionally, to make this scalable, we would like to be able to hold multiple pots at one time. Currently our limit is 2 pots, but we would like to be able to transport more than two at a time. This might involve redesigning the arms or possibly using a net system to catch fully-grown lettuce. This may also involve strengthening the ropes that hold up our bot and lettuce, as well as the connection points to the rails.</p>
        <p>Lastly, to make this more user friendly, we would like to see if we are able to combine the controls into a single computer interface rather than having multiple inputs between different computers. Ideally some sort of computer or phone application would be ideal, but a single controller operating the two different sections is the goal. </p>
