@@ -64,15 +64,14 @@
        <h4>XY Plotter</h4>
        <p>The XY plotter found its inspiration in the vertical CNC miller <a href="https://youtu.be/gtJ5Z3phDhs">“The Maslow”</a>. The plotter is based on this machine, but moves our robot rather than a router. First, we started on a smaller scale using a wood frame, motors lent to us by our professor, an arduino and motor driver board we already owned, and cheap slot encoders from Amazon. Our first challenge was designing a working codewheel, as the ones provided with the slot encoders did not work. We iterated and tested several times, as seen in the image below.</p>
        <img src="images/encoders.png" alt="placeholder image"  >
-       <div class='six column modelo-wrapper'>  
-               <iframe src="https://app.modelo.io/embedded/TwqR-K9LI_?viewport=false&autoplay=false" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> 
-       </div>
        <p class="caption">The top left encoder next to the quarter was the provided encoder. We made the slots larger, which eventually yielded working results (bottom encoder). We also tried using much larger wheels, which could not compensate for small slots that were insufficient to block the light. The clear acrylic was an attempt to sandwich three laser cut pieces, which a rope could sit between. This attempt was doomed from the start, as clear plastic does not block light; even if painted, it was too warped to be useful.</p>
        <p>After testing with the working encoder wheels, critical precision problems were discovered, even in one dimension (controlling a single motor moving a weight up and down). First, the rope was slipping on the teeth of the encoder wheel, leading to bad readings. This was subtle, and was only noticed when a mark was made on both rope and wheel. After moving between setpoints a few dozen times, a noticeable drift of about an inch was noticed. The more significant problem was more difficult to discover. The control code used a boolean to keep track of the motor direction. The assumption made was that the rope would not move unless the motor pulled it, and since the motor direction was controlled, whether the rope was increasing or decreasing in length would be known. This was necessary, as slot encoders have no way to sense directionality -- they only pulse when interrupted. </p>
        <p>However, this assumption was wrong. Due to inertia and the DC motor’s discrete positioning, there would be unforeseen small displacements when stopping the motor. These would be recorded incorrectly, causing major sensor error. The solution to the first problem was to capstan the rope (wrap it around the pulley to increase friction). The solution to the second problem was to change encoders to use a quadrature encoder (which can sense directionality), which we did on our larger scale design.</p>
        <p >The next step of making the XY plotter was using the lessons learned from the wooden mount to transition to a larger mount on the rails of Nolop. Special mounts were printed for this purpose, allowing us to easily scale the size of the XY plotter by changing their positions on the rails.</p>
-       <img src="images/placeholder.jpeg">
-       <p class="caption">[Nolop Rail3.STL here. Caption: the Encoder is press fit into the ring; the pulley goes into the smaller hole. Gears connect the two, allowing the encoder to rotate as the pulley does while removing weight from the encoder]</p>
+       <div class='six column modelo-wrapper'>  
+               <iframe src="https://app.modelo.io/embedded/TwqR-K9LI_?viewport=false&autoplay=false" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> 
+       </div>
+       <p class="caption">The encoder is press fit into the ring; the pulley goes into the smaller hole. Gears connect the two, allowing the encoder to rotate as the pulley does while removing weight from the encoder]</p>
        <p> This was when the second major hurdle to the XY plotter was encountered. 24V motors with worm gears were selected for their high torque, speed, and low backdrivability. However, finding a motor driver board that could run them was a challenge. Despite the specifications claiming the board could support the voltage and current required, we burned multiple L298N drivers attempting to drive the motors (along with two Arduino Unos, an Arduino Leonardo, a Raspberry Pi, and a USB port (temporarily)). After trial and error with other approaches, the final motor driver board was tested and found to work well. As the deadline closed in, we could finally test our control system.</p>
        <p>The XY plotter’s control system requires measuring the distance between the two pulleys once. Each time the system is rebooted, the lengths of the two ropes are measured to define the initial placement of the motor. The controls operate by the user typing in the horizontal and vertical distance from the leftmost pully in the form “XXXX YYYY”, where X and Y can be any length of floating point number defining a coordinate system with an origin at the top left pulley. The plotter was successfully controllable and precise, as shown in our demonstration video. </p>
        <h4>Harvester</h4>
@@ -201,17 +200,17 @@
            </tr>
          </thead>
            <tr>
-              <td> <a  >Motor Shaft Sleeve</a> </td>
+              <td> Motor Shaft Sleeve </td>
               <td > 1 </td>
               
            </tr>
            <tr>
-              <td> <a  >Motor Clamp</a> </td>
+              <td> Motor Clamp </td>
               <td >2 </td>
              
            </tr>
            <tr>
-              <td> <a  >Rail Mount</a> </td>
+              <td>Rail Mount </td>
               <td > 2 </td>
              
            </tr>
@@ -229,9 +228,9 @@
     </div>
      <div  class="row finalresult">
       <div class="twelve column">
-       <a id="final">"<h3> Final Result</h3></a>
+       <a id="final"><h3> Final Result</h3></a>
        <p > A video of our harvester in action!</p>
-       <video src="images/mutedMovie-1.mov" controls ></video>
+       <iframe class="finalvid" src="https://www.youtube.com/embed/yaHtSANjqb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
      <div  class="row future">
