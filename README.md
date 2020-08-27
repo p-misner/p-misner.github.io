@@ -1,1 +1,1 @@
-# redirects to [www.priyamisner.com]www.priyamisner.com
+# redirects to www.priyamisner.com
