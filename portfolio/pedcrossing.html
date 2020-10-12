@@ -1,0 +1,121 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Priya Misner</title>
+
+		<!-- <link rel="stylesheet" href="./cssreset.css"> -->
+		<link rel="stylesheet" href="../portfolio.css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,600|Inconsolata:400,600,800" rel="stylesheet">
+	</head>
+
+	<body>
+
+	 <div class="content">
+
+		<a href="./index.html">  <div class="backarrow"> </div></a>
+		<h1 > Pedestrian Crossing Comfortability  </h1>
+		<h2 > A pedestrian experience simulation and data collection research project  </h2>
+		<h3 > Introduction </h3>
+
+		<p > As part of a research seminar on autonomous systems, I worked in a group of three to design and implement an experiment evaluating the comfort levels of pedestrians in crossing the road at any given time. We looked into how the pedestrian's comfort levels changed in response to their distance from oncoming traffic and in response to different types of vehicles (large, small, autonomous, manual). </p> 
+		<p> Along with designing the experiment, I was responsible for creating a simulation in Unity that modeled a two lane road where cars drove past a pedestrian and analyzing the data. My group partners conducted the literature review, created the demographic survey and 3D printed a dial that fit over a potentiometer </p>
+		<h3 > Research Goal </h3>
+		<p>The research seminar focused on how autonomous vehicles will change human-vehicle interaction moving forward. Our group decided to look deeper into the question of how autonomous vehicles might affect pedestrian-vehicle interaction.  </p>
+		<p> <span class="oul">Goal:</span> Gather data on how the presence of an autonomous vehicle affects a pedestrian's comfortability when crossing the road in comparison to other vehicle types.</p>
+		
+		<h3> Variables </h3>
+		<div class="vrlist full"> 
+			<h5> Independent Variables</h5>
+			<ul> 
+				<li> Speed of Vehicle </li>
+				<ul>
+					<li>Fast vs Slow</li>
+				</ul>
+				<li> Size of Vehicle </li>
+				<ul>
+					<li>Passenger Vehicle vs Bus</li>
+				</ul>
+				<li> Automation Category </li>
+				<ul>
+					<li>Manual vs Autonomous</li>
+				</ul>
+			</ul>
+		</div>
+		<div class="vrlist full"> 
+			<h5> Dependent Variables</h5>
+			<ul> 
+				<li> Percieved Safety Level/ Comfort of Crossing</li>
+				<ul>
+					<li>Indicated by Dial Position</li>
+					<li>Indicated by Dial Turn Speed</li> 
+				</ul>
+				
+			</ul>
+		</div>
+
+		<div class="vrlist full"> 
+			<h5> Potential External Variables</h5>
+			<ul> 
+				<li> Multiple experimenters </li><li> Administering on different displays or screen brightnes </li> <li>  Different environmental settings during experiment </li> <li> Participant demographics</li>
+				
+				
+			</ul>
+		</div>
+
+		
+
+
+		<h3> Methods + Simulation </h3>
+		<p> Ten participants were recruited for this experiment; the majority were students in the Mechanical Engineering department. The experiment is a within-subjects design, meaning that each participant experienced each experimental condition. Specifically, each participant was exposed to no fewer than three of each simulated car type over 18 cars. The cars range in size, speed, and type (autonomous, non-autonomous). Two different versions of the videos were created to add randomization and account for unforseen confounds.</p>
+		<p> Prior to starting the video, participants read through a page of instructions detailing an interpretation of the dial and how it should be used, that they can say "pause" or "stop" at any time and that cars of a red color signified autonomous vehicles. After watching the full simulation, the experimenter saved the data to their computer and distributed a post-questionnaire to the participant. The post questionnaire aims to gather demographic information of each participant, as well as some further questions related to their experience watching the simulation.</p>
+		<video width="640" height="240" controls src="../images/pedcrossing/Cars_VersionB.mov" >Your browser does not support the video tag.</video>
+
+		<p>I created a customizable driving simulation using the Unity game engine that generated vehicles in a roadway while allowing vehicle appearance, vehicle speed and the driving environment to be  changed. During the 8 minute simulation, 18 cars appeared (three cases for each dependent variable, with the remainder a control). Only one car appeared on the road at a time with a short gap between one car exiting the environment and the next car appearing. While initially the simulation worked inside an Oculus Rift, it was easier recruit study participants if I saved the simulation as a video and played it on my personal laptop.
+		</p>
+		<h3>Data Collection</h3>
+		  <div class="imggroup">
+		 	<img id="user" src="../images/pedcrossing/users.png" alt="image of experiment in progress"> 
+		 </div>
+		 <p> </p>
+		 <p> To get a more nuanced view on users road crossing comfort, we gave participants a dial that they twisted from green to red to indicate their comfort. The dial (which was designed and 3D printed by another group member) was mounted on a potentiometer which was attached to an Arduino that recorded the dial's position ten times a second. After the car completely drove out of the screen, the particpant was instructed to turn the dial back to the start of the green area. </p>
+
+		 
+		 <h3>Raw Data </h3>
+		 <div class="imggroup">
+		 	<img id="user" src="../images/pedcrossing/speed.png" alt="image of speed graph"> 
+		 </div>
+		 <p class="caption">Figure 1: Position of Dial (in Dial Resistance) vs Time</p>
+		 <div class="imggroup">
+		 	<img id="user" src="../images/pedcrossing/velocity.png" alt="image of speed graph"> 
+		 </div>
+		  <p class="caption">Figure 2: Velocity of Dial Turn (in Degrees per Second) vs Time. Values below zero were excluded</p>
+		 
+		 <p>When the dial is completely to the right in the green area, it means the participant feels completely okay to cross the street. Conversely, when the dial is in the red area, the particpant would one hundred not cross the road. The resistance of a potentiometer correlates directly with the position of knob on top of the potentiometer. When the resistance reads about 1100 Ω, the dial is turned all the way to the right (green area) and when the resistance is 0 Ω, the dial is turned to its left most position (red area).   </p>
+		 <p> Thus, what Figure 1 represents is how comfortable the participant feels comfortable crossing the road from the time the vehicle first appears for all 18 vehicles in the simualtion. Glancing at the graph, it appears that fast car (labeled B) and the bus (labeled D) cause the user to react differently from the normal-speed, normal-size car (labled A). </p>
+		 <p> Another way to analyze how safe a particpant felt was the rate at which they turned the dial shown in Figure 2. The faster the dial was turned indicates that the person transitioned from comfortable to not comfortable in a shorter time frame.</p>
+
+		  
+		 <h3> Survey Results </h3>
+		 <div class="imggroup">
+		 	<img id="user" src="../images/pedcrossing/sizematters.png" alt="image of speed graph"> 
+		 </div>
+		 <p class="caption">Figure 3: "The size of the vehicle matters" in how comfortable the pedestrian is to crossing</p>
+		 <div class="imggroup">
+		 	<img id="user" src="../images/pedcrossing/speedmatters.png" alt="image of speed graph"> 
+		 </div>
+		 <p class="caption">Figure 4: "The speed of the vehicle matters" in how comfortable the pedestrian is to crossing</p>
+		 <div class="imggroup">
+		 	<img id="user" src="../images/pedcrossing/avmatters.png" alt="image of speed graph"> 
+		 </div>
+		 <p class="caption">Figure 5: “I generally feel more comfortable in crossing a road with a non AV in sight, than with an AV in sight" when crossing</p>
+
+		 <p> Participants were given a post-questionaire after they finished watching the simulation. The survey was used to gather demographic information, the particpant's opinions on autonomous vehicles as well as which vehicle variable (size, speed, automation level) affected their comfortability the most.  </p>
+
+		 <h3>Conclusion</h3>
+		 <p>The responses observed in the post questionnaire indicated that speed and size do play an important role in pedestrian crossing decision with the opinions on automation level being more mized. While some of the data appeared promising, the data from the simulation testing did not prove with any statistical significance that these factors affected pedestrian's comfortability. Due to the short wait time between vehicles appearing, the presence of a high-speed vehicle affected the pedestrian's comfortability on the next vehicle. Thus, the simulation data seemed to speak more to the particpant's overall comfortablility with the simulation than in regards to specific vehicle traits. Future improvements to this experiemnt could include higher wait tiemes between vehicles, slower overall speeds and perhaps a more immersive simualtion (i.e using an Oculus Rift rather than a laptop). </p>
+
+
+	 	</div>
+	</body>
+</html>

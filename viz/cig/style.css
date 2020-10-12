@@ -1,0 +1,227 @@
+body {
+    font-family:'Futura','Hind', sans-serif;
+  background-image: url(images/backgrounds/crazycolor.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: 0;
+  overflow-x: hidden;
+
+}
+h1 {
+  font-size: 4em;
+  text-transform: lowercase;
+  display: block;
+  clear: both;
+  margin-right: 6vw;
+  margin-top: 20vh;
+  margin-left: 70px;
+  margin-bottom: 20vh;
+  text-align: right;
+
+}
+
+.articles {
+  margin: 15px;
+  text-align: right;
+  min-height: 500px;
+}
+.headline {
+  padding: 2px;
+  font-size:1.6em;
+  width: 30vw;
+  height: 150px;
+  opacity: 0.2;
+  float: left;
+}
+a {
+  width: 300px;
+
+}
+a:link {
+  color: black;
+
+
+}
+a:visited {
+  color:#34343f;
+
+}
+a:hover {
+opacity: 0.6
+}
+
+#cereal {
+  opacity: 0.4;
+  width: 600px;
+  position: relative;
+  top: -60px;
+}
+#napkins {
+  opacity: 0.6;
+  width: 700px;
+  position: relative;
+  top: -40px;
+  left: 200px;
+}
+#work {
+  opacity: 0.4;
+  width: 600px;
+  position: relative;
+  left: 20vw;
+}
+#home {
+  opacity: 0.6;
+  width: 800px;
+  position: relative;
+
+}
+#department {
+  opacity: 0.3;
+  width: 800px;
+  position: relative;
+  top: -50px;
+  left: 400px
+}
+#marriage {
+  opacity: 0.2;
+  width: 500px;
+  position: relative;
+  left: 50px;
+}
+#smartphones {
+  opacity: 0.3;
+  width: 400px;
+  position: relative;
+  top: -350px;
+    left: 150px;
+}
+#genz {
+  opacity: 0.7;
+  width: 600px;
+  position: relative;
+}
+#grim {
+  opacity: 0.05;
+  width: 1000px;
+  position: relative;
+}
+#tipping {
+  opacity: 0.68;
+  width: 700px;
+  position: relative;
+  top: -90px;
+}
+
+.graph {
+  min-height: 400px;
+  margin-right: 6vw;
+}
+svg {
+  background:none;
+  width:500px;
+  height:400px;
+  margin-left: 100px;
+  float: right;
+  transform: scale(1.3, 1.3)
+}
+.area {
+  opacity: 0.9;
+  fill: url(#temperature-gradient);
+}
+circle {
+  fill: whitesmoke;
+  opacity: .5;
+}
+.xaxis, .yaxis {
+  font-family: Avenir;
+  fill: black;
+  clear: right;
+}
+#controls {
+        background-color: none;
+        padding: 10px;
+        float:right;;
+        width: 300px;
+
+      }
+.buttons {
+  border-color: black;
+  border-style: solid;
+  border-width: .5px;
+  border-radius: 5px;
+  background-color: #00F3AB;
+  color: black;
+  margin: 3px;
+}
+.spacer {
+  height: 100px;
+}
+
+b {
+  font-size: 4em;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  height: 90px;
+  margin-right:20px;
+}
+span {
+  display: inline-block;
+  color: purple;
+  position: relative;
+  white-space: nowrap;
+  top: 0;
+  left: 0;
+  animation: move 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 3s;
+  overflow-y: hidden
+}
+.rotate {
+  text-align: right;
+
+}
+
+
+#cigcontrols {
+  fill: black;
+  height: 190px;
+  background-color: transparent;
+}
+
+#cigcontrols button{
+  background-color: transparent;
+  font-size: "1em";
+
+}
+
+#ciguse {
+margin-right: 10%;
+}
+
+#smokeless {
+  margin-top: 200px;
+  margin-right: 10%;
+  clear: right;
+}
+
+
+@keyframes move {
+0%  { top: 0px; }
+20% { top: -85px; }
+40% { top: -170px; }
+60% { top: -255px; }
+80% { top: -340px; }
+}
+
+@media only screen and (min-width:1000px ){
+  .rotate {
+    margin-left: 10%;
+  }
+  #cigcontrols {
+    width: 70vw;
+      margin-left: 200px;
+  }
+}
+
+

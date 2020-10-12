@@ -1,26 +1,218 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" >
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="refresh" content="0; URL=https://www.priyamisner.com" /> 
-  <title>Priya Misner</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Priya Misner</title>
+	<link rel="stylesheet" href="./cssreset.css">
+	<link rel="stylesheet" href="./style.css">
+	<!-- <link href="https://fonts.googleapis.com/css?family=Kanit|Montserrat&display=swap" rel="stylesheet"> -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,600|Inconsolata:400,600,800,900" rel="stylesheet">
 
-   <!-- Favicon -->
-  <!-- <link rel="icon" type="image/png" href="images/favicon.png"> -->
 
- 
 </head>
+<script src="index.js"></script>
+<body onload="firstSlide()">
+<div>
+	<div id="mySidenav" class="sidenav">
+		<a href="javascript:void(0)" id="closebtn" onclick="closeNav()">&times;</a>
+		<a href="#about">About</a>
+		<a href="#workExp">Experience</a>
+		<a href="#fulb">Fulbright</a>
+		<a href="#port">Portfolio</a>
+		<a href="#cont">Contact</a>
+	</div>
+	<div class="hamburger" onclick="openNav()">
+		<svg viewBox="0 0 20 20"  >
+			<rect x="0" y="0" width="100%" height="3px" fill="blue"/>
+			<rect x="0" y="7" width="100%" height="3px" fill="blue"/>
+			<rect x="0" y="14" width="100%" height="3px" fill="blue"/>
 
-  <body>
-   <h1> redirect to <a href="www.priyamisner.com">www.priyamisner.com</a> </h1>
+		</svg>
+	</div>
+	<div class="hero">
+		<h1> Hi there. </h1>
+		<h1>I'm Priya.</h1>
+		<h2> An aspiring engineer and designer</h2>
+	</div>
+	<div class="about" id="about">
+		<h3> About me</h3>
+		<p>I'm a recent graduate of Tufts University with a BS in Mechanical Engineering and recipent of the 2020-21 Fulbright-Nehru Student Research Fellowship to study road safety in India. Due to COVID-19, the fellowship has been postponed to January 2021 and am currently looking for opportunities in transportation for Fall 2020.  </p>
+		<p>  I'm excited about the intersection between art and science. Currently, my interests lie in transportation, navigation and data visualization with a focus on human-centered design. To see examples of my work, check out my portfolio. </p>
+		<p> Want to get in touch? Contact me at <span class="email"><script>document.write('<'+'a'+''+'h'+'r'+'e'+'f'+'='+"'"+'m'+'&'+'#'+'9'+'7'+';'+'i'+'l'+'t'+'o'+'&'+'#'+'5'+'8'+';'+'p'+'%'+'7'+'&'+'#'+'5'+'0'+';'+'%'+'6'+'&'+'#'+'5'+'7'+';'+'y'+'a'+'m'+'&'+'#'+'1'+'0'+'5'+';'+'s'+'%'+'&'+'#'+'5'+'4'+';'+'E'+'&'+'#'+'1'+'0'+'1'+';'+'r'+'%'+'4'+'0'+'g'+'&'+'#'+'3'+'7'+';'+'6'+'&'+'#'+'6'+'8'+';'+'&'+'#'+'9'+'7'+';'+'&'+'#'+'1'+'0'+'5'+';'+'&'+'#'+'3'+'7'+';'+'6'+'C'+'&'+'#'+'4'+'6'+';'+'c'+'o'+'m'+"'"+'>'+'p'+'r'+'i'+'y'+'a'+'&'+'#'+'1'+'0'+'9'+';'+'i'+'s'+'n'+'&'+'#'+'1'+'0'+'1'+';'+'&'+'#'+'1'+'1'+'4'+';'+'&'+'#'+'6'+'4'+';'+'g'+'m'+'a'+'i'+'l'+'&'+'#'+'4'+'6'+';'+'&'+'#'+'9'+'9'+';'+'o'+'m'+'<'+'/'+'a'+'>');</script><noscript>[Turn on JavaScript to see the email address]</noscript></span></p>
+	</div>
+	<div class="workExperience" id="workExp">
+		<h3>work experience</h3>
+		<div class="workNav">
+			<ul>
+				<li onclick="workChange(1)"> <a >volpe</a></li>
+				<li onclick="workChange(2)"> <a>tufts</a></li>
+				<li onclick="workChange(3)"> <a>ams</a></li>
+				<li onclick="workChange(4)"> <a>dolby</a></li>
+			</ul>
+		</div>
+		<div class="workDescrip">
+				<div id="one">
+					<h4>Research Intern</h4>
+					<h4 class="orange">@Volpe National Transportation Systems Center</h4>
+					<h6>jun - aug 2019</h6>
+					<h5>Human Factors Group</h5>
+						<ul>
+							<li>	○ Coded entire human factors driving simulation for upcoming study on spatial awareness at railway crossings</li>
+							<li>	○ Ran study participants through human factor studies in the driving simulator and conducted user interviews</li>
+						</ul>
+					<h5>Aviation Group</h5>
+						<ul>
+							<li>	○ Created MATLAB application to analyze navigation data for GPS replacement and backup devices</li>
+						</ul>
+				</div>
+				<div class="hidden" id="two">
+				<h4>Research Assistant</h4>
+					<h4 class="orange">@Tufts University</h4>
+					<h6>aug 2019- present</h6>
+					<h5>Virtual Reality Driving - Human Factors Lab</h5>
+						<ul>
+							<li>	○ Coding a virtual reality driving simulator to study the effects of augmented reality cues on driver vigilance in autonomous vehicles</li>
+							<li>	○ Contributing to study design and drafting Institutional Review Board (IRB) proposal </li>
+							<li>○ Managing four other research assistants and leading weekly check-in meetings for the project</li>
+						</ul>
+					<h5>UrbanismX Research Group</h5>
+						<ul>
+							<li>○ Developing data visualization dashboard using React and Kepler.gl to visualize nationwide commuting and transit data </li>
+						</ul>
+				</div>
+
+				<div class="hidden" id="three">
+					<h4> Intern</h4>
+					<h4 class="orange"> @Autonomous Marine Systems</h4>
+					<h6> feb - may 2018</h6>
+						<ul>
+							<li>○ Dimensioned Solidwork CAD models to send to the fabricators and worked in machine shop</li>
+							<li>○ Designed data visualization dashboard to analyze data coming off the drone’s sensors</li>
+							<li>○ Produced functional mockups of drone’s location and health on a map using d3.js</li>
+						</ul>
+				</div>
+				<div class="hidden" id="four">
+					<h4> Hardware QA Intern</h4>
+					<h4 class="orange"> @Dolby Laboratories</h4>
+					<h6> may - aug 2017</h6>
+						<ul>
+							<li>○ Executed tests on network and Bluetooth limitations using iPerf and other network performance software </li>
+							<li>○ Programmed Arduinos and worked in python to implement a fan servo controlling the heating and cooling systems of the device</li>
+
+						</ul>
+				</div>
+		</div>
+	</div>
+	<div class="about" id="fulb">
+		<h3> Fulbright-Nehru Fellowship</h3>
+		<p>I've recently been awarded a Fulbright Fellowship, an international research and exchange fellowship funded by the US Department of State, to study virtual reality and road safety in India. Due to Covid-19, the program has been delayed but is set to begin in January 2021. </p>
+		<p>  Despite having only two percent of the world's vehicles, over ten percent of global traffic fatalaties occur in India. Of these, twenty-six percent of road crash fatalities involve Heavy Commercial Vehicles. Even among drivers aware of road laws, adherence to the laws are limited with drivers viewing them more as suggestions than strict rules.  While educating drivers on current road safety laws is essential, another critical component of improving driver behavior is changing perceptions on the importance of following laws.</p>
+		<p> Over the one-year fellowship, I plan on exploring the effectiveness of using interactive virtual reality driving simulations to increase driver’s awareness of basic road laws and further, improve driver’s desire to follow the laws. I will be working with the SaveLIFE Foundation’s Anticipatory Driving and Accident Prevention Training Program and Weave Lab at IIIT-Delhi to develop a series of virtual reality simulations and data visualizations of common hazardous driving situations encountered by commercial drivers. </p>
+
+		<div class="issues">
+			<h4> Tufts Press Release </h4>
+			<p> Interested in hearing more about the project and my motivations, check out Tufts Mechanical Engineering Department's 
+			<a href="https://engineering.tufts.edu/news/2020/05/safer-driving">profile</a> on me and the project. </p>
+			
+		</div>
+	</div>
+	<div class="portfolio" id="port">
+		<h3> portfolio</h3>
+			<div class="slideshow-container">
+				<!-- Full-width images with number and caption text -->
+				<div class="mySlides fade">
+					<div class="portfolio1">
+							<h1 class="num">01</h1>
+							<h4><a class="orange" href="./portfolio/vrdriving.html" style="color:orange"> VR Driving Simulator</a></h4>
+							<p> <a href="./portfolio/vrdriving.html">a customizable high fidelity virtual reality driving simulator built in Unity </a></p>
+							<div id="slideimg1"></div>
+							<svg  viewBox="0 0 365.55 242.37">
+									<path d="M0,0V242.37H365.55V0ZM347.27,224.46h-329V17.91h329Z"/>
+							</svg>
+						</div>
+				</div>
+				<div class="mySlides fade">
+					<div class="portfolio1">
+							<h1 class="num">02</h1>
+							<h4><a class="orange" href="./portfolio/trebuchet.html"> Side Guards Trebuchet</a></h4>
+							<p> <a href="./portfolio/trebuchet.html">a crash dummy launching  trebuchet built to demonstrate the efficacy of side guards on trucks</a></p>
+							<div id="slideimg2"></div>
+
+							<svg  viewBox="0 0 365.55 242.37">
+									<path d="M0,0V242.37H365.55V0ZM347.27,224.46h-329V17.91h329Z"/>
+							</svg>
+					</div>
+				</div>
+				
+				<div class="mySlides fade">
+					<div class="portfolio1">
+							<h1 class="num">03</h1>
+							<h4><a class="orange" href="./portfolio/pedcrossing.html"> Pedestrian Crossing Comfort</a></h4>
+							<p> <a href="./portfolio/pedcrossing.html">a pedestrian experience simulation and data collection research project </a></p>
+							<div id="slideimg3"></div>
+
+							<svg  viewBox="0 0 365.55 242.37">
+									<path d="M0,0V242.37H365.55V0ZM347.27,224.46h-329V17.91h329Z"/>
+							</svg>
+					</div>
+				</div>
+				<div class="mySlides fade">
+						<div class="portfolio1">
+							<h1 class="num">04</h1>
+							<h4><a class="orange" href="./robotics/sumo.html"> Robotics</a></h4>
+							<p> <a href="./robotics/sumo.html">a collection of robots built using Lego Mindstorms during Spring 2020 </a></p>
+
+							<div id="slideimg4"></div>
+							<svg  viewBox="0 0 365.55 242.37">
+									<path d="M0,0V242.37H365.55V0ZM347.27,224.46h-329V17.91h329Z"/>
+							</svg>
+						</div>
+				</div> 
+				<div class="mySlides fade">
+						<div class="portfolio1">
+							<h1 class="num">05</h1>
+							<h4><a class="orange" href="./portfolio/visualization.html"> Data Visualization</a></h4>
+							<p> <a href="./portfolio/quarantine.html">a chronological collection of visualizations created during college and beyond  </a></p>
+
+							<div id="slideimg5"></div>
+							<svg  viewBox="0 0 365.55 242.37">
+									<path d="M0,0V242.37H365.55V0ZM347.27,224.46h-329V17.91h329Z"/>
+							</svg>
+						</div>
+				</div> 
+				
+
+
+				<!-- Next and previous buttons -->
+				<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+				<a class="next" onclick="plusSlides(1)">&#10095;</a>
+			</div>
+			<br>
+
+			<!-- The dots/circles -->
+			<div style="text-align:center">
+				<span class="dot" onclick="currentSlide(1)"></span>
+				<span class="dot" onclick="currentSlide(2)"></span>
+				<span class="dot" onclick="currentSlide(3)"></span>
+				<span class="dot" onclick="currentSlide(4)"></span>
+				<span class="dot" onclick="currentSlide(5)"></span>
+
+
+
+			</div>
+	</div>
 	
+	<div class="contact" id="cont">
+		<div class="srow">
+			<a href="https://www.linkedin.com/in/priyamisner"><div class="social linkedin"></div></a>
+			<a href="mailto:priyamisner@gmail.com"><div class="social mail"></div></a>
+			<a href="https://github.com/p-misner"><div class="social github"></div></a>
+		</div>
+	</div>
 
+</div>
 
-
-  </body>
-
-
-
+</body>
 
 </html>

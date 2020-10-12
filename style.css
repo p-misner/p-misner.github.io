@@ -1,0 +1,588 @@
+@media only screen and (min-width: 1px) {
+	body {
+		font-family: 'Montserrat', sans-serif;
+		overflow-x: hidden;
+		overflow-y:visible;
+	}
+	.hero {
+		text-align: left;
+		margin-top: 250px;
+		margin-bottom: 250px;
+	}
+
+
+	h1,h2,h3 {
+		font-family: 'Inconsolata';
+		color: blue;
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	h1 {
+		font-family: 'Inconsolata';
+		font-weight: 600;
+		text-transform: capitalize;
+		font-size: 4em;
+		font-weight: 700;
+		padding: 0;
+		margin: 0;
+	}
+	h2 {
+		text-transform: lowercase;
+		font-size: 2.5em;
+		margin-top: 0;
+		font-weight: 100;
+	}
+	h3{
+		font-size: 2.5em;
+		text-transform: lowercase;
+		font-weight: 800;
+	}
+	h4 {
+		font-size: 20px;
+		font-weight: 700;
+		color: white;
+		margin-top:3px;
+	}
+	h6 {
+		font-size: 1em;
+		opacity: 0.6;
+		/*margin-bottom: 10px;*/
+	}
+	h5 {
+		font-family: 'Inconsolata';
+		font-weight: 900;
+		font-size: 18px;
+	}
+	ul {
+		list-style:disc outside none;
+	}
+	p {
+		color: blue;
+		font-size: 1.4em;
+		margin-bottom: 20px;
+	}
+	span {
+		color: orange;
+	}
+
+	.hero,.about, .portfolio,.workExperience h3,.workExperience ul, .workExperience p,.workDescrip,.contact  {
+		margin-left: 5%;
+		margin-right:5%;
+		max-width: 1000px;
+	}
+	
+	.workExperience{
+		width:102vw;
+		color: white;
+		background-color: rgba(3,35,224,1);
+		z-index: 1;
+		margin-top: 120px;
+		margin-bottom: 40px;
+		padding-top:90px;
+		padding-bottom: 120px;
+	}
+	
+	.workExperience h3, .workExperience p {
+		color: white;
+	}
+	.workExperience h4,.workExperience h5, .workExperience h6 {
+		font-size: 1.7em;
+		margin: 2px;
+		font-family: Inconsolata,serif;
+	}	
+	.workExperience h5 {
+		font-size: 1.4em;
+	}
+	.workExperience h6 {
+		margin-bottom: 40px;
+		font-size: 1.4em;
+	}
+	.workExperience .orange {
+		color: orange;
+		font-size: 1.7em;
+		padding: 0px;
+		margin: 0px;
+	}
+	.workNav {
+		margin-left: -40px;
+		font-size: 1.4em;
+		margin-bottom: 40px;
+		margin-top: -10px;
+	}
+	.workNav li {
+		opacity: 0.6;
+		display: inline-block;
+		padding-right: 40px;
+	}
+	.workNav li:hover, .workNav li:active {
+		border-bottom: 3px solid white;
+	}
+	.hidden{
+		display: none;
+	}
+	/*.workDescrip {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		padding-bottom: 20px;
+		margin-left: 5%;
+		margin-right: 5%;
+	}*/
+	.workDescrip ul {
+		margin-left: 20px;
+		padding-left: 0px;
+
+	}
+	.workDescrip li {
+		color:white;
+		display: block;
+		font-size: 1.3em;
+		margin-bottom: 10px;
+	}
+	li a, li a:link, li a:visited {
+		color: white;
+		text-decoration: none;
+	}
+	li a:hover{
+		opacity: 0.6;
+	}
+	
+	.portfolio h3 {
+		color:blue;
+		position: relative;
+		margin-top: 70px;
+		margin-bottom: 70px;
+	}
+	.num {
+		font-family: "futura";
+		color:blue;
+		position: relative;
+		top:100px;
+		left: 8%;
+		font-size: 8em;
+	}
+	#slideimg1 {
+		background-image: url("./images/airsim/setup.png");
+		transform: scale(1.1);
+	}
+	#slideimg2 {
+		background-image: url("./images/trebuchetcover.png");
+	}
+	#slideimg3 {
+		background-image: url("./images/pedcover.png")
+	}
+	#slideimg4{
+		background-image: url("./images/roboticscover.png");
+	}
+	#slideimg5 {
+		background-image: url("./images/visualizations/poissoncover.png");
+	}
+
+	#slideimg1, #slideimg2, #slideimg3, #slideimg4, #slideimg5 {
+		background-color:none;
+		background-repeat: no-repeat;
+		background-position: center; /* Center the image */
+		background-size: contain;
+		position: relative;
+		width: 70vw;
+		height: 300px;
+		top: -310px;
+		left: 56px;
+		z-index: -2;
+	}
+	.portfolio svg {
+		visibility: hidden;
+		fill: blue;
+		opacity: 0.4;
+		/*position: relative;*/
+		/*top: 0px;
+		left: 50px;*/
+		width: 70%;
+		height: 30%;
+		max-width: 700px;
+		z-index: -1;
+	}
+	.portfolio h4 {
+		color: #ffa500;
+		position: relative;
+		top: 200px;
+		left: 30px;
+		font-size: 2em;
+		text-decoration: underline ;
+		text-decoration-color: blue;
+		max-width: 85vw;
+		text-indent: -20px;
+	}
+	.portfolio p {
+		position: relative;
+		top: 180px;
+		left: 30px;
+		text-indent: -30px;
+		/*max-width:85vw;;*/
+
+	}
+	.portfolio a {
+		z-index: 10;
+		margin-left: 20px;
+
+
+	}
+	.portfolio h4 a:visited {
+		color: orange;
+		/*color: #ffa500;*/
+		text-decoration-color: blue;
+	}
+	.portfolio p a:visited {
+		color: blue;
+		text-decoration-color: antiquewhite;
+	}
+	.portfolio h4 a:hover {
+		opacity: 0.6;
+	}
+	.portfolio a {
+		text-decoration: none;
+	}
+	
+	.hamburger {
+		position: fixed;
+		right: 60px;
+		top: 60px;
+		width: 40px;
+		height: 40px;
+		fill: blue;
+		z-index: 10;
+	}
+
+	/* The side navigation menu */
+	.sidenav {
+	  height: 100%; /* 100% Full-height */
+	  width: 0; /* 0 width - change this with JavaScript */
+	  position: fixed; /* Stay in place */
+	  z-index: 1; /* Stay on top */
+	  top: 0; /* Stay at the top */
+	  right: 0;
+	  background-color: orange; 
+	  overflow-x: hidden; /* Disable horizontal scroll */
+	  padding-top: 60px; /* Place content 60px from the top */
+	  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+	  z-index: 15;
+	  color:white;
+	  font-family: Inconsolata, serif;
+	  font-size: 3.5em;
+
+	}
+
+	/* The navigation menu links */
+	.sidenav a {
+	  padding: 8px 8px 8px 32px;
+	  text-decoration: none;
+	  /*font-size: 25px;*/
+	  color: white;
+	  display: block;
+	  transition: 0.3s;
+	}
+
+	/* When you mouse over the navigation links, change their color */
+	.sidenav a:hover {
+	  color: blue;
+	}
+
+	/* Position and style the close button (top right corner) */
+	.sidenav .closebtn {
+	  position: absolute;
+	  top: 0;
+	  right: 25px;
+	  /*font-size: 50px;*/
+	  margin-left: 50px;
+	}
+
+
+	/* Slideshow container */
+	.slideshow-container {
+		max-width: 1000px;
+		position: relative;
+		top:-120px ;
+		margin: auto;
+		box-sizing:border-box;
+		height: 500px;
+	}
+	/* Hide the images by default */
+	.mySlides {
+		display: none;
+		z-index: 5;
+	}
+	/* Next & previous buttons */
+	.prev, .next {
+		cursor: pointer;
+		position: absolute;
+		top: 50%;
+		width: auto;
+		margin-top: -22px;
+		padding: 16px;
+		color: gray;
+		font-weight: bold;
+		font-size: 35px;
+		transition: 0.6s ease;
+		border-radius: 0 3px 3px 0;
+		user-select: none;
+	}
+	/* Position the "next button" to the right */
+	.next {
+		right: 0;
+		border-radius: 3px 0 0 3px;
+	}
+	/* On hover, add a black background color with a little bit see-through */
+	.prev:hover, .next:hover {
+		background-color: rgba(0,0,0,0.8);
+	}
+	/* Caption text */
+	.text {
+		color: #f2f2f2;
+		font-size: 15px;
+		padding: 8px 12px;
+		position: absolute;
+		bottom: 8px;
+		width: 100%;
+		text-align: center;
+	}
+	/* Number text (1/3 etc) */
+	.numbertext {
+		color: #f2f2f2;
+		font-size: 12px;
+		padding: 8px 12px;
+		position: absolute;
+		top: 0;
+	}
+	/* The dots/bullets/indicators */
+	.dot {
+		cursor: pointer;
+		height: 15px;
+		width: 15px;
+		margin: 0 2px;
+		background-color: #bbb;
+		border-radius: 50%;
+		display: inline-block;
+		transition: background-color 0.6s ease;
+		z-index: 12;
+	}
+	.active, .dot:hover {
+		background-color: #717171;
+		z-index: 12;
+	}
+	/* Fading animation */
+	.fade {
+		-webkit-animation-name: fade;
+		-webkit-animation-duration: 1.5s;
+		animation-name: fade;
+		animation-duration: 1.5s;
+	}
+
+	.contact {
+		padding-top: 200px;
+	}
+	
+
+	@-webkit-keyframes fade {
+		from {opacity: .4}
+		to {opacity: 1}
+	}
+
+	@keyframes fade {
+		from {opacity: .4}
+		to {opacity: 1}
+	}
+
+	.issues {
+		background-color: rgba(230, 57, 0,0.3);
+		padding: 20px;
+
+	}
+	.issues h4 {
+		font-family: 'Inconsolata', monospace;
+		font-weight: 200;
+		color: blue;
+		font-size: 1.5em;
+	}
+	.issues p {
+		font-family: 'Montserrat', serif;
+		font-weight: 400;
+		color:white;
+	}
+	.srow {
+		width:  330px;
+				margin: 0 auto;
+
+	}
+	.social {
+		background-color: floralwhite;
+		margin: 20px;
+		width: 50px;
+		height: 50px;
+		display: inline-block;
+
+	}
+	.linkedin {
+		background-image: url(./images/social/linkedin.png);
+		background-position: center;
+		background-size: contain;
+	}
+	.github {
+		background-image: url(./images/social/github.png);
+		background-position: center;
+		background-size: contain;
+	}
+	.mail {
+		background-image: url(./images/social/mail.png);
+		background-position: center;
+		background-size: contain;
+	}
+
+}
+@media only screen and (min-width: 680px) {
+	body {
+		/*background-color: red;*/
+	}
+	/*.heroimg {
+		background-image: url(images/topblob.svg);
+		background-repeat: no-repeat;
+		position: absolute;
+		top:-80px;
+		left:-115px ;
+		width: 140vw;
+		height:1100px;
+		max-width: 800px;
+		z-index: -1;
+		transform: rotate(-36deg)
+	}*/
+	.hamburger {
+		position: fixed;
+		right: 60px;
+		top: 60px;
+		width: 40px;
+		height: 40px;
+		fill: blue;
+		z-index: 10;
+	}
+	.sidenav a {
+		font-size: 1.5em;
+	}
+	
+	.portfolio p {
+		position: relative;
+		top: 220px;
+		left: 90px;
+		text-indent: -20px;
+		width: 50vw;
+	}
+	.num {
+		font-family: "Future", "Kanit", sans-serif;
+		color:blue;
+		position: relative;
+		top:100px;
+		font-size: 8em;
+	}
+	#slideimg1, #slideimg2, #slideimg3 {
+		background-color:none;
+		background-repeat: no-repeat;
+		background-position: center; /* Center the image */
+		background-size: contain;
+		position: relative;
+		width: 60vw;
+		height: 300px;
+		top: -300px;
+		left: 200px;
+		z-index: -2;
+
+	}
+
+	.portfolio svg {
+		visibility: visible;
+		fill: blue;
+		opacity: 0.4;
+		position: relative;
+		top: -500px;
+		left: 50px;
+		width: 90%;
+		max-width: 700px;
+		z-index: -1;
+	}
+	.portfolio h4 {
+		color: orange;
+		position: relative;
+		top: 210px;
+		left: 100px;
+		font-size: 2em;
+		text-decoration: underline ;
+		text-decoration-color: blue;
+	}
+	.portfolio p {
+		max-width: 110vw;
+		height: 100px;
+		top: 180px;
+		left: 100px;
+	}
+
+	/*.topwork{
+		position: relative;
+		width: 1350px;
+		left: -200px;
+	}
+	.bottomwork{
+		position: relative;
+		width: 1350px;
+		left: -200px;
+		top: 0px;
+	}
+
+	.bluerect {
+		position: relative;
+		top: -20px;
+		width:105%;
+		left: -5%;
+	}*/
+}
+@media only screen and (min-width: 1100px){
+	body {
+		/*background-color: yellow;*/
+	}
+	/**{
+		zoom: 1.01;
+		-moz-transform: scale(1.01);
+		-moz-transform-origin: 0 0;
+	}*/
+	.hero,.about, .portfolio,.workExperience h3,.workExperience ul, .workExperience p,.workDescrip,.contact {
+		margin-left: 10%;
+		margin-right:10%;
+		max-width: 1000px;
+	}
+	
+	/*.topwork img{
+		position: relative;
+		top: 0px;
+		left:-25px;
+	}
+	.bottomwork {
+		left: -200px;
+	}*/
+	.portfolio svg {
+		visibility: visible;
+		fill: blue;
+		opacity: 0.4;
+		position: relative;
+		top: -500px;
+		left: 70px;
+		width: 80%;
+		max-width: 700px;
+		z-index: -1;
+	}
+	.portfolio p {
+		position: relative;
+		top: 200px;
+		left: 130px;
+		text-indent: -20px;
+		width: 500px;
+	}
+
+	.portfolio h4 {
+		left: 130px;
+	}
+}
