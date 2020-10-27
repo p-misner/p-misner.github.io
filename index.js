@@ -21,7 +21,8 @@ function openNav() {
 }
 
 function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
+	console.log("close")
+  document.getElementById("mySidenav").style.width = "0vw";
   document.body.style.backgroundColor = "rgba(0,0,0,0)";
 } 
 
