@@ -1,0 +1,3901 @@
+State,Year,Month,Value
+Alabama,2014,April,3
+Alabama,2014,August,0
+Alabama,2014,December,0
+Alabama,2014,February,28
+Alabama,2014,January,17
+Alabama,2014,July,0
+Alabama,2014,June,0
+Alabama,2014,March,31
+Alabama,2014,May,0
+Alabama,2014,November,0
+Alabama,2014,October,0
+Alabama,2014,September,0
+Alabama,2014,September,0
+Alabama,2015,April,30
+Alabama,2015,August,0
+Alabama,2015,December,0
+Alabama,2015,February,0
+Alabama,2015,January,0
+Alabama,2015,July,0
+Alabama,2015,June,4
+Alabama,2015,March,28
+Alabama,2015,May,31
+Alabama,2015,November,0
+Alabama,2015,October,0
+Alabama,2015,September,0
+Alabama,2015,September,0
+Alabama,2016,April,30
+Alabama,2016,August,0
+Alabama,2016,December,0
+Alabama,2016,February,27
+Alabama,2016,January,0
+Alabama,2016,July,0
+Alabama,2016,June,0
+Alabama,2016,March,31
+Alabama,2016,May,3
+Alabama,2016,November,0
+Alabama,2016,October,0
+Alabama,2016,September,0
+Alabama,2016,September,0
+Alabama,2017,April,30
+Alabama,2017,August,0
+Alabama,2017,December,0
+Alabama,2017,February,21
+Alabama,2017,January,0
+Alabama,2017,July,0
+Alabama,2017,June,0
+Alabama,2017,March,31
+Alabama,2017,May,19
+Alabama,2017,November,0
+Alabama,2017,October,0
+Alabama,2017,September,0
+Alabama,2017,September,0
+Alabama,2018,April,30
+Alabama,2018,August,31
+Alabama,2018,December,31
+Alabama,2018,February,29
+Alabama,2018,January,22
+Alabama,2018,July,31
+Alabama,2018,June,30
+Alabama,2018,March,29
+Alabama,2018,May,31
+Alabama,2018,November,30
+Alabama,2018,October,31
+Alabama,2018,September,30
+Alabama,2018,September,30
+Alabama,2019,April,30
+Alabama,2019,August,0
+Alabama,2019,December,0
+Alabama,2019,February,0
+Alabama,2019,January,0
+Alabama,2019,July,0
+Alabama,2019,June,0
+Alabama,2019,March,26
+Alabama,2019,May,31
+Alabama,2019,November,0
+Alabama,2019,October,0
+Alabama,2019,September,0
+Alabama,2019,September,0
+Alaska,2014,April,25
+Alaska,2014,August,0
+Alaska,2014,December,0
+Alaska,2014,February,28
+Alaska,2014,January,10
+Alaska,2014,July,0
+Alaska,2014,June,0
+Alaska,2014,March,31
+Alaska,2014,May,0
+Alaska,2014,November,0
+Alaska,2014,October,0
+Alaska,2014,September,0
+Alaska,2014,September,0
+Alaska,2015,April,28
+Alaska,2015,August,0
+Alaska,2015,December,0
+Alaska,2015,February,28
+Alaska,2015,January,11
+Alaska,2015,July,0
+Alaska,2015,June,0
+Alaska,2015,March,31
+Alaska,2015,May,0
+Alaska,2015,November,0
+Alaska,2015,October,0
+Alaska,2015,September,0
+Alaska,2015,September,0
+Alaska,2016,April,30
+Alaska,2016,August,0
+Alaska,2016,December,0
+Alaska,2016,February,29
+Alaska,2016,January,12
+Alaska,2016,July,0
+Alaska,2016,June,0
+Alaska,2016,March,31
+Alaska,2016,May,18
+Alaska,2016,November,0
+Alaska,2016,October,0
+Alaska,2016,September,0
+Alaska,2016,September,0
+Alaska,2017,April,30
+Alaska,2017,August,0
+Alaska,2017,December,0
+Alaska,2017,February,28
+Alaska,2017,January,14
+Alaska,2017,July,0
+Alaska,2017,June,0
+Alaska,2017,March,31
+Alaska,2017,May,17
+Alaska,2017,November,0
+Alaska,2017,October,0
+Alaska,2017,September,0
+Alaska,2017,September,0
+Alaska,2018,April,30
+Alaska,2018,August,0
+Alaska,2018,December,0
+Alaska,2018,February,28
+Alaska,2018,January,15
+Alaska,2018,July,0
+Alaska,2018,June,0
+Alaska,2018,March,31
+Alaska,2018,May,13
+Alaska,2018,November,0
+Alaska,2018,October,0
+Alaska,2018,September,0
+Alaska,2018,September,0
+Alaska,2019,April,30
+Alaska,2019,August,0
+Alaska,2019,December,0
+Alaska,2019,February,28
+Alaska,2019,January,16
+Alaska,2019,July,0
+Alaska,2019,June,0
+Alaska,2019,March,31
+Alaska,2019,May,15
+Alaska,2019,November,0
+Alaska,2019,October,0
+Alaska,2019,September,0
+Alaska,2019,September,0
+Arizona,2014,April,24
+Arizona,2014,August,0
+Arizona,2014,December,0
+Arizona,2014,February,28
+Arizona,2014,January,18
+Arizona,2014,July,0
+Arizona,2014,June,0
+Arizona,2014,March,31
+Arizona,2014,May,0
+Arizona,2014,November,0
+Arizona,2014,October,0
+Arizona,2014,September,0
+Arizona,2014,September,0
+Arizona,2015,April,3
+Arizona,2015,August,0
+Arizona,2015,December,0
+Arizona,2015,February,28
+Arizona,2015,January,19
+Arizona,2015,July,0
+Arizona,2015,June,0
+Arizona,2015,March,31
+Arizona,2015,May,0
+Arizona,2015,November,0
+Arizona,2015,October,0
+Arizona,2015,September,0
+Arizona,2015,September,0
+Arizona,2016,April,30
+Arizona,2016,August,0
+Arizona,2016,December,0
+Arizona,2016,February,29
+Arizona,2016,January,20
+Arizona,2016,July,0
+Arizona,2016,June,0
+Arizona,2016,March,31
+Arizona,2016,May,7
+Arizona,2016,November,0
+Arizona,2016,October,0
+Arizona,2016,September,0
+Arizona,2016,September,0
+Arizona,2017,April,30
+Arizona,2017,August,0
+Arizona,2017,December,0
+Arizona,2017,February,28
+Arizona,2017,January,22
+Arizona,2017,July,0
+Arizona,2017,June,0
+Arizona,2017,March,31
+Arizona,2017,May,10
+Arizona,2017,November,0
+Arizona,2017,October,0
+Arizona,2017,September,0
+Arizona,2017,September,0
+Arizona,2018,April,30
+Arizona,2018,August,0
+Arizona,2018,December,0
+Arizona,2018,February,28
+Arizona,2018,January,23
+Arizona,2018,July,0
+Arizona,2018,June,0
+Arizona,2018,March,31
+Arizona,2018,May,4
+Arizona,2018,November,0
+Arizona,2018,October,0
+Arizona,2018,September,0
+Arizona,2018,September,0
+Arizona,2019,April,30
+Arizona,2019,August,0
+Arizona,2019,December,0
+Arizona,2019,February,28
+Arizona,2019,January,17
+Arizona,2019,July,0
+Arizona,2019,June,0
+Arizona,2019,March,31
+Arizona,2019,May,28
+Arizona,2019,November,0
+Arizona,2019,October,0
+Arizona,2019,September,0
+Arizona,2019,September,0
+Arkansas,2014,April,0
+Arkansas,2014,August,0
+Arkansas,2014,December,0
+Arkansas,2014,February,18
+Arkansas,2014,January,0
+Arkansas,2014,July,0
+Arkansas,2014,June,0
+Arkansas,2014,March,0
+Arkansas,2014,May,0
+Arkansas,2014,November,0
+Arkansas,2014,October,0
+Arkansas,2014,September,0
+Arkansas,2014,September,0
+Arkansas,2015,April,22
+Arkansas,2015,August,0
+Arkansas,2015,December,0
+Arkansas,2015,February,28
+Arkansas,2015,January,19
+Arkansas,2015,July,0
+Arkansas,2015,June,0
+Arkansas,2015,March,31
+Arkansas,2015,May,0
+Arkansas,2015,November,0
+Arkansas,2015,October,0
+Arkansas,2015,September,0
+Arkansas,2015,September,0
+Arkansas,2016,April,17
+Arkansas,2016,August,0
+Arkansas,2016,December,0
+Arkansas,2016,February,0
+Arkansas,2016,January,0
+Arkansas,2016,July,0
+Arkansas,2016,June,0
+Arkansas,2016,March,0
+Arkansas,2016,May,0
+Arkansas,2016,November,0
+Arkansas,2016,October,0
+Arkansas,2016,September,0
+Arkansas,2016,September,0
+Arkansas,2017,April,30
+Arkansas,2017,August,0
+Arkansas,2017,December,0
+Arkansas,2017,February,28
+Arkansas,2017,January,22
+Arkansas,2017,July,0
+Arkansas,2017,June,0
+Arkansas,2017,March,31
+Arkansas,2017,May,1
+Arkansas,2017,November,0
+Arkansas,2017,October,0
+Arkansas,2017,September,0
+Arkansas,2017,September,0
+Arkansas,2018,April,0
+Arkansas,2018,August,0
+Arkansas,2018,December,0
+Arkansas,2018,February,16
+Arkansas,2018,January,0
+Arkansas,2018,July,0
+Arkansas,2018,June,0
+Arkansas,2018,March,0
+Arkansas,2018,May,0
+Arkansas,2018,November,0
+Arkansas,2018,October,0
+Arkansas,2018,September,0
+Arkansas,2018,September,0
+Arkansas,2019,April,24
+Arkansas,2019,August,0
+Arkansas,2019,December,0
+Arkansas,2019,February,28
+Arkansas,2019,January,17
+Arkansas,2019,July,0
+Arkansas,2019,June,0
+Arkansas,2019,March,31
+Arkansas,2019,May,0
+Arkansas,2019,November,0
+Arkansas,2019,October,0
+Arkansas,2019,September,0
+Arkansas,2019,September,0
+California,2014,April,30
+California,2014,August,31
+California,2014,December,0
+California,2014,February,28
+California,2014,January,25
+California,2014,July,31
+California,2014,June,30
+California,2014,March,31
+California,2014,May,31
+California,2014,November,30
+California,2014,October,31
+California,2014,September,30
+California,2014,September,30
+California,2015,April,30
+California,2015,August,31
+California,2015,December,0
+California,2015,February,28
+California,2015,January,30
+California,2015,July,31
+California,2015,June,30
+California,2015,March,31
+California,2015,May,31
+California,2015,November,0
+California,2015,October,0
+California,2015,September,11
+California,2015,September,11
+California,2016,April,30
+California,2016,August,31
+California,2016,December,0
+California,2016,February,29
+California,2016,January,27
+California,2016,July,31
+California,2016,June,30
+California,2016,March,31
+California,2016,May,31
+California,2016,November,0
+California,2016,October,0
+California,2016,September,0
+California,2016,September,0
+California,2017,April,30
+California,2017,August,31
+California,2017,December,0
+California,2017,February,28
+California,2017,January,30
+California,2017,July,31
+California,2017,June,30
+California,2017,March,31
+California,2017,May,31
+California,2017,November,0
+California,2017,October,0
+California,2017,September,15
+California,2017,September,15
+California,2018,April,30
+California,2018,August,31
+California,2018,December,0
+California,2018,February,28
+California,2018,January,30
+California,2018,July,31
+California,2018,June,30
+California,2018,March,31
+California,2018,May,31
+California,2018,November,0
+California,2018,October,0
+California,2018,September,0
+California,2018,September,0
+California,2019,April,30
+California,2019,August,31
+California,2019,December,0
+California,2019,February,28
+California,2019,January,24
+California,2019,July,31
+California,2019,June,30
+California,2019,March,31
+California,2019,May,31
+California,2019,November,0
+California,2019,October,0
+California,2019,September,13
+California,2019,September,13
+Colorado,2014,April,30
+Colorado,2014,August,0
+Colorado,2014,December,0
+Colorado,2014,February,28
+Colorado,2014,January,23
+Colorado,2014,July,0
+Colorado,2014,June,0
+Colorado,2014,March,31
+Colorado,2014,May,7
+Colorado,2014,November,0
+Colorado,2014,October,0
+Colorado,2014,September,0
+Colorado,2014,September,0
+Colorado,2015,April,30
+Colorado,2015,August,0
+Colorado,2015,December,0
+Colorado,2015,February,28
+Colorado,2015,January,24
+Colorado,2015,July,0
+Colorado,2015,June,0
+Colorado,2015,March,31
+Colorado,2015,May,6
+Colorado,2015,November,0
+Colorado,2015,October,0
+Colorado,2015,September,0
+Colorado,2015,September,0
+Colorado,2016,April,30
+Colorado,2016,August,0
+Colorado,2016,December,0
+Colorado,2016,February,29
+Colorado,2016,January,18
+Colorado,2016,July,0
+Colorado,2016,June,0
+Colorado,2016,March,31
+Colorado,2016,May,11
+Colorado,2016,November,0
+Colorado,2016,October,0
+Colorado,2016,September,0
+Colorado,2016,September,0
+Colorado,2017,April,30
+Colorado,2017,August,0
+Colorado,2017,December,0
+Colorado,2017,February,28
+Colorado,2017,January,20
+Colorado,2017,July,0
+Colorado,2017,June,0
+Colorado,2017,March,31
+Colorado,2017,May,10
+Colorado,2017,November,0
+Colorado,2017,October,0
+Colorado,2017,September,0
+Colorado,2017,September,0
+Colorado,2018,April,30
+Colorado,2018,August,0
+Colorado,2018,December,0
+Colorado,2018,February,28
+Colorado,2018,January,21
+Colorado,2018,July,0
+Colorado,2018,June,0
+Colorado,2018,March,31
+Colorado,2018,May,9
+Colorado,2018,November,0
+Colorado,2018,October,0
+Colorado,2018,September,0
+Colorado,2018,September,0
+Colorado,2019,April,30
+Colorado,2019,August,0
+Colorado,2019,December,0
+Colorado,2019,February,28
+Colorado,2019,January,27
+Colorado,2019,July,0
+Colorado,2019,June,0
+Colorado,2019,March,31
+Colorado,2019,May,3
+Colorado,2019,November,0
+Colorado,2019,October,0
+Colorado,2019,September,0
+Colorado,2019,September,0
+Connecticut,2014,April,30
+Connecticut,2014,August,0
+Connecticut,2014,December,0
+Connecticut,2014,February,23
+Connecticut,2014,January,0
+Connecticut,2014,July,0
+Connecticut,2014,June,0
+Connecticut,2014,March,31
+Connecticut,2014,May,7
+Connecticut,2014,November,0
+Connecticut,2014,October,0
+Connecticut,2014,September,0
+Connecticut,2014,September,0
+Connecticut,2015,April,30
+Connecticut,2015,August,0
+Connecticut,2015,December,0
+Connecticut,2015,February,28
+Connecticut,2015,January,24
+Connecticut,2015,July,0
+Connecticut,2015,June,3
+Connecticut,2015,March,31
+Connecticut,2015,May,31
+Connecticut,2015,November,0
+Connecticut,2015,October,0
+Connecticut,2015,September,0
+Connecticut,2015,September,0
+Connecticut,2016,April,30
+Connecticut,2016,August,0
+Connecticut,2016,December,0
+Connecticut,2016,February,26
+Connecticut,2016,January,0
+Connecticut,2016,July,0
+Connecticut,2016,June,0
+Connecticut,2016,March,31
+Connecticut,2016,May,4
+Connecticut,2016,November,0
+Connecticut,2016,October,0
+Connecticut,2016,September,0
+Connecticut,2016,September,0
+Connecticut,2017,April,30
+Connecticut,2017,August,0
+Connecticut,2017,December,0
+Connecticut,2017,February,28
+Connecticut,2017,January,27
+Connecticut,2017,July,0
+Connecticut,2017,June,7
+Connecticut,2017,March,31
+Connecticut,2017,May,31
+Connecticut,2017,November,0
+Connecticut,2017,October,0
+Connecticut,2017,September,0
+Connecticut,2017,September,0
+Connecticut,2018,April,30
+Connecticut,2018,August,0
+Connecticut,2018,December,0
+Connecticut,2018,February,21
+Connecticut,2018,January,0
+Connecticut,2018,July,0
+Connecticut,2018,June,0
+Connecticut,2018,March,31
+Connecticut,2018,May,9
+Connecticut,2018,November,0
+Connecticut,2018,October,0
+Connecticut,2018,September,0
+Connecticut,2018,September,0
+Connecticut,2019,April,30
+Connecticut,2019,August,0
+Connecticut,2019,December,0
+Connecticut,2019,February,28
+Connecticut,2019,January,22
+Connecticut,2019,July,0
+Connecticut,2019,June,5
+Connecticut,2019,March,31
+Connecticut,2019,May,31
+Connecticut,2019,November,0
+Connecticut,2019,October,0
+Connecticut,2019,September,0
+Connecticut,2019,September,0
+Delaware,2014,April,30
+Delaware,2014,August,0
+Delaware,2014,December,0
+Delaware,2014,February,28
+Delaware,2014,January,17
+Delaware,2014,July,0
+Delaware,2014,June,30
+Delaware,2014,March,31
+Delaware,2014,May,31
+Delaware,2014,November,0
+Delaware,2014,October,0
+Delaware,2014,September,0
+Delaware,2014,September,0
+Delaware,2015,April,30
+Delaware,2015,August,0
+Delaware,2015,December,0
+Delaware,2015,February,28
+Delaware,2015,January,18
+Delaware,2015,July,0
+Delaware,2015,June,30
+Delaware,2015,March,31
+Delaware,2015,May,31
+Delaware,2015,November,0
+Delaware,2015,October,0
+Delaware,2015,September,0
+Delaware,2015,September,0
+Delaware,2016,April,30
+Delaware,2016,August,0
+Delaware,2016,December,0
+Delaware,2016,February,29
+Delaware,2016,January,19
+Delaware,2016,July,0
+Delaware,2016,June,30
+Delaware,2016,March,31
+Delaware,2016,May,31
+Delaware,2016,November,0
+Delaware,2016,October,0
+Delaware,2016,September,0
+Delaware,2016,September,0
+Delaware,2017,April,30
+Delaware,2017,August,0
+Delaware,2017,December,0
+Delaware,2017,February,28
+Delaware,2017,January,21
+Delaware,2017,July,0
+Delaware,2017,June,30
+Delaware,2017,March,31
+Delaware,2017,May,31
+Delaware,2017,November,0
+Delaware,2017,October,0
+Delaware,2017,September,0
+Delaware,2017,September,0
+Delaware,2018,April,30
+Delaware,2018,August,0
+Delaware,2018,December,0
+Delaware,2018,February,28
+Delaware,2018,January,22
+Delaware,2018,July,1
+Delaware,2018,June,30
+Delaware,2018,March,31
+Delaware,2018,May,31
+Delaware,2018,November,0
+Delaware,2018,October,0
+Delaware,2018,September,0
+Delaware,2018,September,0
+Delaware,2019,April,30
+Delaware,2019,August,0
+Delaware,2019,December,0
+Delaware,2019,February,28
+Delaware,2019,January,23
+Delaware,2019,July,0
+Delaware,2019,June,30
+Delaware,2019,March,31
+Delaware,2019,May,31
+Delaware,2019,November,0
+Delaware,2019,October,0
+Delaware,2019,September,0
+Delaware,2019,September,0
+Florida,2014,April,30
+Florida,2014,August,0
+Florida,2014,December,0
+Florida,2014,February,0
+Florida,2014,January,0
+Florida,2014,July,0
+Florida,2014,June,0
+Florida,2014,March,27
+Florida,2014,May,2
+Florida,2014,November,0
+Florida,2014,October,0
+Florida,2014,September,0
+Florida,2014,September,0
+Florida,2015,April,30
+Florida,2015,August,0
+Florida,2015,December,0
+Florida,2015,February,0
+Florida,2015,January,0
+Florida,2015,July,0
+Florida,2015,June,0
+Florida,2015,March,28
+Florida,2015,May,1
+Florida,2015,November,0
+Florida,2015,October,0
+Florida,2015,September,0
+Florida,2015,September,0
+Florida,2016,April,0
+Florida,2016,August,0
+Florida,2016,December,0
+Florida,2016,February,29
+Florida,2016,January,19
+Florida,2016,July,0
+Florida,2016,June,0
+Florida,2016,March,11
+Florida,2016,May,0
+Florida,2016,November,0
+Florida,2016,October,0
+Florida,2016,September,0
+Florida,2016,September,0
+Florida,2017,April,30
+Florida,2017,August,0
+Florida,2017,December,0
+Florida,2017,February,0
+Florida,2017,January,0
+Florida,2017,July,0
+Florida,2017,June,0
+Florida,2017,March,24
+Florida,2017,May,8
+Florida,2017,November,0
+Florida,2017,October,0
+Florida,2017,September,0
+Florida,2017,September,0
+Florida,2018,April,0
+Florida,2018,August,0
+Florida,2018,December,0
+Florida,2018,February,28
+Florida,2018,January,22
+Florida,2018,July,0
+Florida,2018,June,0
+Florida,2018,March,11
+Florida,2018,May,0
+Florida,2018,November,0
+Florida,2018,October,0
+Florida,2018,September,0
+Florida,2018,September,0
+Florida,2019,April,30
+Florida,2019,August,0
+Florida,2019,December,0
+Florida,2019,February,0
+Florida,2019,January,0
+Florida,2019,July,0
+Florida,2019,June,0
+Florida,2019,March,26
+Florida,2019,May,4
+Florida,2019,November,0
+Florida,2019,October,0
+Florida,2019,September,0
+Florida,2019,September,0
+Georgia,2014,April,0
+Georgia,2014,August,0
+Georgia,2014,December,0
+Georgia,2014,February,28
+Georgia,2014,January,18
+Georgia,2014,July,0
+Georgia,2014,June,0
+Georgia,2014,March,20
+Georgia,2014,May,0
+Georgia,2014,November,0
+Georgia,2014,October,0
+Georgia,2014,September,0
+Georgia,2014,September,0
+Georgia,2015,April,2
+Georgia,2015,August,0
+Georgia,2015,December,0
+Georgia,2015,February,28
+Georgia,2015,January,19
+Georgia,2015,July,0
+Georgia,2015,June,0
+Georgia,2015,March,31
+Georgia,2015,May,0
+Georgia,2015,November,0
+Georgia,2015,October,0
+Georgia,2015,September,0
+Georgia,2015,September,0
+Georgia,2016,April,0
+Georgia,2016,August,0
+Georgia,2016,December,0
+Georgia,2016,February,29
+Georgia,2016,January,20
+Georgia,2016,July,0
+Georgia,2016,June,0
+Georgia,2016,March,25
+Georgia,2016,May,0
+Georgia,2016,November,0
+Georgia,2016,October,0
+Georgia,2016,September,0
+Georgia,2016,September,0
+Georgia,2017,April,0
+Georgia,2017,August,0
+Georgia,2017,December,0
+Georgia,2017,February,28
+Georgia,2017,January,22
+Georgia,2017,July,0
+Georgia,2017,June,0
+Georgia,2017,March,31
+Georgia,2017,May,0
+Georgia,2017,November,0
+Georgia,2017,October,0
+Georgia,2017,September,0
+Georgia,2017,September,0
+Georgia,2018,April,0
+Georgia,2018,August,0
+Georgia,2018,December,0
+Georgia,2018,February,28
+Georgia,2018,January,23
+Georgia,2018,July,0
+Georgia,2018,June,0
+Georgia,2018,March,29
+Georgia,2018,May,0
+Georgia,2018,November,0
+Georgia,2018,October,0
+Georgia,2018,September,0
+Georgia,2018,September,0
+Georgia,2019,April,2
+Georgia,2019,August,0
+Georgia,2019,December,0
+Georgia,2019,February,28
+Georgia,2019,January,17
+Georgia,2019,July,0
+Georgia,2019,June,0
+Georgia,2019,March,31
+Georgia,2019,May,0
+Georgia,2019,November,0
+Georgia,2019,October,0
+Georgia,2019,September,0
+Georgia,2019,September,0
+Hawaii,2014,April,30
+Hawaii,2014,August,0
+Hawaii,2014,December,0
+Hawaii,2014,February,28
+Hawaii,2014,January,16
+Hawaii,2014,July,0
+Hawaii,2014,June,0
+Hawaii,2014,March,31
+Hawaii,2014,May,1
+Hawaii,2014,November,0
+Hawaii,2014,October,0
+Hawaii,2014,September,0
+Hawaii,2014,September,0
+Hawaii,2015,April,30
+Hawaii,2015,August,0
+Hawaii,2015,December,0
+Hawaii,2015,February,28
+Hawaii,2015,January,10
+Hawaii,2015,July,0
+Hawaii,2015,June,0
+Hawaii,2015,March,31
+Hawaii,2015,May,7
+Hawaii,2015,November,0
+Hawaii,2015,October,0
+Hawaii,2015,September,0
+Hawaii,2015,September,0
+Hawaii,2016,April,30
+Hawaii,2016,August,0
+Hawaii,2016,December,0
+Hawaii,2016,February,29
+Hawaii,2016,January,11
+Hawaii,2016,July,0
+Hawaii,2016,June,0
+Hawaii,2016,March,31
+Hawaii,2016,May,5
+Hawaii,2016,November,0
+Hawaii,2016,October,0
+Hawaii,2016,September,0
+Hawaii,2016,September,0
+Hawaii,2017,April,30
+Hawaii,2017,August,0
+Hawaii,2017,December,0
+Hawaii,2017,February,28
+Hawaii,2017,January,13
+Hawaii,2017,July,0
+Hawaii,2017,June,0
+Hawaii,2017,March,31
+Hawaii,2017,May,4
+Hawaii,2017,November,0
+Hawaii,2017,October,0
+Hawaii,2017,September,0
+Hawaii,2017,September,0
+Hawaii,2018,April,30
+Hawaii,2018,August,0
+Hawaii,2018,December,0
+Hawaii,2018,February,28
+Hawaii,2018,January,14
+Hawaii,2018,July,0
+Hawaii,2018,June,0
+Hawaii,2018,March,31
+Hawaii,2018,May,3
+Hawaii,2018,November,0
+Hawaii,2018,October,0
+Hawaii,2018,September,0
+Hawaii,2018,September,0
+Hawaii,2019,April,30
+Hawaii,2019,August,0
+Hawaii,2019,December,0
+Hawaii,2019,February,28
+Hawaii,2019,January,15
+Hawaii,2019,July,0
+Hawaii,2019,June,0
+Hawaii,2019,March,31
+Hawaii,2019,May,2
+Hawaii,2019,November,0
+Hawaii,2019,October,0
+Hawaii,2019,September,0
+Hawaii,2019,September,0
+Idaho,2014,April,0
+Idaho,2014,August,0
+Idaho,2014,December,0
+Idaho,2014,February,28
+Idaho,2014,January,25
+Idaho,2014,July,0
+Idaho,2014,June,0
+Idaho,2014,March,20
+Idaho,2014,May,0
+Idaho,2014,November,0
+Idaho,2014,October,0
+Idaho,2014,September,0
+Idaho,2014,September,0
+Idaho,2015,April,11
+Idaho,2015,August,0
+Idaho,2015,December,0
+Idaho,2015,February,28
+Idaho,2015,January,19
+Idaho,2015,July,0
+Idaho,2015,June,0
+Idaho,2015,March,31
+Idaho,2015,May,0
+Idaho,2015,November,0
+Idaho,2015,October,0
+Idaho,2015,September,0
+Idaho,2015,September,0
+Idaho,2016,April,0
+Idaho,2016,August,0
+Idaho,2016,December,0
+Idaho,2016,February,29
+Idaho,2016,January,20
+Idaho,2016,July,0
+Idaho,2016,June,0
+Idaho,2016,March,25
+Idaho,2016,May,0
+Idaho,2016,November,0
+Idaho,2016,October,0
+Idaho,2016,September,0
+Idaho,2016,September,0
+Idaho,2017,April,0
+Idaho,2017,August,0
+Idaho,2017,December,0
+Idaho,2017,February,28
+Idaho,2017,January,22
+Idaho,2017,July,0
+Idaho,2017,June,0
+Idaho,2017,March,29
+Idaho,2017,May,0
+Idaho,2017,November,0
+Idaho,2017,October,0
+Idaho,2017,September,0
+Idaho,2017,September,0
+Idaho,2018,April,0
+Idaho,2018,August,0
+Idaho,2018,December,0
+Idaho,2018,February,28
+Idaho,2018,January,23
+Idaho,2018,July,0
+Idaho,2018,June,0
+Idaho,2018,March,28
+Idaho,2018,May,0
+Idaho,2018,November,0
+Idaho,2018,October,0
+Idaho,2018,September,0
+Idaho,2018,September,0
+Idaho,2019,April,11
+Idaho,2019,August,0
+Idaho,2019,December,0
+Idaho,2019,February,28
+Idaho,2019,January,24
+Idaho,2019,July,0
+Idaho,2019,June,0
+Idaho,2019,March,31
+Idaho,2019,May,0
+Idaho,2019,November,0
+Idaho,2019,October,0
+Idaho,2019,September,0
+Idaho,2019,September,0
+Illinois,2014,April,30
+Illinois,2014,August,0
+Illinois,2014,December,0
+Illinois,2014,February,28
+Illinois,2014,January,2
+Illinois,2014,July,0
+Illinois,2014,June,0
+Illinois,2014,March,31
+Illinois,2014,May,31
+Illinois,2014,November,0
+Illinois,2014,October,0
+Illinois,2014,September,0
+Illinois,2014,September,0
+Illinois,2015,April,30
+Illinois,2015,August,31
+Illinois,2015,December,7
+Illinois,2015,February,28
+Illinois,2015,January,17
+Illinois,2015,July,31
+Illinois,2015,June,30
+Illinois,2015,March,31
+Illinois,2015,May,31
+Illinois,2015,November,30
+Illinois,2015,October,31
+Illinois,2015,September,30
+Illinois,2015,September,30
+Illinois,2016,April,30
+Illinois,2016,August,0
+Illinois,2016,December,0
+Illinois,2016,February,29
+Illinois,2016,January,18
+Illinois,2016,July,0
+Illinois,2016,June,0
+Illinois,2016,March,31
+Illinois,2016,May,31
+Illinois,2016,November,0
+Illinois,2016,October,0
+Illinois,2016,September,0
+Illinois,2016,September,0
+Illinois,2017,April,30
+Illinois,2017,August,0
+Illinois,2017,December,0
+Illinois,2017,February,28
+Illinois,2017,January,20
+Illinois,2017,July,0
+Illinois,2017,June,0
+Illinois,2017,March,31
+Illinois,2017,May,31
+Illinois,2017,November,0
+Illinois,2017,October,0
+Illinois,2017,September,0
+Illinois,2017,September,0
+Illinois,2018,April,0
+Illinois,2018,August,0
+Illinois,2018,December,0
+Illinois,2018,February,28
+Illinois,2018,January,23
+Illinois,2018,July,0
+Illinois,2018,June,0
+Illinois,2018,March,23
+Illinois,2018,May,0
+Illinois,2018,November,0
+Illinois,2018,October,0
+Illinois,2018,September,0
+Illinois,2018,September,0
+Illinois,2019,April,30
+Illinois,2019,August,0
+Illinois,2019,December,0
+Illinois,2019,February,28
+Illinois,2019,January,22
+Illinois,2019,July,0
+Illinois,2019,June,2
+Illinois,2019,March,31
+Illinois,2019,May,31
+Illinois,2019,November,0
+Illinois,2019,October,0
+Illinois,2019,September,0
+Illinois,2019,September,0
+Indiana,2014,April,0
+Indiana,2014,August,0
+Indiana,2014,December,0
+Indiana,2014,February,28
+Indiana,2014,January,25
+Indiana,2014,July,0
+Indiana,2014,June,0
+Indiana,2014,March,13
+Indiana,2014,May,0
+Indiana,2014,November,0
+Indiana,2014,October,0
+Indiana,2014,September,0
+Indiana,2014,September,0
+Indiana,2015,April,29
+Indiana,2015,August,0
+Indiana,2015,December,0
+Indiana,2015,February,28
+Indiana,2015,January,25
+Indiana,2015,July,0
+Indiana,2015,June,0
+Indiana,2015,March,31
+Indiana,2015,May,0
+Indiana,2015,November,0
+Indiana,2015,October,0
+Indiana,2015,September,0
+Indiana,2015,September,0
+Indiana,2016,April,0
+Indiana,2016,August,0
+Indiana,2016,December,0
+Indiana,2016,February,29
+Indiana,2016,January,26
+Indiana,2016,July,0
+Indiana,2016,June,0
+Indiana,2016,March,10
+Indiana,2016,May,0
+Indiana,2016,November,0
+Indiana,2016,October,0
+Indiana,2016,September,0
+Indiana,2016,September,0
+Indiana,2017,April,22
+Indiana,2017,August,0
+Indiana,2017,December,0
+Indiana,2017,February,28
+Indiana,2017,January,28
+Indiana,2017,July,0
+Indiana,2017,June,0
+Indiana,2017,March,31
+Indiana,2017,May,0
+Indiana,2017,November,0
+Indiana,2017,October,0
+Indiana,2017,September,0
+Indiana,2017,September,0
+Indiana,2018,April,0
+Indiana,2018,August,0
+Indiana,2018,December,0
+Indiana,2018,February,28
+Indiana,2018,January,28
+Indiana,2018,July,0
+Indiana,2018,June,0
+Indiana,2018,March,14
+Indiana,2018,May,0
+Indiana,2018,November,0
+Indiana,2018,October,0
+Indiana,2018,September,0
+Indiana,2018,September,0
+Indiana,2019,April,24
+Indiana,2019,August,0
+Indiana,2019,December,0
+Indiana,2019,February,28
+Indiana,2019,January,28
+Indiana,2019,July,0
+Indiana,2019,June,0
+Indiana,2019,March,31
+Indiana,2019,May,0
+Indiana,2019,November,0
+Indiana,2019,October,0
+Indiana,2019,September,0
+Indiana,2019,September,0
+Iowa,2014,April,30
+Iowa,2014,August,0
+Iowa,2014,December,0
+Iowa,2014,February,28
+Iowa,2014,January,18
+Iowa,2014,July,0
+Iowa,2014,June,0
+Iowa,2014,March,31
+Iowa,2014,May,1
+Iowa,2014,November,0
+Iowa,2014,October,0
+Iowa,2014,September,0
+Iowa,2014,September,0
+Iowa,2015,April,30
+Iowa,2015,August,0
+Iowa,2015,December,0
+Iowa,2015,February,28
+Iowa,2015,January,19
+Iowa,2015,July,0
+Iowa,2015,June,6
+Iowa,2015,March,31
+Iowa,2015,May,31
+Iowa,2015,November,0
+Iowa,2015,October,0
+Iowa,2015,September,0
+Iowa,2015,September,0
+Iowa,2016,April,29
+Iowa,2016,August,0
+Iowa,2016,December,0
+Iowa,2016,February,29
+Iowa,2016,January,20
+Iowa,2016,July,0
+Iowa,2016,June,0
+Iowa,2016,March,31
+Iowa,2016,May,0
+Iowa,2016,November,0
+Iowa,2016,October,0
+Iowa,2016,September,0
+Iowa,2016,September,0
+Iowa,2017,April,22
+Iowa,2017,August,0
+Iowa,2017,December,0
+Iowa,2017,February,28
+Iowa,2017,January,22
+Iowa,2017,July,0
+Iowa,2017,June,0
+Iowa,2017,March,31
+Iowa,2017,May,0
+Iowa,2017,November,0
+Iowa,2017,October,0
+Iowa,2017,September,0
+Iowa,2017,September,0
+Iowa,2018,April,30
+Iowa,2018,August,0
+Iowa,2018,December,0
+Iowa,2018,February,28
+Iowa,2018,January,23
+Iowa,2018,July,0
+Iowa,2018,June,0
+Iowa,2018,March,31
+Iowa,2018,May,7
+Iowa,2018,November,0
+Iowa,2018,October,0
+Iowa,2018,September,0
+Iowa,2018,September,0
+Iowa,2019,April,27
+Iowa,2019,August,0
+Iowa,2019,December,0
+Iowa,2019,February,28
+Iowa,2019,January,17
+Iowa,2019,July,0
+Iowa,2019,June,0
+Iowa,2019,March,31
+Iowa,2019,May,0
+Iowa,2019,November,0
+Iowa,2019,October,0
+Iowa,2019,September,0
+Iowa,2019,September,0
+Kansas,2014,April,30
+Kansas,2014,August,0
+Kansas,2014,December,0
+Kansas,2014,February,28
+Kansas,2014,January,18
+Kansas,2014,July,0
+Kansas,2014,June,0
+Kansas,2014,March,31
+Kansas,2014,May,30
+Kansas,2014,November,0
+Kansas,2014,October,0
+Kansas,2014,September,0
+Kansas,2014,September,0
+Kansas,2015,April,30
+Kansas,2015,August,0
+Kansas,2015,December,0
+Kansas,2015,February,28
+Kansas,2015,January,19
+Kansas,2015,July,0
+Kansas,2015,June,12
+Kansas,2015,March,31
+Kansas,2015,May,31
+Kansas,2015,November,0
+Kansas,2015,October,0
+Kansas,2015,September,0
+Kansas,2015,September,0
+Kansas,2016,April,30
+Kansas,2016,August,0
+Kansas,2016,December,0
+Kansas,2016,February,29
+Kansas,2016,January,20
+Kansas,2016,July,0
+Kansas,2016,June,1
+Kansas,2016,March,31
+Kansas,2016,May,31
+Kansas,2016,November,0
+Kansas,2016,October,0
+Kansas,2016,September,0
+Kansas,2016,September,0
+Kansas,2017,April,30
+Kansas,2017,August,0
+Kansas,2017,December,0
+Kansas,2017,February,28
+Kansas,2017,January,22
+Kansas,2017,July,0
+Kansas,2017,June,26
+Kansas,2017,March,31
+Kansas,2017,May,31
+Kansas,2017,November,0
+Kansas,2017,October,0
+Kansas,2017,September,0
+Kansas,2017,September,0
+Kansas,2018,April,30
+Kansas,2018,August,0
+Kansas,2018,December,0
+Kansas,2018,February,28
+Kansas,2018,January,23
+Kansas,2018,July,0
+Kansas,2018,June,0
+Kansas,2018,March,31
+Kansas,2018,May,5
+Kansas,2018,November,0
+Kansas,2018,October,0
+Kansas,2018,September,0
+Kansas,2018,September,0
+Kansas,2019,April,30
+Kansas,2019,August,0
+Kansas,2019,December,0
+Kansas,2019,February,28
+Kansas,2019,January,17
+Kansas,2019,July,0
+Kansas,2019,June,0
+Kansas,2019,March,31
+Kansas,2019,May,29
+Kansas,2019,November,0
+Kansas,2019,October,0
+Kansas,2019,September,0
+Kansas,2019,September,0
+Kentucky,2014,April,15
+Kentucky,2014,August,0
+Kentucky,2014,December,0
+Kentucky,2014,February,28
+Kentucky,2014,January,24
+Kentucky,2014,July,0
+Kentucky,2014,June,0
+Kentucky,2014,March,31
+Kentucky,2014,May,0
+Kentucky,2014,November,0
+Kentucky,2014,October,0
+Kentucky,2014,September,0
+Kentucky,2014,September,0
+Kentucky,2015,April,0
+Kentucky,2015,August,0
+Kentucky,2015,December,0
+Kentucky,2015,February,28
+Kentucky,2015,January,25
+Kentucky,2015,July,0
+Kentucky,2015,June,0
+Kentucky,2015,March,25
+Kentucky,2015,May,0
+Kentucky,2015,November,0
+Kentucky,2015,October,0
+Kentucky,2015,September,0
+Kentucky,2015,September,0
+Kentucky,2016,April,15
+Kentucky,2016,August,0
+Kentucky,2016,December,0
+Kentucky,2016,February,29
+Kentucky,2016,January,26
+Kentucky,2016,July,0
+Kentucky,2016,June,0
+Kentucky,2016,March,31
+Kentucky,2016,May,0
+Kentucky,2016,November,0
+Kentucky,2016,October,0
+Kentucky,2016,September,0
+Kentucky,2016,September,0
+Kentucky,2017,April,0
+Kentucky,2017,August,0
+Kentucky,2017,December,0
+Kentucky,2017,February,28
+Kentucky,2017,January,28
+Kentucky,2017,July,0
+Kentucky,2017,June,0
+Kentucky,2017,March,30
+Kentucky,2017,May,0
+Kentucky,2017,November,0
+Kentucky,2017,October,0
+Kentucky,2017,September,0
+Kentucky,2017,September,0
+Kentucky,2018,April,14
+Kentucky,2018,August,0
+Kentucky,2018,December,0
+Kentucky,2018,February,28
+Kentucky,2018,January,29
+Kentucky,2018,July,0
+Kentucky,2018,June,0
+Kentucky,2018,March,31
+Kentucky,2018,May,0
+Kentucky,2018,November,0
+Kentucky,2018,October,0
+Kentucky,2018,September,0
+Kentucky,2018,September,0
+Kentucky,2019,April,0
+Kentucky,2019,August,0
+Kentucky,2019,December,0
+Kentucky,2019,February,28
+Kentucky,2019,January,23
+Kentucky,2019,July,0
+Kentucky,2019,June,0
+Kentucky,2019,March,28
+Kentucky,2019,May,0
+Kentucky,2019,November,0
+Kentucky,2019,October,0
+Kentucky,2019,September,0
+Kentucky,2019,September,0
+Louisiana,2014,April,30
+Louisiana,2014,August,0
+Louisiana,2014,December,0
+Louisiana,2014,February,0
+Louisiana,2014,January,0
+Louisiana,2014,July,0
+Louisiana,2014,June,2
+Louisiana,2014,March,21
+Louisiana,2014,May,31
+Louisiana,2014,November,0
+Louisiana,2014,October,0
+Louisiana,2014,September,0
+Louisiana,2014,September,0
+Louisiana,2015,April,17
+Louisiana,2015,August,0
+Louisiana,2015,December,0
+Louisiana,2015,February,0
+Louisiana,2015,January,0
+Louisiana,2015,July,0
+Louisiana,2015,June,11
+Louisiana,2015,March,0
+Louisiana,2015,May,31
+Louisiana,2015,November,0
+Louisiana,2015,October,0
+Louisiana,2015,September,0
+Louisiana,2015,September,0
+Louisiana,2016,April,30
+Louisiana,2016,August,0
+Louisiana,2016,December,0
+Louisiana,2016,February,0
+Louisiana,2016,January,0
+Louisiana,2016,July,0
+Louisiana,2016,June,6
+Louisiana,2016,March,17
+Louisiana,2016,May,31
+Louisiana,2016,November,0
+Louisiana,2016,October,0
+Louisiana,2016,September,0
+Louisiana,2016,September,0
+Louisiana,2017,April,20
+Louisiana,2017,August,0
+Louisiana,2017,December,0
+Louisiana,2017,February,0
+Louisiana,2017,January,0
+Louisiana,2017,July,0
+Louisiana,2017,June,8
+Louisiana,2017,March,0
+Louisiana,2017,May,31
+Louisiana,2017,November,0
+Louisiana,2017,October,0
+Louisiana,2017,September,0
+Louisiana,2017,September,0
+Louisiana,2018,April,30
+Louisiana,2018,August,0
+Louisiana,2018,December,0
+Louisiana,2018,February,0
+Louisiana,2018,January,0
+Louisiana,2018,July,0
+Louisiana,2018,June,0
+Louisiana,2018,March,19
+Louisiana,2018,May,18
+Louisiana,2018,November,0
+Louisiana,2018,October,0
+Louisiana,2018,September,0
+Louisiana,2018,September,0
+Louisiana,2019,April,22
+Louisiana,2019,August,0
+Louisiana,2019,December,0
+Louisiana,2019,February,0
+Louisiana,2019,January,0
+Louisiana,2019,July,0
+Louisiana,2019,June,6
+Louisiana,2019,March,0
+Louisiana,2019,May,31
+Louisiana,2019,November,0
+Louisiana,2019,October,0
+Louisiana,2019,September,0
+Louisiana,2019,September,0
+Maine,2014,April,17
+Maine,2014,August,0
+Maine,2014,December,0
+Maine,2014,February,28
+Maine,2014,January,23
+Maine,2014,July,0
+Maine,2014,June,0
+Maine,2014,March,31
+Maine,2014,May,0
+Maine,2014,November,0
+Maine,2014,October,0
+Maine,2014,September,0
+Maine,2014,September,0
+Maine,2015,April,30
+Maine,2015,August,0
+Maine,2015,December,0
+Maine,2015,February,28
+Maine,2015,January,30
+Maine,2015,July,16
+Maine,2015,June,30
+Maine,2015,March,31
+Maine,2015,May,31
+Maine,2015,November,0
+Maine,2015,October,0
+Maine,2015,September,0
+Maine,2015,September,0
+Maine,2016,April,16
+Maine,2016,August,0
+Maine,2016,December,0
+Maine,2016,February,29
+Maine,2016,January,25
+Maine,2016,July,0
+Maine,2016,June,0
+Maine,2016,March,31
+Maine,2016,May,0
+Maine,2016,November,0
+Maine,2016,October,0
+Maine,2016,September,0
+Maine,2016,September,0
+Maine,2017,April,30
+Maine,2017,August,0
+Maine,2017,December,0
+Maine,2017,February,28
+Maine,2017,January,29
+Maine,2017,July,4
+Maine,2017,June,30
+Maine,2017,March,31
+Maine,2017,May,31
+Maine,2017,November,0
+Maine,2017,October,0
+Maine,2017,September,0
+Maine,2017,September,0
+Maine,2018,April,30
+Maine,2018,August,0
+Maine,2018,December,0
+Maine,2018,February,28
+Maine,2018,January,29
+Maine,2018,July,0
+Maine,2018,June,0
+Maine,2018,March,31
+Maine,2018,May,2
+Maine,2018,November,0
+Maine,2018,October,0
+Maine,2018,September,0
+Maine,2018,September,0
+Maine,2019,April,0
+Maine,2019,August,0
+Maine,2019,December,0
+Maine,2019,February,0
+Maine,2019,January,0
+Maine,2019,July,0
+Maine,2019,June,0
+Maine,2019,March,0
+Maine,2019,May,0
+Maine,2019,November,0
+Maine,2019,October,0
+Maine,2019,September,0
+Maine,2019,September,0
+Maryland,2014,April,7
+Maryland,2014,August,0
+Maryland,2014,December,0
+Maryland,2014,February,28
+Maryland,2014,January,23
+Maryland,2014,July,0
+Maryland,2014,June,0
+Maryland,2014,March,31
+Maryland,2014,May,0
+Maryland,2014,November,0
+Maryland,2014,October,0
+Maryland,2014,September,0
+Maryland,2014,September,0
+Maryland,2015,April,13
+Maryland,2015,August,0
+Maryland,2015,December,0
+Maryland,2015,February,28
+Maryland,2015,January,17
+Maryland,2015,July,0
+Maryland,2015,June,0
+Maryland,2015,March,31
+Maryland,2015,May,0
+Maryland,2015,November,0
+Maryland,2015,October,0
+Maryland,2015,September,0
+Maryland,2015,September,0
+Maryland,2016,April,11
+Maryland,2016,August,0
+Maryland,2016,December,0
+Maryland,2016,February,29
+Maryland,2016,January,18
+Maryland,2016,July,0
+Maryland,2016,June,0
+Maryland,2016,March,31
+Maryland,2016,May,0
+Maryland,2016,November,0
+Maryland,2016,October,0
+Maryland,2016,September,0
+Maryland,2016,September,0
+Maryland,2017,April,10
+Maryland,2017,August,0
+Maryland,2017,December,0
+Maryland,2017,February,28
+Maryland,2017,January,20
+Maryland,2017,July,0
+Maryland,2017,June,0
+Maryland,2017,March,31
+Maryland,2017,May,0
+Maryland,2017,November,0
+Maryland,2017,October,0
+Maryland,2017,September,0
+Maryland,2017,September,0
+Maryland,2018,April,9
+Maryland,2018,August,0
+Maryland,2018,December,0
+Maryland,2018,February,28
+Maryland,2018,January,21
+Maryland,2018,July,0
+Maryland,2018,June,0
+Maryland,2018,March,31
+Maryland,2018,May,0
+Maryland,2018,November,0
+Maryland,2018,October,0
+Maryland,2018,September,0
+Maryland,2018,September,0
+Maryland,2019,April,8
+Maryland,2019,August,0
+Maryland,2019,December,0
+Maryland,2019,February,28
+Maryland,2019,January,22
+Maryland,2019,July,0
+Maryland,2019,June,0
+Maryland,2019,March,31
+Maryland,2019,May,0
+Maryland,2019,November,0
+Maryland,2019,October,0
+Maryland,2019,September,0
+Maryland,2019,September,0
+Massachusetts,2014,April,30
+Massachusetts,2014,August,31
+Massachusetts,2014,December,31
+Massachusetts,2014,February,28
+Massachusetts,2014,January,30
+Massachusetts,2014,July,31
+Massachusetts,2014,June,30
+Massachusetts,2014,March,31
+Massachusetts,2014,May,31
+Massachusetts,2014,November,30
+Massachusetts,2014,October,31
+Massachusetts,2014,September,30
+Massachusetts,2014,September,30
+Massachusetts,2015,April,30
+Massachusetts,2015,August,31
+Massachusetts,2015,December,31
+Massachusetts,2015,February,28
+Massachusetts,2015,January,24
+Massachusetts,2015,July,31
+Massachusetts,2015,June,30
+Massachusetts,2015,March,31
+Massachusetts,2015,May,31
+Massachusetts,2015,November,30
+Massachusetts,2015,October,31
+Massachusetts,2015,September,30
+Massachusetts,2015,September,30
+Massachusetts,2016,April,30
+Massachusetts,2016,August,31
+Massachusetts,2016,December,31
+Massachusetts,2016,February,29
+Massachusetts,2016,January,25
+Massachusetts,2016,July,31
+Massachusetts,2016,June,30
+Massachusetts,2016,March,31
+Massachusetts,2016,May,31
+Massachusetts,2016,November,30
+Massachusetts,2016,October,31
+Massachusetts,2016,September,30
+Massachusetts,2016,September,30
+Massachusetts,2017,April,30
+Massachusetts,2017,August,31
+Massachusetts,2017,December,0
+Massachusetts,2017,February,28
+Massachusetts,2017,January,27
+Massachusetts,2017,July,31
+Massachusetts,2017,June,30
+Massachusetts,2017,March,31
+Massachusetts,2017,May,31
+Massachusetts,2017,November,15
+Massachusetts,2017,October,31
+Massachusetts,2017,September,30
+Massachusetts,2017,September,30
+Massachusetts,2018,April,30
+Massachusetts,2018,August,0
+Massachusetts,2018,December,0
+Massachusetts,2018,February,28
+Massachusetts,2018,January,28
+Massachusetts,2018,July,31
+Massachusetts,2018,June,30
+Massachusetts,2018,March,31
+Massachusetts,2018,May,31
+Massachusetts,2018,November,0
+Massachusetts,2018,October,0
+Massachusetts,2018,September,0
+Massachusetts,2018,September,0
+Massachusetts,2019,April,30
+Massachusetts,2019,August,31
+Massachusetts,2019,December,0
+Massachusetts,2019,February,28
+Massachusetts,2019,January,29
+Massachusetts,2019,July,31
+Massachusetts,2019,June,30
+Massachusetts,2019,March,31
+Massachusetts,2019,May,31
+Massachusetts,2019,November,20
+Massachusetts,2019,October,31
+Massachusetts,2019,September,30
+Massachusetts,2019,September,30
+Michigan,2014,April,30
+Michigan,2014,August,31
+Michigan,2014,December,31
+Michigan,2014,February,28
+Michigan,2014,January,23
+Michigan,2014,July,31
+Michigan,2014,June,30
+Michigan,2014,March,31
+Michigan,2014,May,31
+Michigan,2014,November,30
+Michigan,2014,October,31
+Michigan,2014,September,30
+Michigan,2014,September,30
+Michigan,2015,April,30
+Michigan,2015,August,31
+Michigan,2015,December,31
+Michigan,2015,February,28
+Michigan,2015,January,17
+Michigan,2015,July,31
+Michigan,2015,June,30
+Michigan,2015,March,31
+Michigan,2015,May,31
+Michigan,2015,November,30
+Michigan,2015,October,31
+Michigan,2015,September,30
+Michigan,2015,September,30
+Michigan,2016,April,30
+Michigan,2016,August,31
+Michigan,2016,December,31
+Michigan,2016,February,29
+Michigan,2016,January,18
+Michigan,2016,July,31
+Michigan,2016,June,30
+Michigan,2016,March,31
+Michigan,2016,May,31
+Michigan,2016,November,30
+Michigan,2016,October,31
+Michigan,2016,September,30
+Michigan,2016,September,30
+Michigan,2017,April,30
+Michigan,2017,August,31
+Michigan,2017,December,31
+Michigan,2017,February,28
+Michigan,2017,January,20
+Michigan,2017,July,31
+Michigan,2017,June,30
+Michigan,2017,March,31
+Michigan,2017,May,31
+Michigan,2017,November,30
+Michigan,2017,October,31
+Michigan,2017,September,30
+Michigan,2017,September,30
+Michigan,2018,April,30
+Michigan,2018,August,31
+Michigan,2018,December,31
+Michigan,2018,February,28
+Michigan,2018,January,21
+Michigan,2018,July,31
+Michigan,2018,June,30
+Michigan,2018,March,31
+Michigan,2018,May,31
+Michigan,2018,November,30
+Michigan,2018,October,31
+Michigan,2018,September,30
+Michigan,2018,September,30
+Michigan,2019,April,30
+Michigan,2019,August,31
+Michigan,2019,December,31
+Michigan,2019,February,28
+Michigan,2019,January,22
+Michigan,2019,July,31
+Michigan,2019,June,30
+Michigan,2019,March,31
+Michigan,2019,May,31
+Michigan,2019,November,30
+Michigan,2019,October,31
+Michigan,2019,September,30
+Michigan,2019,September,30
+Minnesota,2014,April,30
+Minnesota,2014,August,0
+Minnesota,2014,December,0
+Minnesota,2014,February,3
+Minnesota,2014,January,0
+Minnesota,2014,July,0
+Minnesota,2014,June,0
+Minnesota,2014,March,31
+Minnesota,2014,May,21
+Minnesota,2014,November,0
+Minnesota,2014,October,0
+Minnesota,2014,September,0
+Minnesota,2014,September,0
+Minnesota,2015,April,30
+Minnesota,2015,August,0
+Minnesota,2015,December,0
+Minnesota,2015,February,28
+Minnesota,2015,January,25
+Minnesota,2015,July,0
+Minnesota,2015,June,0
+Minnesota,2015,March,31
+Minnesota,2015,May,18
+Minnesota,2015,November,0
+Minnesota,2015,October,0
+Minnesota,2015,September,0
+Minnesota,2015,September,0
+Minnesota,2016,April,30
+Minnesota,2016,August,0
+Minnesota,2016,December,0
+Minnesota,2016,February,0
+Minnesota,2016,January,0
+Minnesota,2016,July,0
+Minnesota,2016,June,0
+Minnesota,2016,March,23
+Minnesota,2016,May,23
+Minnesota,2016,November,0
+Minnesota,2016,October,0
+Minnesota,2016,September,0
+Minnesota,2016,September,0
+Minnesota,2017,April,30
+Minnesota,2017,August,0
+Minnesota,2017,December,0
+Minnesota,2017,February,28
+Minnesota,2017,January,28
+Minnesota,2017,July,0
+Minnesota,2017,June,0
+Minnesota,2017,March,31
+Minnesota,2017,May,22
+Minnesota,2017,November,0
+Minnesota,2017,October,0
+Minnesota,2017,September,0
+Minnesota,2017,September,0
+Minnesota,2018,April,30
+Minnesota,2018,August,0
+Minnesota,2018,December,0
+Minnesota,2018,February,8
+Minnesota,2018,January,0
+Minnesota,2018,July,0
+Minnesota,2018,June,0
+Minnesota,2018,March,31
+Minnesota,2018,May,20
+Minnesota,2018,November,0
+Minnesota,2018,October,0
+Minnesota,2018,September,0
+Minnesota,2018,September,0
+Minnesota,2019,April,30
+Minnesota,2019,August,0
+Minnesota,2019,December,0
+Minnesota,2019,February,28
+Minnesota,2019,January,23
+Minnesota,2019,July,0
+Minnesota,2019,June,0
+Minnesota,2019,March,31
+Minnesota,2019,May,20
+Minnesota,2019,November,0
+Minnesota,2019,October,0
+Minnesota,2019,September,0
+Minnesota,2019,September,0
+Mississippi,2014,April,3
+Mississippi,2014,August,0
+Mississippi,2014,December,0
+Mississippi,2014,February,28
+Mississippi,2014,January,24
+Mississippi,2014,July,0
+Mississippi,2014,June,0
+Mississippi,2014,March,31
+Mississippi,2014,May,0
+Mississippi,2014,November,0
+Mississippi,2014,October,0
+Mississippi,2014,September,0
+Mississippi,2014,September,0
+Mississippi,2015,April,2
+Mississippi,2015,August,0
+Mississippi,2015,December,0
+Mississippi,2015,February,28
+Mississippi,2015,January,25
+Mississippi,2015,July,0
+Mississippi,2015,June,0
+Mississippi,2015,March,31
+Mississippi,2015,May,0
+Mississippi,2015,November,0
+Mississippi,2015,October,0
+Mississippi,2015,September,0
+Mississippi,2015,September,0
+Mississippi,2016,April,21
+Mississippi,2016,August,0
+Mississippi,2016,December,0
+Mississippi,2016,February,29
+Mississippi,2016,January,26
+Mississippi,2016,July,0
+Mississippi,2016,June,0
+Mississippi,2016,March,31
+Mississippi,2016,May,0
+Mississippi,2016,November,0
+Mississippi,2016,October,0
+Mississippi,2016,September,0
+Mississippi,2016,September,0
+Mississippi,2017,April,0
+Mississippi,2017,August,0
+Mississippi,2017,December,0
+Mississippi,2017,February,28
+Mississippi,2017,January,28
+Mississippi,2017,July,0
+Mississippi,2017,June,0
+Mississippi,2017,March,29
+Mississippi,2017,May,0
+Mississippi,2017,November,0
+Mississippi,2017,October,0
+Mississippi,2017,September,0
+Mississippi,2017,September,0
+Mississippi,2018,April,0
+Mississippi,2018,August,0
+Mississippi,2018,December,0
+Mississippi,2018,February,28
+Mississippi,2018,January,29
+Mississippi,2018,July,0
+Mississippi,2018,June,0
+Mississippi,2018,March,28
+Mississippi,2018,May,0
+Mississippi,2018,November,0
+Mississippi,2018,October,0
+Mississippi,2018,September,0
+Mississippi,2018,September,0
+Mississippi,2019,April,0
+Mississippi,2019,August,0
+Mississippi,2019,December,0
+Mississippi,2019,February,28
+Mississippi,2019,January,23
+Mississippi,2019,July,0
+Mississippi,2019,June,0
+Mississippi,2019,March,29
+Mississippi,2019,May,0
+Mississippi,2019,November,0
+Mississippi,2019,October,0
+Mississippi,2019,September,0
+Mississippi,2019,September,0
+Missouri,2014,April,30
+Missouri,2014,August,0
+Missouri,2014,December,0
+Missouri,2014,February,28
+Missouri,2014,January,23
+Missouri,2014,July,0
+Missouri,2014,June,0
+Missouri,2014,March,31
+Missouri,2014,May,30
+Missouri,2014,November,0
+Missouri,2014,October,0
+Missouri,2014,September,0
+Missouri,2014,September,0
+Missouri,2015,April,30
+Missouri,2015,August,0
+Missouri,2015,December,0
+Missouri,2015,February,28
+Missouri,2015,January,24
+Missouri,2015,July,0
+Missouri,2015,June,0
+Missouri,2015,March,31
+Missouri,2015,May,27
+Missouri,2015,November,0
+Missouri,2015,October,0
+Missouri,2015,September,0
+Missouri,2015,September,0
+Missouri,2016,April,30
+Missouri,2016,August,0
+Missouri,2016,December,0
+Missouri,2016,February,29
+Missouri,2016,January,25
+Missouri,2016,July,0
+Missouri,2016,June,0
+Missouri,2016,March,31
+Missouri,2016,May,13
+Missouri,2016,November,0
+Missouri,2016,October,0
+Missouri,2016,September,0
+Missouri,2016,September,0
+Missouri,2017,April,30
+Missouri,2017,August,0
+Missouri,2017,December,0
+Missouri,2017,February,28
+Missouri,2017,January,27
+Missouri,2017,July,0
+Missouri,2017,June,0
+Missouri,2017,March,31
+Missouri,2017,May,12
+Missouri,2017,November,0
+Missouri,2017,October,0
+Missouri,2017,September,0
+Missouri,2017,September,0
+Missouri,2018,April,30
+Missouri,2018,August,0
+Missouri,2018,December,0
+Missouri,2018,February,28
+Missouri,2018,January,28
+Missouri,2018,July,0
+Missouri,2018,June,0
+Missouri,2018,March,31
+Missouri,2018,May,18
+Missouri,2018,November,0
+Missouri,2018,October,0
+Missouri,2018,September,0
+Missouri,2018,September,0
+Missouri,2019,April,30
+Missouri,2019,August,0
+Missouri,2019,December,0
+Missouri,2019,February,28
+Missouri,2019,January,22
+Missouri,2019,July,0
+Missouri,2019,June,0
+Missouri,2019,March,31
+Missouri,2019,May,17
+Missouri,2019,November,0
+Missouri,2019,October,0
+Missouri,2019,September,0
+Missouri,2019,September,0
+Montana,2014,April,0
+Montana,2014,August,0
+Montana,2014,December,0
+Montana,2014,February,0
+Montana,2014,January,0
+Montana,2014,July,0
+Montana,2014,June,0
+Montana,2014,March,0
+Montana,2014,May,0
+Montana,2014,November,0
+Montana,2014,October,0
+Montana,2014,September,0
+Montana,2014,September,0
+Montana,2015,April,28
+Montana,2015,August,0
+Montana,2015,December,0
+Montana,2015,February,28
+Montana,2015,January,26
+Montana,2015,July,0
+Montana,2015,June,0
+Montana,2015,March,31
+Montana,2015,May,0
+Montana,2015,November,0
+Montana,2015,October,0
+Montana,2015,September,0
+Montana,2015,September,0
+Montana,2016,April,0
+Montana,2016,August,0
+Montana,2016,December,0
+Montana,2016,February,0
+Montana,2016,January,0
+Montana,2016,July,0
+Montana,2016,June,0
+Montana,2016,March,0
+Montana,2016,May,0
+Montana,2016,November,0
+Montana,2016,October,0
+Montana,2016,September,0
+Montana,2016,September,0
+Montana,2017,April,28
+Montana,2017,August,0
+Montana,2017,December,0
+Montana,2017,February,28
+Montana,2017,January,29
+Montana,2017,July,0
+Montana,2017,June,0
+Montana,2017,March,31
+Montana,2017,May,0
+Montana,2017,November,0
+Montana,2017,October,0
+Montana,2017,September,0
+Montana,2017,September,0
+Montana,2018,April,0
+Montana,2018,August,0
+Montana,2018,December,0
+Montana,2018,February,0
+Montana,2018,January,0
+Montana,2018,July,0
+Montana,2018,June,0
+Montana,2018,March,0
+Montana,2018,May,0
+Montana,2018,November,0
+Montana,2018,October,0
+Montana,2018,September,0
+Montana,2018,September,0
+Montana,2019,April,25
+Montana,2019,August,0
+Montana,2019,December,0
+Montana,2019,February,28
+Montana,2019,January,24
+Montana,2019,July,0
+Montana,2019,June,0
+Montana,2019,March,31
+Montana,2019,May,0
+Montana,2019,November,0
+Montana,2019,October,0
+Montana,2019,September,0
+Montana,2019,September,0
+Nebraska,2014,April,17
+Nebraska,2014,August,0
+Nebraska,2014,December,0
+Nebraska,2014,February,28
+Nebraska,2014,January,23
+Nebraska,2014,July,0
+Nebraska,2014,June,0
+Nebraska,2014,March,31
+Nebraska,2014,May,0
+Nebraska,2014,November,0
+Nebraska,2014,October,0
+Nebraska,2014,September,0
+Nebraska,2014,September,0
+Nebraska,2015,April,30
+Nebraska,2015,August,0
+Nebraska,2015,December,0
+Nebraska,2015,February,28
+Nebraska,2015,January,24
+Nebraska,2015,July,0
+Nebraska,2015,June,0
+Nebraska,2015,March,31
+Nebraska,2015,May,29
+Nebraska,2015,November,0
+Nebraska,2015,October,0
+Nebraska,2015,September,0
+Nebraska,2015,September,0
+Nebraska,2016,April,20
+Nebraska,2016,August,0
+Nebraska,2016,December,0
+Nebraska,2016,February,29
+Nebraska,2016,January,25
+Nebraska,2016,July,0
+Nebraska,2016,June,0
+Nebraska,2016,March,31
+Nebraska,2016,May,0
+Nebraska,2016,November,0
+Nebraska,2016,October,0
+Nebraska,2016,September,0
+Nebraska,2016,September,0
+Nebraska,2017,April,30
+Nebraska,2017,August,0
+Nebraska,2017,December,0
+Nebraska,2017,February,28
+Nebraska,2017,January,27
+Nebraska,2017,July,0
+Nebraska,2017,June,0
+Nebraska,2017,March,31
+Nebraska,2017,May,23
+Nebraska,2017,November,0
+Nebraska,2017,October,0
+Nebraska,2017,September,0
+Nebraska,2017,September,0
+Nebraska,2018,April,18
+Nebraska,2018,August,0
+Nebraska,2018,December,0
+Nebraska,2018,February,28
+Nebraska,2018,January,28
+Nebraska,2018,July,0
+Nebraska,2018,June,0
+Nebraska,2018,March,31
+Nebraska,2018,May,0
+Nebraska,2018,November,0
+Nebraska,2018,October,0
+Nebraska,2018,September,0
+Nebraska,2018,September,0
+Nebraska,2019,April,30
+Nebraska,2019,August,0
+Nebraska,2019,December,0
+Nebraska,2019,February,28
+Nebraska,2019,January,22
+Nebraska,2019,July,0
+Nebraska,2019,June,0
+Nebraska,2019,March,31
+Nebraska,2019,May,31
+Nebraska,2019,November,0
+Nebraska,2019,October,0
+Nebraska,2019,September,0
+Nebraska,2019,September,0
+Nevada,2014,April,0
+Nevada,2014,August,0
+Nevada,2014,December,0
+Nevada,2014,February,0
+Nevada,2014,January,0
+Nevada,2014,July,0
+Nevada,2014,June,0
+Nevada,2014,March,0
+Nevada,2014,May,0
+Nevada,2014,November,0
+Nevada,2014,October,0
+Nevada,2014,September,0
+Nevada,2014,September,0
+Nevada,2015,April,30
+Nevada,2015,August,0
+Nevada,2015,December,0
+Nevada,2015,February,26
+Nevada,2015,January,0
+Nevada,2015,July,0
+Nevada,2015,June,1
+Nevada,2015,March,31
+Nevada,2015,May,31
+Nevada,2015,November,0
+Nevada,2015,October,0
+Nevada,2015,September,0
+Nevada,2015,September,0
+Nevada,2016,April,0
+Nevada,2016,August,0
+Nevada,2016,December,0
+Nevada,2016,February,0
+Nevada,2016,January,0
+Nevada,2016,July,0
+Nevada,2016,June,0
+Nevada,2016,March,0
+Nevada,2016,May,0
+Nevada,2016,November,0
+Nevada,2016,October,0
+Nevada,2016,September,0
+Nevada,2016,September,0
+Nevada,2017,April,30
+Nevada,2017,August,0
+Nevada,2017,December,0
+Nevada,2017,February,22
+Nevada,2017,January,0
+Nevada,2017,July,0
+Nevada,2017,June,5
+Nevada,2017,March,31
+Nevada,2017,May,31
+Nevada,2017,November,0
+Nevada,2017,October,0
+Nevada,2017,September,0
+Nevada,2017,September,0
+Nevada,2018,April,0
+Nevada,2018,August,0
+Nevada,2018,December,0
+Nevada,2018,February,0
+Nevada,2018,January,0
+Nevada,2018,July,0
+Nevada,2018,June,0
+Nevada,2018,March,0
+Nevada,2018,May,0
+Nevada,2018,November,0
+Nevada,2018,October,0
+Nevada,2018,September,0
+Nevada,2018,September,0
+Nevada,2019,April,30
+Nevada,2019,August,0
+Nevada,2019,December,0
+Nevada,2019,February,24
+Nevada,2019,January,0
+Nevada,2019,July,0
+Nevada,2019,June,3
+Nevada,2019,March,31
+Nevada,2019,May,31
+Nevada,2019,November,0
+Nevada,2019,October,0
+Nevada,2019,September,0
+Nevada,2019,September,0
+New Hampshire,2014,April,30
+New Hampshire,2014,August,0
+New Hampshire,2014,December,0
+New Hampshire,2014,February,28
+New Hampshire,2014,January,23
+New Hampshire,2014,July,1
+New Hampshire,2014,June,30
+New Hampshire,2014,March,31
+New Hampshire,2014,May,31
+New Hampshire,2014,November,0
+New Hampshire,2014,October,0
+New Hampshire,2014,September,0
+New Hampshire,2014,September,0
+New Hampshire,2015,April,30
+New Hampshire,2015,August,0
+New Hampshire,2015,December,0
+New Hampshire,2015,February,28
+New Hampshire,2015,January,24
+New Hampshire,2015,July,1
+New Hampshire,2015,June,30
+New Hampshire,2015,March,31
+New Hampshire,2015,May,31
+New Hampshire,2015,November,0
+New Hampshire,2015,October,0
+New Hampshire,2015,September,0
+New Hampshire,2015,September,0
+New Hampshire,2016,April,30
+New Hampshire,2016,August,0
+New Hampshire,2016,December,0
+New Hampshire,2016,February,29
+New Hampshire,2016,January,25
+New Hampshire,2016,July,1
+New Hampshire,2016,June,30
+New Hampshire,2016,March,31
+New Hampshire,2016,May,31
+New Hampshire,2016,November,0
+New Hampshire,2016,October,0
+New Hampshire,2016,September,0
+New Hampshire,2016,September,0
+New Hampshire,2017,April,30
+New Hampshire,2017,August,0
+New Hampshire,2017,December,0
+New Hampshire,2017,February,28
+New Hampshire,2017,January,27
+New Hampshire,2017,July,0
+New Hampshire,2017,June,22
+New Hampshire,2017,March,31
+New Hampshire,2017,May,31
+New Hampshire,2017,November,0
+New Hampshire,2017,October,0
+New Hampshire,2017,September,0
+New Hampshire,2017,September,0
+New Hampshire,2018,April,30
+New Hampshire,2018,August,0
+New Hampshire,2018,December,0
+New Hampshire,2018,February,28
+New Hampshire,2018,January,28
+New Hampshire,2018,July,0
+New Hampshire,2018,June,30
+New Hampshire,2018,March,31
+New Hampshire,2018,May,31
+New Hampshire,2018,November,0
+New Hampshire,2018,October,0
+New Hampshire,2018,September,0
+New Hampshire,2018,September,0
+New Hampshire,2019,April,30
+New Hampshire,2019,August,0
+New Hampshire,2019,December,0
+New Hampshire,2019,February,28
+New Hampshire,2019,January,29
+New Hampshire,2019,July,0
+New Hampshire,2019,June,30
+New Hampshire,2019,March,31
+New Hampshire,2019,May,31
+New Hampshire,2019,November,0
+New Hampshire,2019,October,0
+New Hampshire,2019,September,0
+New Hampshire,2019,September,0
+New Jersey,2014,April,30
+New Jersey,2014,August,31
+New Jersey,2014,December,31
+New Jersey,2014,February,28
+New Jersey,2014,January,17
+New Jersey,2014,July,31
+New Jersey,2014,June,30
+New Jersey,2014,March,31
+New Jersey,2014,May,31
+New Jersey,2014,November,30
+New Jersey,2014,October,31
+New Jersey,2014,September,30
+New Jersey,2014,September,30
+New Jersey,2015,April,30
+New Jersey,2015,August,31
+New Jersey,2015,December,31
+New Jersey,2015,February,28
+New Jersey,2015,January,18
+New Jersey,2015,July,31
+New Jersey,2015,June,30
+New Jersey,2015,March,31
+New Jersey,2015,May,31
+New Jersey,2015,November,30
+New Jersey,2015,October,31
+New Jersey,2015,September,30
+New Jersey,2015,September,30
+New Jersey,2016,April,30
+New Jersey,2016,August,31
+New Jersey,2016,December,31
+New Jersey,2016,February,29
+New Jersey,2016,January,19
+New Jersey,2016,July,31
+New Jersey,2016,June,30
+New Jersey,2016,March,31
+New Jersey,2016,May,31
+New Jersey,2016,November,30
+New Jersey,2016,October,31
+New Jersey,2016,September,30
+New Jersey,2016,September,30
+New Jersey,2017,April,30
+New Jersey,2017,August,31
+New Jersey,2017,December,29
+New Jersey,2017,February,28
+New Jersey,2017,January,21
+New Jersey,2017,July,31
+New Jersey,2017,June,30
+New Jersey,2017,March,31
+New Jersey,2017,May,31
+New Jersey,2017,November,30
+New Jersey,2017,October,31
+New Jersey,2017,September,30
+New Jersey,2017,September,30
+New Jersey,2018,April,30
+New Jersey,2018,August,31
+New Jersey,2018,December,31
+New Jersey,2018,February,28
+New Jersey,2018,January,22
+New Jersey,2018,July,31
+New Jersey,2018,June,30
+New Jersey,2018,March,31
+New Jersey,2018,May,31
+New Jersey,2018,November,30
+New Jersey,2018,October,31
+New Jersey,2018,September,30
+New Jersey,2018,September,30
+New Jersey,2019,April,30
+New Jersey,2019,August,31
+New Jersey,2019,December,31
+New Jersey,2019,February,28
+New Jersey,2019,January,22
+New Jersey,2019,July,31
+New Jersey,2019,June,30
+New Jersey,2019,March,31
+New Jersey,2019,May,31
+New Jersey,2019,November,30
+New Jersey,2019,October,31
+New Jersey,2019,September,30
+New Jersey,2019,September,30
+New Mexico,2014,April,0
+New Mexico,2014,August,0
+New Mexico,2014,December,0
+New Mexico,2014,February,0
+New Mexico,2014,January,10
+New Mexico,2014,July,0
+New Mexico,2014,June,0
+New Mexico,2014,March,0
+New Mexico,2014,May,0
+New Mexico,2014,November,0
+New Mexico,2014,October,0
+New Mexico,2014,September,0
+New Mexico,2014,September,0
+New Mexico,2015,April,0
+New Mexico,2015,August,0
+New Mexico,2015,December,0
+New Mexico,2015,February,28
+New Mexico,2015,January,11
+New Mexico,2015,July,0
+New Mexico,2015,June,0
+New Mexico,2015,March,21
+New Mexico,2015,May,0
+New Mexico,2015,November,0
+New Mexico,2015,October,0
+New Mexico,2015,September,0
+New Mexico,2015,September,0
+New Mexico,2016,April,0
+New Mexico,2016,August,0
+New Mexico,2016,December,0
+New Mexico,2016,February,0
+New Mexico,2016,January,12
+New Mexico,2016,July,0
+New Mexico,2016,June,0
+New Mexico,2016,March,0
+New Mexico,2016,May,0
+New Mexico,2016,November,0
+New Mexico,2016,October,0
+New Mexico,2016,September,0
+New Mexico,2016,September,0
+New Mexico,2017,April,0
+New Mexico,2017,August,0
+New Mexico,2017,December,0
+New Mexico,2017,February,28
+New Mexico,2017,January,14
+New Mexico,2017,July,0
+New Mexico,2017,June,0
+New Mexico,2017,March,18
+New Mexico,2017,May,0
+New Mexico,2017,November,0
+New Mexico,2017,October,0
+New Mexico,2017,September,0
+New Mexico,2017,September,0
+New Mexico,2018,April,0
+New Mexico,2018,August,0
+New Mexico,2018,December,0
+New Mexico,2018,February,0
+New Mexico,2018,January,15
+New Mexico,2018,July,0
+New Mexico,2018,June,0
+New Mexico,2018,March,0
+New Mexico,2018,May,0
+New Mexico,2018,November,0
+New Mexico,2018,October,0
+New Mexico,2018,September,0
+New Mexico,2018,September,0
+New Mexico,2019,April,0
+New Mexico,2019,August,0
+New Mexico,2019,December,0
+New Mexico,2019,February,28
+New Mexico,2019,January,16
+New Mexico,2019,July,0
+New Mexico,2019,June,0
+New Mexico,2019,March,16
+New Mexico,2019,May,0
+New Mexico,2019,November,0
+New Mexico,2019,October,0
+New Mexico,2019,September,0
+New Mexico,2019,September,0
+New York,2014,April,30
+New York,2014,August,31
+New York,2014,December,31
+New York,2014,February,28
+New York,2014,January,23
+New York,2014,July,31
+New York,2014,June,30
+New York,2014,March,31
+New York,2014,May,31
+New York,2014,November,30
+New York,2014,October,31
+New York,2014,September,30
+New York,2014,September,30
+New York,2015,April,30
+New York,2015,August,31
+New York,2015,December,31
+New York,2015,February,28
+New York,2015,January,24
+New York,2015,July,31
+New York,2015,June,30
+New York,2015,March,31
+New York,2015,May,31
+New York,2015,November,30
+New York,2015,October,31
+New York,2015,September,30
+New York,2015,September,30
+New York,2016,April,30
+New York,2016,August,31
+New York,2016,December,31
+New York,2016,February,29
+New York,2016,January,25
+New York,2016,July,31
+New York,2016,June,30
+New York,2016,March,31
+New York,2016,May,31
+New York,2016,November,30
+New York,2016,October,31
+New York,2016,September,30
+New York,2016,September,30
+New York,2017,April,30
+New York,2017,August,31
+New York,2017,December,31
+New York,2017,February,28
+New York,2017,January,27
+New York,2017,July,31
+New York,2017,June,30
+New York,2017,March,31
+New York,2017,May,31
+New York,2017,November,30
+New York,2017,October,31
+New York,2017,September,30
+New York,2017,September,30
+New York,2018,April,30
+New York,2018,August,31
+New York,2018,December,31
+New York,2018,February,28
+New York,2018,January,28
+New York,2018,July,31
+New York,2018,June,30
+New York,2018,March,31
+New York,2018,May,31
+New York,2018,November,30
+New York,2018,October,31
+New York,2018,September,30
+New York,2018,September,30
+New York,2019,April,30
+New York,2019,August,0
+New York,2019,December,0
+New York,2019,February,28
+New York,2019,January,22
+New York,2019,July,0
+New York,2019,June,21
+New York,2019,March,31
+New York,2019,May,31
+New York,2019,November,0
+New York,2019,October,0
+New York,2019,September,0
+New York,2019,September,0
+North Carolina,2014,April,0
+North Carolina,2014,August,20
+North Carolina,2014,December,0
+North Carolina,2014,February,0
+North Carolina,2014,January,0
+North Carolina,2014,July,31
+North Carolina,2014,June,30
+North Carolina,2014,March,0
+North Carolina,2014,May,17
+North Carolina,2014,November,0
+North Carolina,2014,October,0
+North Carolina,2014,September,0
+North Carolina,2014,September,0
+North Carolina,2015,April,30
+North Carolina,2015,August,31
+North Carolina,2015,December,0
+North Carolina,2015,February,28
+North Carolina,2015,January,17
+North Carolina,2015,July,31
+North Carolina,2015,June,30
+North Carolina,2015,March,31
+North Carolina,2015,May,31
+North Carolina,2015,November,0
+North Carolina,2015,October,0
+North Carolina,2015,September,30
+North Carolina,2015,September,30
+North Carolina,2016,April,5
+North Carolina,2016,August,0
+North Carolina,2016,December,0
+North Carolina,2016,February,0
+North Carolina,2016,January,0
+North Carolina,2016,July,2
+North Carolina,2016,June,30
+North Carolina,2016,March,0
+North Carolina,2016,May,31
+North Carolina,2016,November,0
+North Carolina,2016,October,0
+North Carolina,2016,September,0
+North Carolina,2016,September,0
+North Carolina,2017,April,30
+North Carolina,2017,August,0
+North Carolina,2017,December,0
+North Carolina,2017,February,28
+North Carolina,2017,January,20
+North Carolina,2017,July,0
+North Carolina,2017,June,30
+North Carolina,2017,March,31
+North Carolina,2017,May,31
+North Carolina,2017,November,0
+North Carolina,2017,October,0
+North Carolina,2017,September,0
+North Carolina,2017,September,0
+North Carolina,2018,April,30
+North Carolina,2018,August,0
+North Carolina,2018,December,0
+North Carolina,2018,February,28
+North Carolina,2018,January,21
+North Carolina,2018,July,0
+North Carolina,2018,June,29
+North Carolina,2018,March,31
+North Carolina,2018,May,31
+North Carolina,2018,November,0
+North Carolina,2018,October,0
+North Carolina,2018,September,0
+North Carolina,2018,September,0
+North Carolina,2019,April,30
+North Carolina,2019,August,31
+North Carolina,2019,December,0
+North Carolina,2019,February,28
+North Carolina,2019,January,22
+North Carolina,2019,July,31
+North Carolina,2019,June,30
+North Carolina,2019,March,31
+North Carolina,2019,May,31
+North Carolina,2019,November,0
+North Carolina,2019,October,31
+North Carolina,2019,September,30
+North Carolina,2019,September,30
+North Dakota,2014,April,0
+North Dakota,2014,August,0
+North Dakota,2014,December,0
+North Dakota,2014,February,0
+North Dakota,2014,January,0
+North Dakota,2014,July,0
+North Dakota,2014,June,0
+North Dakota,2014,March,0
+North Dakota,2014,May,0
+North Dakota,2014,November,0
+North Dakota,2014,October,0
+North Dakota,2014,September,0
+North Dakota,2014,September,0
+North Dakota,2015,April,29
+North Dakota,2015,August,0
+North Dakota,2015,December,0
+North Dakota,2015,February,28
+North Dakota,2015,January,25
+North Dakota,2015,July,0
+North Dakota,2015,June,0
+North Dakota,2015,March,31
+North Dakota,2015,May,0
+North Dakota,2015,November,0
+North Dakota,2015,October,0
+North Dakota,2015,September,0
+North Dakota,2015,September,0
+North Dakota,2016,April,0
+North Dakota,2016,August,0
+North Dakota,2016,December,0
+North Dakota,2016,February,0
+North Dakota,2016,January,0
+North Dakota,2016,July,0
+North Dakota,2016,June,0
+North Dakota,2016,March,0
+North Dakota,2016,May,0
+North Dakota,2016,November,0
+North Dakota,2016,October,0
+North Dakota,2016,September,0
+North Dakota,2016,September,0
+North Dakota,2017,April,27
+North Dakota,2017,August,0
+North Dakota,2017,December,0
+North Dakota,2017,February,28
+North Dakota,2017,January,28
+North Dakota,2017,July,0
+North Dakota,2017,June,0
+North Dakota,2017,March,31
+North Dakota,2017,May,0
+North Dakota,2017,November,0
+North Dakota,2017,October,0
+North Dakota,2017,September,0
+North Dakota,2017,September,0
+North Dakota,2018,April,0
+North Dakota,2018,August,0
+North Dakota,2018,December,0
+North Dakota,2018,February,0
+North Dakota,2018,January,0
+North Dakota,2018,July,0
+North Dakota,2018,June,0
+North Dakota,2018,March,0
+North Dakota,2018,May,0
+North Dakota,2018,November,0
+North Dakota,2018,October,0
+North Dakota,2018,September,0
+North Dakota,2018,September,0
+North Dakota,2019,April,26
+North Dakota,2019,August,0
+North Dakota,2019,December,0
+North Dakota,2019,February,28
+North Dakota,2019,January,28
+North Dakota,2019,July,0
+North Dakota,2019,June,0
+North Dakota,2019,March,31
+North Dakota,2019,May,0
+North Dakota,2019,November,0
+North Dakota,2019,October,0
+North Dakota,2019,September,0
+North Dakota,2019,September,0
+Ohio,2014,April,30
+Ohio,2014,August,31
+Ohio,2014,December,31
+Ohio,2014,February,28
+Ohio,2014,January,24
+Ohio,2014,July,31
+Ohio,2014,June,30
+Ohio,2014,March,31
+Ohio,2014,May,31
+Ohio,2014,November,30
+Ohio,2014,October,31
+Ohio,2014,September,30
+Ohio,2014,September,30
+Ohio,2015,April,30
+Ohio,2015,August,31
+Ohio,2015,December,31
+Ohio,2015,February,28
+Ohio,2015,January,26
+Ohio,2015,July,31
+Ohio,2015,June,30
+Ohio,2015,March,31
+Ohio,2015,May,31
+Ohio,2015,November,30
+Ohio,2015,October,31
+Ohio,2015,September,30
+Ohio,2015,September,30
+Ohio,2016,April,30
+Ohio,2016,August,31
+Ohio,2016,December,31
+Ohio,2016,February,29
+Ohio,2016,January,26
+Ohio,2016,July,31
+Ohio,2016,June,30
+Ohio,2016,March,31
+Ohio,2016,May,31
+Ohio,2016,November,30
+Ohio,2016,October,31
+Ohio,2016,September,30
+Ohio,2016,September,30
+Ohio,2017,April,30
+Ohio,2017,August,31
+Ohio,2017,December,31
+Ohio,2017,February,28
+Ohio,2017,January,29
+Ohio,2017,July,31
+Ohio,2017,June,30
+Ohio,2017,March,31
+Ohio,2017,May,31
+Ohio,2017,November,30
+Ohio,2017,October,31
+Ohio,2017,September,30
+Ohio,2017,September,30
+Ohio,2018,April,30
+Ohio,2018,August,31
+Ohio,2018,December,31
+Ohio,2018,February,28
+Ohio,2018,January,29
+Ohio,2018,July,31
+Ohio,2018,June,30
+Ohio,2018,March,31
+Ohio,2018,May,31
+Ohio,2018,November,30
+Ohio,2018,October,31
+Ohio,2018,September,30
+Ohio,2018,September,30
+Ohio,2019,April,30
+Ohio,2019,August,31
+Ohio,2019,December,31
+Ohio,2019,February,28
+Ohio,2019,January,24
+Ohio,2019,July,31
+Ohio,2019,June,30
+Ohio,2019,March,31
+Ohio,2019,May,31
+Ohio,2019,November,30
+Ohio,2019,October,31
+Ohio,2019,September,30
+Ohio,2019,September,30
+Oklahoma,2014,April,30
+Oklahoma,2014,August,0
+Oklahoma,2014,December,0
+Oklahoma,2014,February,25
+Oklahoma,2014,January,0
+Oklahoma,2014,July,0
+Oklahoma,2014,June,0
+Oklahoma,2014,March,31
+Oklahoma,2014,May,24
+Oklahoma,2014,November,0
+Oklahoma,2014,October,0
+Oklahoma,2014,September,0
+Oklahoma,2014,September,0
+Oklahoma,2015,April,30
+Oklahoma,2015,August,0
+Oklahoma,2015,December,0
+Oklahoma,2015,February,26
+Oklahoma,2015,January,0
+Oklahoma,2015,July,0
+Oklahoma,2015,June,0
+Oklahoma,2015,March,31
+Oklahoma,2015,May,2
+Oklahoma,2015,November,0
+Oklahoma,2015,October,0
+Oklahoma,2015,September,0
+Oklahoma,2015,September,0
+Oklahoma,2016,April,30
+Oklahoma,2016,August,0
+Oklahoma,2016,December,0
+Oklahoma,2016,February,28
+Oklahoma,2016,January,0
+Oklahoma,2016,July,0
+Oklahoma,2016,June,0
+Oklahoma,2016,March,31
+Oklahoma,2016,May,27
+Oklahoma,2016,November,0
+Oklahoma,2016,October,0
+Oklahoma,2016,September,0
+Oklahoma,2016,September,0
+Oklahoma,2017,April,30
+Oklahoma,2017,August,0
+Oklahoma,2017,December,0
+Oklahoma,2017,February,22
+Oklahoma,2017,January,0
+Oklahoma,2017,July,0
+Oklahoma,2017,June,0
+Oklahoma,2017,March,31
+Oklahoma,2017,May,26
+Oklahoma,2017,November,0
+Oklahoma,2017,October,0
+Oklahoma,2017,September,0
+Oklahoma,2017,September,0
+Oklahoma,2018,April,30
+Oklahoma,2018,August,0
+Oklahoma,2018,December,0
+Oklahoma,2018,February,23
+Oklahoma,2018,January,0
+Oklahoma,2018,July,0
+Oklahoma,2018,June,0
+Oklahoma,2018,March,31
+Oklahoma,2018,May,9
+Oklahoma,2018,November,0
+Oklahoma,2018,October,0
+Oklahoma,2018,September,0
+Oklahoma,2018,September,0
+Oklahoma,2019,April,30
+Oklahoma,2019,August,0
+Oklahoma,2019,December,0
+Oklahoma,2019,February,24
+Oklahoma,2019,January,0
+Oklahoma,2019,July,0
+Oklahoma,2019,June,0
+Oklahoma,2019,March,31
+Oklahoma,2019,May,23
+Oklahoma,2019,November,0
+Oklahoma,2019,October,0
+Oklahoma,2019,September,0
+Oklahoma,2019,September,0
+Oregon,2014,April,0
+Oregon,2014,August,0
+Oregon,2014,December,0
+Oregon,2014,February,25
+Oregon,2014,January,0
+Oregon,2014,July,0
+Oregon,2014,June,0
+Oregon,2014,March,0
+Oregon,2014,May,0
+Oregon,2014,November,0
+Oregon,2014,October,0
+Oregon,2014,September,0
+Oregon,2014,September,0
+Oregon,2015,April,30
+Oregon,2015,August,0
+Oregon,2015,December,0
+Oregon,2015,February,26
+Oregon,2015,January,0
+Oregon,2015,July,6
+Oregon,2015,June,30
+Oregon,2015,March,31
+Oregon,2015,May,31
+Oregon,2015,November,0
+Oregon,2015,October,0
+Oregon,2015,September,0
+Oregon,2015,September,0
+Oregon,2016,April,0
+Oregon,2016,August,0
+Oregon,2016,December,0
+Oregon,2016,February,28
+Oregon,2016,January,0
+Oregon,2016,July,0
+Oregon,2016,June,0
+Oregon,2016,March,0
+Oregon,2016,May,0
+Oregon,2016,November,0
+Oregon,2016,October,0
+Oregon,2016,September,0
+Oregon,2016,September,0
+Oregon,2017,April,30
+Oregon,2017,August,0
+Oregon,2017,December,0
+Oregon,2017,February,27
+Oregon,2017,January,0
+Oregon,2017,July,7
+Oregon,2017,June,30
+Oregon,2017,March,31
+Oregon,2017,May,31
+Oregon,2017,November,0
+Oregon,2017,October,0
+Oregon,2017,September,0
+Oregon,2017,September,0
+Oregon,2018,April,0
+Oregon,2018,August,0
+Oregon,2018,December,0
+Oregon,2018,February,23
+Oregon,2018,January,0
+Oregon,2018,July,0
+Oregon,2018,June,0
+Oregon,2018,March,0
+Oregon,2018,May,0
+Oregon,2018,November,0
+Oregon,2018,October,0
+Oregon,2018,September,0
+Oregon,2018,September,0
+Oregon,2019,April,30
+Oregon,2019,August,0
+Oregon,2019,December,0
+Oregon,2019,February,28
+Oregon,2019,January,9
+Oregon,2019,July,0
+Oregon,2019,June,30
+Oregon,2019,March,31
+Oregon,2019,May,31
+Oregon,2019,November,0
+Oregon,2019,October,0
+Oregon,2019,September,0
+Oregon,2019,September,0
+Pennsylvania,2014,April,30
+Pennsylvania,2014,August,31
+Pennsylvania,2014,December,31
+Pennsylvania,2014,February,28
+Pennsylvania,2014,January,24
+Pennsylvania,2014,July,31
+Pennsylvania,2014,June,30
+Pennsylvania,2014,March,31
+Pennsylvania,2014,May,31
+Pennsylvania,2014,November,30
+Pennsylvania,2014,October,31
+Pennsylvania,2014,September,30
+Pennsylvania,2014,September,30
+Pennsylvania,2015,April,30
+Pennsylvania,2015,August,31
+Pennsylvania,2015,December,31
+Pennsylvania,2015,February,28
+Pennsylvania,2015,January,25
+Pennsylvania,2015,July,31
+Pennsylvania,2015,June,30
+Pennsylvania,2015,March,31
+Pennsylvania,2015,May,31
+Pennsylvania,2015,November,30
+Pennsylvania,2015,October,31
+Pennsylvania,2015,September,30
+Pennsylvania,2015,September,30
+Pennsylvania,2016,April,30
+Pennsylvania,2016,August,31
+Pennsylvania,2016,December,31
+Pennsylvania,2016,February,29
+Pennsylvania,2016,January,26
+Pennsylvania,2016,July,31
+Pennsylvania,2016,June,30
+Pennsylvania,2016,March,31
+Pennsylvania,2016,May,31
+Pennsylvania,2016,November,30
+Pennsylvania,2016,October,31
+Pennsylvania,2016,September,30
+Pennsylvania,2016,September,30
+Pennsylvania,2017,April,30
+Pennsylvania,2017,August,31
+Pennsylvania,2017,December,31
+Pennsylvania,2017,February,28
+Pennsylvania,2017,January,28
+Pennsylvania,2017,July,31
+Pennsylvania,2017,June,30
+Pennsylvania,2017,March,31
+Pennsylvania,2017,May,31
+Pennsylvania,2017,November,30
+Pennsylvania,2017,October,31
+Pennsylvania,2017,September,30
+Pennsylvania,2017,September,30
+Pennsylvania,2018,April,30
+Pennsylvania,2018,August,31
+Pennsylvania,2018,December,31
+Pennsylvania,2018,February,28
+Pennsylvania,2018,January,29
+Pennsylvania,2018,July,31
+Pennsylvania,2018,June,30
+Pennsylvania,2018,March,31
+Pennsylvania,2018,May,31
+Pennsylvania,2018,November,30
+Pennsylvania,2018,October,31
+Pennsylvania,2018,September,30
+Pennsylvania,2018,September,30
+Pennsylvania,2019,April,30
+Pennsylvania,2019,August,31
+Pennsylvania,2019,December,18
+Pennsylvania,2019,February,28
+Pennsylvania,2019,January,30
+Pennsylvania,2019,July,31
+Pennsylvania,2019,June,30
+Pennsylvania,2019,March,31
+Pennsylvania,2019,May,31
+Pennsylvania,2019,November,30
+Pennsylvania,2019,October,31
+Pennsylvania,2019,September,30
+Pennsylvania,2019,September,30
+Rhode Island,2014,April,0
+Rhode Island,2014,August,0
+Rhode Island,2014,December,0
+Rhode Island,2014,February,0
+Rhode Island,2014,January,0
+Rhode Island,2014,July,0
+Rhode Island,2014,June,0
+Rhode Island,2014,March,0
+Rhode Island,2014,May,0
+Rhode Island,2014,November,0
+Rhode Island,2014,October,0
+Rhode Island,2014,September,0
+Rhode Island,2014,September,0
+Rhode Island,2015,April,30
+Rhode Island,2015,August,0
+Rhode Island,2015,December,0
+Rhode Island,2015,February,28
+Rhode Island,2015,January,25
+Rhode Island,2015,July,0
+Rhode Island,2015,June,25
+Rhode Island,2015,March,31
+Rhode Island,2015,May,31
+Rhode Island,2015,November,0
+Rhode Island,2015,October,0
+Rhode Island,2015,September,0
+Rhode Island,2015,September,0
+Rhode Island,2016,April,30
+Rhode Island,2016,August,0
+Rhode Island,2016,December,0
+Rhode Island,2016,February,29
+Rhode Island,2016,January,26
+Rhode Island,2016,July,0
+Rhode Island,2016,June,18
+Rhode Island,2016,March,31
+Rhode Island,2016,May,31
+Rhode Island,2016,November,0
+Rhode Island,2016,October,0
+Rhode Island,2016,September,0
+Rhode Island,2016,September,0
+Rhode Island,2017,April,30
+Rhode Island,2017,August,0
+Rhode Island,2017,December,0
+Rhode Island,2017,February,28
+Rhode Island,2017,January,28
+Rhode Island,2017,July,0
+Rhode Island,2017,June,30
+Rhode Island,2017,March,31
+Rhode Island,2017,May,31
+Rhode Island,2017,November,0
+Rhode Island,2017,October,0
+Rhode Island,2017,September,0
+Rhode Island,2017,September,0
+Rhode Island,2018,April,30
+Rhode Island,2018,August,0
+Rhode Island,2018,December,0
+Rhode Island,2018,February,28
+Rhode Island,2018,January,29
+Rhode Island,2018,July,0
+Rhode Island,2018,June,25
+Rhode Island,2018,March,31
+Rhode Island,2018,May,31
+Rhode Island,2018,November,0
+Rhode Island,2018,October,0
+Rhode Island,2018,September,0
+Rhode Island,2018,September,0
+Rhode Island,2019,April,30
+Rhode Island,2019,August,0
+Rhode Island,2019,December,0
+Rhode Island,2019,February,28
+Rhode Island,2019,January,30
+Rhode Island,2019,July,0
+Rhode Island,2019,June,30
+Rhode Island,2019,March,31
+Rhode Island,2019,May,31
+Rhode Island,2019,November,0
+Rhode Island,2019,October,0
+Rhode Island,2019,September,0
+Rhode Island,2019,September,0
+South Carolina,2014,April,30
+South Carolina,2014,August,0
+South Carolina,2014,December,0
+South Carolina,2014,February,28
+South Carolina,2014,January,17
+South Carolina,2014,July,0
+South Carolina,2014,June,5
+South Carolina,2014,March,31
+South Carolina,2014,May,31
+South Carolina,2014,November,0
+South Carolina,2014,October,0
+South Carolina,2014,September,0
+South Carolina,2014,September,0
+South Carolina,2015,April,30
+South Carolina,2015,August,0
+South Carolina,2015,December,0
+South Carolina,2015,February,28
+South Carolina,2015,January,18
+South Carolina,2015,July,9
+South Carolina,2015,June,30
+South Carolina,2015,March,31
+South Carolina,2015,May,31
+South Carolina,2015,November,0
+South Carolina,2015,October,0
+South Carolina,2015,September,0
+South Carolina,2015,September,0
+South Carolina,2016,April,30
+South Carolina,2016,August,0
+South Carolina,2016,December,0
+South Carolina,2016,February,29
+South Carolina,2016,January,19
+South Carolina,2016,July,0
+South Carolina,2016,June,2
+South Carolina,2016,March,31
+South Carolina,2016,May,31
+South Carolina,2016,November,0
+South Carolina,2016,October,0
+South Carolina,2016,September,0
+South Carolina,2016,September,0
+South Carolina,2017,April,30
+South Carolina,2017,August,0
+South Carolina,2017,December,0
+South Carolina,2017,February,28
+South Carolina,2017,January,21
+South Carolina,2017,July,0
+South Carolina,2017,June,0
+South Carolina,2017,March,31
+South Carolina,2017,May,11
+South Carolina,2017,November,0
+South Carolina,2017,October,0
+South Carolina,2017,September,0
+South Carolina,2017,September,0
+South Carolina,2018,April,30
+South Carolina,2018,August,0
+South Carolina,2018,December,0
+South Carolina,2018,February,28
+South Carolina,2018,January,22
+South Carolina,2018,July,0
+South Carolina,2018,June,0
+South Carolina,2018,March,31
+South Carolina,2018,May,9
+South Carolina,2018,November,0
+South Carolina,2018,October,0
+South Carolina,2018,September,0
+South Carolina,2018,September,0
+South Carolina,2019,April,30
+South Carolina,2019,August,0
+South Carolina,2019,December,0
+South Carolina,2019,February,28
+South Carolina,2019,January,23
+South Carolina,2019,July,0
+South Carolina,2019,June,0
+South Carolina,2019,March,31
+South Carolina,2019,May,9
+South Carolina,2019,November,0
+South Carolina,2019,October,0
+South Carolina,2019,September,0
+South Carolina,2019,September,0
+South Dakota,2014,April,0
+South Dakota,2014,August,0
+South Dakota,2014,December,0
+South Dakota,2014,February,28
+South Dakota,2014,January,17
+South Dakota,2014,July,0
+South Dakota,2014,June,0
+South Dakota,2014,March,31
+South Dakota,2014,May,0
+South Dakota,2014,November,0
+South Dakota,2014,October,0
+South Dakota,2014,September,0
+South Dakota,2014,September,0
+South Dakota,2015,April,0
+South Dakota,2015,August,0
+South Dakota,2015,December,0
+South Dakota,2015,February,28
+South Dakota,2015,January,18
+South Dakota,2015,July,0
+South Dakota,2015,June,0
+South Dakota,2015,March,30
+South Dakota,2015,May,0
+South Dakota,2015,November,0
+South Dakota,2015,October,0
+South Dakota,2015,September,0
+South Dakota,2015,September,0
+South Dakota,2016,April,0
+South Dakota,2016,August,0
+South Dakota,2016,December,0
+South Dakota,2016,February,29
+South Dakota,2016,January,19
+South Dakota,2016,July,0
+South Dakota,2016,June,0
+South Dakota,2016,March,29
+South Dakota,2016,May,0
+South Dakota,2016,November,0
+South Dakota,2016,October,0
+South Dakota,2016,September,0
+South Dakota,2016,September,0
+South Dakota,2017,April,0
+South Dakota,2017,August,0
+South Dakota,2017,December,0
+South Dakota,2017,February,28
+South Dakota,2017,January,21
+South Dakota,2017,July,0
+South Dakota,2017,June,0
+South Dakota,2017,March,27
+South Dakota,2017,May,0
+South Dakota,2017,November,0
+South Dakota,2017,October,0
+South Dakota,2017,September,0
+South Dakota,2017,September,0
+South Dakota,2018,April,0
+South Dakota,2018,August,0
+South Dakota,2018,December,0
+South Dakota,2018,February,28
+South Dakota,2018,January,22
+South Dakota,2018,July,0
+South Dakota,2018,June,0
+South Dakota,2018,March,26
+South Dakota,2018,May,0
+South Dakota,2018,November,0
+South Dakota,2018,October,0
+South Dakota,2018,September,0
+South Dakota,2018,September,0
+South Dakota,2019,April,0
+South Dakota,2019,August,0
+South Dakota,2019,December,0
+South Dakota,2019,February,28
+South Dakota,2019,January,23
+South Dakota,2019,July,0
+South Dakota,2019,June,0
+South Dakota,2019,March,29
+South Dakota,2019,May,0
+South Dakota,2019,November,0
+South Dakota,2019,October,0
+South Dakota,2019,September,0
+South Dakota,2019,September,0
+Tennessee,2014,April,17
+Tennessee,2014,August,0
+Tennessee,2014,December,0
+Tennessee,2014,February,28
+Tennessee,2014,January,17
+Tennessee,2014,July,0
+Tennessee,2014,June,0
+Tennessee,2014,March,31
+Tennessee,2014,May,0
+Tennessee,2014,November,0
+Tennessee,2014,October,0
+Tennessee,2014,September,0
+Tennessee,2014,September,0
+Tennessee,2015,April,22
+Tennessee,2015,August,0
+Tennessee,2015,December,0
+Tennessee,2015,February,28
+Tennessee,2015,January,18
+Tennessee,2015,July,0
+Tennessee,2015,June,0
+Tennessee,2015,March,31
+Tennessee,2015,May,0
+Tennessee,2015,November,0
+Tennessee,2015,October,0
+Tennessee,2015,September,0
+Tennessee,2015,September,0
+Tennessee,2016,April,22
+Tennessee,2016,August,0
+Tennessee,2016,December,0
+Tennessee,2016,February,29
+Tennessee,2016,January,19
+Tennessee,2016,July,0
+Tennessee,2016,June,0
+Tennessee,2016,March,31
+Tennessee,2016,May,0
+Tennessee,2016,November,0
+Tennessee,2016,October,0
+Tennessee,2016,September,0
+Tennessee,2016,September,0
+Tennessee,2017,April,30
+Tennessee,2017,August,0
+Tennessee,2017,December,0
+Tennessee,2017,February,28
+Tennessee,2017,January,21
+Tennessee,2017,July,0
+Tennessee,2017,June,0
+Tennessee,2017,March,31
+Tennessee,2017,May,10
+Tennessee,2017,November,0
+Tennessee,2017,October,0
+Tennessee,2017,September,0
+Tennessee,2017,September,0
+Tennessee,2018,April,25
+Tennessee,2018,August,0
+Tennessee,2018,December,0
+Tennessee,2018,February,28
+Tennessee,2018,January,22
+Tennessee,2018,July,0
+Tennessee,2018,June,0
+Tennessee,2018,March,31
+Tennessee,2018,May,0
+Tennessee,2018,November,0
+Tennessee,2018,October,0
+Tennessee,2018,September,0
+Tennessee,2018,September,0
+Tennessee,2019,April,30
+Tennessee,2019,August,0
+Tennessee,2019,December,0
+Tennessee,2019,February,28
+Tennessee,2019,January,23
+Tennessee,2019,July,0
+Tennessee,2019,June,0
+Tennessee,2019,March,31
+Tennessee,2019,May,2
+Tennessee,2019,November,0
+Tennessee,2019,October,0
+Tennessee,2019,September,0
+Tennessee,2019,September,0
+Texas,2014,April,0
+Texas,2014,August,0
+Texas,2014,December,0
+Texas,2014,February,0
+Texas,2014,January,0
+Texas,2014,July,0
+Texas,2014,June,0
+Texas,2014,March,0
+Texas,2014,May,0
+Texas,2014,November,0
+Texas,2014,October,0
+Texas,2014,September,0
+Texas,2014,September,0
+Texas,2015,April,30
+Texas,2015,August,0
+Texas,2015,December,0
+Texas,2015,February,28
+Texas,2015,January,18
+Texas,2015,July,0
+Texas,2015,June,1
+Texas,2015,March,31
+Texas,2015,May,31
+Texas,2015,November,0
+Texas,2015,October,0
+Texas,2015,September,0
+Texas,2015,September,0
+Texas,2016,April,0
+Texas,2016,August,0
+Texas,2016,December,0
+Texas,2016,February,0
+Texas,2016,January,0
+Texas,2016,July,0
+Texas,2016,June,0
+Texas,2016,March,0
+Texas,2016,May,0
+Texas,2016,November,0
+Texas,2016,October,0
+Texas,2016,September,0
+Texas,2016,September,0
+Texas,2017,April,30
+Texas,2017,August,0
+Texas,2017,December,0
+Texas,2017,February,28
+Texas,2017,January,21
+Texas,2017,July,0
+Texas,2017,June,0
+Texas,2017,March,31
+Texas,2017,May,29
+Texas,2017,November,0
+Texas,2017,October,0
+Texas,2017,September,0
+Texas,2017,September,0
+Texas,2018,April,0
+Texas,2018,August,0
+Texas,2018,December,0
+Texas,2018,February,0
+Texas,2018,January,0
+Texas,2018,July,0
+Texas,2018,June,0
+Texas,2018,March,0
+Texas,2018,May,0
+Texas,2018,November,0
+Texas,2018,October,0
+Texas,2018,September,0
+Texas,2018,September,0
+Texas,2019,April,30
+Texas,2019,August,0
+Texas,2019,December,0
+Texas,2019,February,28
+Texas,2019,January,23
+Texas,2019,July,0
+Texas,2019,June,0
+Texas,2019,March,31
+Texas,2019,May,27
+Texas,2019,November,0
+Texas,2019,October,0
+Texas,2019,September,0
+Texas,2019,September,0
+Utah,2014,April,0
+Utah,2014,August,0
+Utah,2014,December,0
+Utah,2014,February,28
+Utah,2014,January,4
+Utah,2014,July,0
+Utah,2014,June,0
+Utah,2014,March,13
+Utah,2014,May,0
+Utah,2014,November,0
+Utah,2014,October,0
+Utah,2014,September,0
+Utah,2014,September,0
+Utah,2015,April,0
+Utah,2015,August,0
+Utah,2015,December,0
+Utah,2015,February,28
+Utah,2015,January,5
+Utah,2015,July,0
+Utah,2015,June,0
+Utah,2015,March,12
+Utah,2015,May,0
+Utah,2015,November,0
+Utah,2015,October,0
+Utah,2015,September,0
+Utah,2015,September,0
+Utah,2016,April,0
+Utah,2016,August,0
+Utah,2016,December,0
+Utah,2016,February,29
+Utah,2016,January,6
+Utah,2016,July,0
+Utah,2016,June,0
+Utah,2016,March,10
+Utah,2016,May,0
+Utah,2016,November,0
+Utah,2016,October,0
+Utah,2016,September,0
+Utah,2016,September,0
+Utah,2017,April,0
+Utah,2017,August,0
+Utah,2017,December,0
+Utah,2017,February,28
+Utah,2017,January,8
+Utah,2017,July,0
+Utah,2017,June,0
+Utah,2017,March,9
+Utah,2017,May,0
+Utah,2017,November,0
+Utah,2017,October,0
+Utah,2017,September,0
+Utah,2017,September,0
+Utah,2018,April,0
+Utah,2018,August,0
+Utah,2018,December,0
+Utah,2018,February,28
+Utah,2018,January,9
+Utah,2018,July,0
+Utah,2018,June,0
+Utah,2018,March,9
+Utah,2018,May,0
+Utah,2018,November,0
+Utah,2018,October,0
+Utah,2018,September,0
+Utah,2018,September,0
+Utah,2019,April,0
+Utah,2019,August,0
+Utah,2019,December,0
+Utah,2019,February,28
+Utah,2019,January,3
+Utah,2019,July,0
+Utah,2019,June,0
+Utah,2019,March,14
+Utah,2019,May,0
+Utah,2019,November,0
+Utah,2019,October,0
+Utah,2019,September,0
+Utah,2019,September,0
+Vermont,2014,April,30
+Vermont,2014,August,0
+Vermont,2014,December,0
+Vermont,2014,February,28
+Vermont,2014,January,24
+Vermont,2014,July,0
+Vermont,2014,June,0
+Vermont,2014,March,31
+Vermont,2014,May,10
+Vermont,2014,November,0
+Vermont,2014,October,0
+Vermont,2014,September,0
+Vermont,2014,September,0
+Vermont,2015,April,30
+Vermont,2015,August,0
+Vermont,2015,December,0
+Vermont,2015,February,28
+Vermont,2015,January,24
+Vermont,2015,July,0
+Vermont,2015,June,0
+Vermont,2015,March,31
+Vermont,2015,May,16
+Vermont,2015,November,0
+Vermont,2015,October,0
+Vermont,2015,September,0
+Vermont,2015,September,0
+Vermont,2016,April,30
+Vermont,2016,August,0
+Vermont,2016,December,0
+Vermont,2016,February,29
+Vermont,2016,January,26
+Vermont,2016,July,0
+Vermont,2016,June,0
+Vermont,2016,March,31
+Vermont,2016,May,7
+Vermont,2016,November,0
+Vermont,2016,October,0
+Vermont,2016,September,0
+Vermont,2016,September,0
+Vermont,2017,April,30
+Vermont,2017,August,0
+Vermont,2017,December,0
+Vermont,2017,February,28
+Vermont,2017,January,27
+Vermont,2017,July,0
+Vermont,2017,June,0
+Vermont,2017,March,31
+Vermont,2017,May,18
+Vermont,2017,November,0
+Vermont,2017,October,0
+Vermont,2017,September,0
+Vermont,2017,September,0
+Vermont,2018,April,30
+Vermont,2018,August,0
+Vermont,2018,December,0
+Vermont,2018,February,28
+Vermont,2018,January,28
+Vermont,2018,July,0
+Vermont,2018,June,0
+Vermont,2018,March,31
+Vermont,2018,May,12
+Vermont,2018,November,0
+Vermont,2018,October,0
+Vermont,2018,September,0
+Vermont,2018,September,0
+Vermont,2019,April,30
+Vermont,2019,August,0
+Vermont,2019,December,0
+Vermont,2019,February,28
+Vermont,2019,January,22
+Vermont,2019,July,0
+Vermont,2019,June,0
+Vermont,2019,March,31
+Vermont,2019,May,29
+Vermont,2019,November,0
+Vermont,2019,October,0
+Vermont,2019,September,0
+Vermont,2019,September,0
+Virginia,2014,April,0
+Virginia,2014,August,0
+Virginia,2014,December,0
+Virginia,2014,February,28
+Virginia,2014,January,23
+Virginia,2014,July,0
+Virginia,2014,June,0
+Virginia,2014,March,8
+Virginia,2014,May,0
+Virginia,2014,November,0
+Virginia,2014,October,0
+Virginia,2014,September,0
+Virginia,2014,September,0
+Virginia,2015,April,0
+Virginia,2015,August,0
+Virginia,2015,December,0
+Virginia,2015,February,0
+Virginia,2015,January,17
+Virginia,2015,July,0
+Virginia,2015,June,0
+Virginia,2015,March,0
+Virginia,2015,May,0
+Virginia,2015,November,0
+Virginia,2015,October,0
+Virginia,2015,September,0
+Virginia,2015,September,0
+Virginia,2016,April,0
+Virginia,2016,August,0
+Virginia,2016,December,0
+Virginia,2016,February,29
+Virginia,2016,January,18
+Virginia,2016,July,0
+Virginia,2016,June,0
+Virginia,2016,March,11
+Virginia,2016,May,0
+Virginia,2016,November,0
+Virginia,2016,October,0
+Virginia,2016,September,0
+Virginia,2016,September,0
+Virginia,2017,April,0
+Virginia,2017,August,0
+Virginia,2017,December,0
+Virginia,2017,February,0
+Virginia,2017,January,20
+Virginia,2017,July,0
+Virginia,2017,June,0
+Virginia,2017,March,0
+Virginia,2017,May,0
+Virginia,2017,November,0
+Virginia,2017,October,0
+Virginia,2017,September,0
+Virginia,2017,September,0
+Virginia,2018,April,0
+Virginia,2018,August,0
+Virginia,2018,December,0
+Virginia,2018,February,28
+Virginia,2018,January,21
+Virginia,2018,July,0
+Virginia,2018,June,0
+Virginia,2018,March,11
+Virginia,2018,May,0
+Virginia,2018,November,0
+Virginia,2018,October,0
+Virginia,2018,September,0
+Virginia,2018,September,0
+Virginia,2019,April,0
+Virginia,2019,August,0
+Virginia,2019,December,0
+Virginia,2019,February,0
+Virginia,2019,January,22
+Virginia,2019,July,0
+Virginia,2019,June,0
+Virginia,2019,March,0
+Virginia,2019,May,0
+Virginia,2019,November,0
+Virginia,2019,October,0
+Virginia,2019,September,0
+Virginia,2019,September,0
+Washington,2014,April,0
+Washington,2014,August,0
+Washington,2014,December,0
+Washington,2014,February,28
+Washington,2014,January,18
+Washington,2014,July,0
+Washington,2014,June,0
+Washington,2014,March,13
+Washington,2014,May,0
+Washington,2014,November,0
+Washington,2014,October,0
+Washington,2014,September,0
+Washington,2014,September,0
+Washington,2015,April,24
+Washington,2015,August,0
+Washington,2015,December,0
+Washington,2015,February,28
+Washington,2015,January,19
+Washington,2015,July,0
+Washington,2015,June,0
+Washington,2015,March,31
+Washington,2015,May,0
+Washington,2015,November,0
+Washington,2015,October,0
+Washington,2015,September,0
+Washington,2015,September,0
+Washington,2016,April,0
+Washington,2016,August,0
+Washington,2016,December,0
+Washington,2016,February,29
+Washington,2016,January,20
+Washington,2016,July,0
+Washington,2016,June,0
+Washington,2016,March,10
+Washington,2016,May,0
+Washington,2016,November,0
+Washington,2016,October,0
+Washington,2016,September,0
+Washington,2016,September,0
+Washington,2017,April,23
+Washington,2017,August,0
+Washington,2017,December,0
+Washington,2017,February,28
+Washington,2017,January,22
+Washington,2017,July,0
+Washington,2017,June,0
+Washington,2017,March,31
+Washington,2017,May,0
+Washington,2017,November,0
+Washington,2017,October,0
+Washington,2017,September,0
+Washington,2017,September,0
+Washington,2018,April,0
+Washington,2018,August,0
+Washington,2018,December,0
+Washington,2018,February,28
+Washington,2018,January,23
+Washington,2018,July,0
+Washington,2018,June,0
+Washington,2018,March,9
+Washington,2018,May,0
+Washington,2018,November,0
+Washington,2018,October,0
+Washington,2018,September,0
+Washington,2018,September,0
+Washington,2019,April,28
+Washington,2019,August,0
+Washington,2019,December,0
+Washington,2019,February,28
+Washington,2019,January,17
+Washington,2019,July,0
+Washington,2019,June,0
+Washington,2019,March,31
+Washington,2019,May,0
+Washington,2019,November,0
+Washington,2019,October,0
+Washington,2019,September,0
+Washington,2019,September,0
+West Virginia,2014,April,0
+West Virginia,2014,August,0
+West Virginia,2014,December,0
+West Virginia,2014,February,28
+West Virginia,2014,January,23
+West Virginia,2014,July,0
+West Virginia,2014,June,0
+West Virginia,2014,March,8
+West Virginia,2014,May,0
+West Virginia,2014,November,0
+West Virginia,2014,October,0
+West Virginia,2014,September,0
+West Virginia,2014,September,0
+West Virginia,2015,April,0
+West Virginia,2015,August,0
+West Virginia,2015,December,0
+West Virginia,2015,February,28
+West Virginia,2015,January,17
+West Virginia,2015,July,0
+West Virginia,2015,June,0
+West Virginia,2015,March,18
+West Virginia,2015,May,0
+West Virginia,2015,November,0
+West Virginia,2015,October,0
+West Virginia,2015,September,0
+West Virginia,2015,September,0
+West Virginia,2016,April,0
+West Virginia,2016,August,0
+West Virginia,2016,December,0
+West Virginia,2016,February,29
+West Virginia,2016,January,18
+West Virginia,2016,July,0
+West Virginia,2016,June,0
+West Virginia,2016,March,15
+West Virginia,2016,May,0
+West Virginia,2016,November,0
+West Virginia,2016,October,0
+West Virginia,2016,September,0
+West Virginia,2016,September,0
+West Virginia,2017,April,9
+West Virginia,2017,August,0
+West Virginia,2017,December,0
+West Virginia,2017,February,20
+West Virginia,2017,January,0
+West Virginia,2017,July,0
+West Virginia,2017,June,0
+West Virginia,2017,March,31
+West Virginia,2017,May,0
+West Virginia,2017,November,0
+West Virginia,2017,October,0
+West Virginia,2017,September,0
+West Virginia,2017,September,0
+West Virginia,2018,April,0
+West Virginia,2018,August,0
+West Virginia,2018,December,0
+West Virginia,2018,February,28
+West Virginia,2018,January,21
+West Virginia,2018,July,0
+West Virginia,2018,June,0
+West Virginia,2018,March,11
+West Virginia,2018,May,0
+West Virginia,2018,November,0
+West Virginia,2018,October,0
+West Virginia,2018,September,0
+West Virginia,2018,September,0
+West Virginia,2019,April,0
+West Virginia,2019,August,0
+West Virginia,2019,December,0
+West Virginia,2019,February,28
+West Virginia,2019,January,22
+West Virginia,2019,July,0
+West Virginia,2019,June,0
+West Virginia,2019,March,9
+West Virginia,2019,May,0
+West Virginia,2019,November,0
+West Virginia,2019,October,0
+West Virginia,2019,September,0
+West Virginia,2019,September,0
+Wisconsin,2014,April,30
+Wisconsin,2014,August,31
+Wisconsin,2014,December,31
+Wisconsin,2014,February,28
+Wisconsin,2014,January,17
+Wisconsin,2014,July,31
+Wisconsin,2014,June,30
+Wisconsin,2014,March,31
+Wisconsin,2014,May,31
+Wisconsin,2014,November,30
+Wisconsin,2014,October,31
+Wisconsin,2014,September,30
+Wisconsin,2014,September,30
+Wisconsin,2015,April,30
+Wisconsin,2015,August,31
+Wisconsin,2015,December,31
+Wisconsin,2015,February,28
+Wisconsin,2015,January,26
+Wisconsin,2015,July,31
+Wisconsin,2015,June,30
+Wisconsin,2015,March,31
+Wisconsin,2015,May,31
+Wisconsin,2015,November,30
+Wisconsin,2015,October,31
+Wisconsin,2015,September,30
+Wisconsin,2015,September,30
+Wisconsin,2016,April,30
+Wisconsin,2016,August,31
+Wisconsin,2016,December,31
+Wisconsin,2016,February,29
+Wisconsin,2016,January,19
+Wisconsin,2016,July,31
+Wisconsin,2016,June,30
+Wisconsin,2016,March,31
+Wisconsin,2016,May,31
+Wisconsin,2016,November,30
+Wisconsin,2016,October,31
+Wisconsin,2016,September,30
+Wisconsin,2016,September,30
+Wisconsin,2017,April,30
+Wisconsin,2017,August,31
+Wisconsin,2017,December,31
+Wisconsin,2017,February,28
+Wisconsin,2017,January,28
+Wisconsin,2017,July,31
+Wisconsin,2017,June,30
+Wisconsin,2017,March,31
+Wisconsin,2017,May,31
+Wisconsin,2017,November,30
+Wisconsin,2017,October,31
+Wisconsin,2017,September,30
+Wisconsin,2017,September,30
+Wisconsin,2018,April,30
+Wisconsin,2018,August,31
+Wisconsin,2018,December,31
+Wisconsin,2018,February,28
+Wisconsin,2018,January,15
+Wisconsin,2018,July,31
+Wisconsin,2018,June,30
+Wisconsin,2018,March,31
+Wisconsin,2018,May,31
+Wisconsin,2018,November,30
+Wisconsin,2018,October,31
+Wisconsin,2018,September,30
+Wisconsin,2018,September,30
+Wisconsin,2019,April,30
+Wisconsin,2019,August,31
+Wisconsin,2019,December,31
+Wisconsin,2019,February,28
+Wisconsin,2019,January,24
+Wisconsin,2019,July,31
+Wisconsin,2019,June,30
+Wisconsin,2019,March,31
+Wisconsin,2019,May,31
+Wisconsin,2019,November,30
+Wisconsin,2019,October,31
+Wisconsin,2019,September,30
+Wisconsin,2019,September,30
+Wyoming,2014,April,0
+Wyoming,2014,August,0
+Wyoming,2014,December,0
+Wyoming,2014,February,18
+Wyoming,2014,January,0
+Wyoming,2014,July,0
+Wyoming,2014,June,0
+Wyoming,2014,March,0
+Wyoming,2014,May,0
+Wyoming,2014,November,0
+Wyoming,2014,October,0
+Wyoming,2014,September,0
+Wyoming,2014,September,0
+Wyoming,2015,April,0
+Wyoming,2015,August,0
+Wyoming,2015,December,0
+Wyoming,2015,February,28
+Wyoming,2015,January,18
+Wyoming,2015,July,0
+Wyoming,2015,June,0
+Wyoming,2015,March,5
+Wyoming,2015,May,0
+Wyoming,2015,November,0
+Wyoming,2015,October,0
+Wyoming,2015,September,0
+Wyoming,2015,September,0
+Wyoming,2016,April,0
+Wyoming,2016,August,0
+Wyoming,2016,December,0
+Wyoming,2016,February,21
+Wyoming,2016,January,0
+Wyoming,2016,July,0
+Wyoming,2016,June,0
+Wyoming,2016,March,0
+Wyoming,2016,May,0
+Wyoming,2016,November,0
+Wyoming,2016,October,0
+Wyoming,2016,September,0
+Wyoming,2016,September,0
+Wyoming,2017,April,0
+Wyoming,2017,August,0
+Wyoming,2017,December,0
+Wyoming,2017,February,28
+Wyoming,2017,January,21
+Wyoming,2017,July,0
+Wyoming,2017,June,0
+Wyoming,2017,March,3
+Wyoming,2017,May,0
+Wyoming,2017,November,0
+Wyoming,2017,October,0
+Wyoming,2017,September,0
+Wyoming,2017,September,0
+Wyoming,2018,April,0
+Wyoming,2018,August,0
+Wyoming,2018,December,0
+Wyoming,2018,February,16
+Wyoming,2018,January,0
+Wyoming,2018,July,0
+Wyoming,2018,June,0
+Wyoming,2018,March,0
+Wyoming,2018,May,0
+Wyoming,2018,November,0
+Wyoming,2018,October,0
+Wyoming,2018,September,0
+Wyoming,2018,September,0
+Wyoming,2019,April,0
+Wyoming,2019,August,0
+Wyoming,2019,December,0
+Wyoming,2019,February,28
+Wyoming,2019,January,23
+Wyoming,2019,July,0
+Wyoming,2019,June,0
+Wyoming,2019,March,0
+Wyoming,2019,May,0
+Wyoming,2019,November,0
+Wyoming,2019,October,0
+Wyoming,2019,September,0
+Wyoming,2019,September,0

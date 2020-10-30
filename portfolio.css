@@ -292,6 +292,9 @@
 		background-position: center;
 		background-size: cover;
 	}
+	#parttime{
+		background-image: url("./images/visualizations/parttime.png");
+	}
 	#poisson{
 		background-image: url("./images/visualizations/poissoncover.png");
 	}

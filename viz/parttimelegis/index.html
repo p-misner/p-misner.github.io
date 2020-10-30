@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Part Time Legislatures</title>
+	<link rel="stylesheet" href="./style.css">
+	<!-- <link rel='icon' href='favicon.ico' type='image/x-icon'/ > -->
+	<link rel="icon" 
+      type="image/png" 
+      href="./logo2.png">
+       <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet"> 
+<script src="https://d3js.org/d3.v5.min.js"></script>	
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+	
+
+
+</head>
+<body>
+	<h1>State Legislature Schedules</h1>
+	<h2> a look into the timelines of all fifty state's governments</h2>
+	<p> Most broadly, state legislatures can be split into three types: Full-Time "Professional" Legislatures, Part-Time "Citizen" Legislatures and Hybrid, which are the mix of the previous two. Unlike the federal government, I was surprised to learn that state legislatures aren't in session for majority of the year. Only four states - California, Michigan, New York and Pennsylvania - are classified as full-time legislatures by the National Council of State Legistlatures <span class="footnote">[1] </span>.</p> 
+	<p> Data for the following visualizations was collected by downloading PDFs containing the dates state legislature regular session met in 2015-2019 from all fifty state legislature's websites. Special legislative sessions were not included in the session count for each state. The python package PyPDF2 was used to scrape the pdfs and gather all the session dates into a single csv file. </p>
+	<svg id="legend"></svg>
+ 	<svg id="map"></svg>
+
+ 	<p>In many states, being a state senator or assemblymembers isn't a full-time job with several state legislatures like Texas and Montana only meeting every other year. Beyond the length of the legislative session, Full-Time "Professional" Legislatures and Part-Time "Citizen" Legislatures differ in the size of the legislator's staff and state senator's salary amount. California's full-time legislature pays $110,459 a year in comparison to the $200 per two-years that New Hampshire's part-time legislature pays.A quick glance at the graph below shows that, on average, salary and staff size shrink as the legislative session shrinks.  <p> 
+ 		
+ 	
+	<svg id="scatter"></svg>
+	<div> 
+		<button class="tablebtn" id="salarybtn">Salary</button>
+		<button class="tablebtn" id="staffbtn">Staff Size</button>
+	</div>
+	<!-- <div id="table"></div> -->
+		<div class="spacer"></div>
+		<p> A majority of state governments are in session for less than half of the year. Certain states, like Texas and Montana, convene a regular session once every other year. While many states seem to follow a predictable schedule from year to year, Florida and Arkansas' calendar changes significantly from year to year.   <p> 
+			<div class="spacer"></div>
+	<svg id="heatmap"></svg>
+	<div id="htooltip"></div>
+
+	<script src="map.js"></script>
+	<script src="table.js"></script>
+	<script src="heatmap.js"></script>
+	<script src="scatter.js"></script>
+
+
+</body>
+</html>
