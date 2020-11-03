@@ -292,6 +292,9 @@
 		background-position: center;
 		background-size: cover;
 	}
+	#greeneggs{
+		background-image: url("./images/visualizations/greeneggs.png");
+	}
 	#parttime{
 		background-image: url("./images/visualizations/parttime.png");
 	}
