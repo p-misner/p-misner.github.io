@@ -1,5 +1,4 @@
 body {
-   font-family: /*'Grinched 2.0',*/'Lato', sans-serif;
     margin: 0px;
     padding: 0px;
     font-weight: 400;
@@ -54,13 +53,13 @@ button:hover {
 
 
 h1 {
-   font-family: 'Henny Penny','Garamond', serif;
-	margin-top: 40px;
-  font-size: 3em;
+	margin-top: 80px;
+ /* margin-bottom: 1px;
+  font-size: 3em;*/
 }
-p {
+/*p {
   font-size: 1.2em;
-}
+}*/
 .node circle {
   fill: #fff;
  /* stroke: steelblue;

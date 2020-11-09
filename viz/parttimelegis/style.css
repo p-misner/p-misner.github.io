@@ -2,7 +2,7 @@
 body {
 	font-family: 'Montserrat', serif;
 }
-h1, h2, p {
+h1, h2,h3, p {
 	width: 80vw;
 	margin: 0 auto;
 }
@@ -16,6 +16,9 @@ h5 {
   font-weight: 300;
   color: red;
   margin-bottom: 0;
+}
+h3 {
+  margin-bottom: 10px;
 }
 
 p {
