@@ -3,12 +3,30 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title> Priya Misner</title>
+		<link rel="stylesheet" href="../../nav.css">
 		<link rel="stylesheet" href="../../portfolio.css">
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,600|Inconsolata:400,600,800" rel="stylesheet">
 	</head>
 
 	<body>
 		<div class="content">
+			<div id="mySidenav" class="sidenav">
+				<a href="javascript:void(0)" id="closebtn" onclick="closeNav()">&times;</a>
+				<a href="../../index.html#about" onclick="closeNav()">About</a>
+				<a href="../../index.html#workExp" onclick="closeNav()">Experience</a>
+				<a href="../../index.html#fulb" onclick="closeNav()">Fulbright</a>
+				<a href="../../index.html#port" onclick="closeNav()">Portfolio</a>
+				<a href="../../portfolio/visualization.html" onclick="closeNav()">Visualizations</a>
+				<a href="../../index.html#cont" onclick="closeNav()">Contact</a>
+			</div>
+			<div class="hamburger" onclick="openNav()">
+				<svg viewBox="0 0 20 20"  >
+					<rect x="0" y="0" width="100%" height="3px" fill="blue"/>
+					<rect x="0" y="7" width="100%" height="3px" fill="blue"/>
+					<rect x="0" y="14" width="100%" height="3px" fill="blue"/>
+
+				</svg>
+			</div>
 			<h1 > United States Travel Patterns   </h1>
 			<h2 > An interactive map application built with React and deck.gl </h2>
 
@@ -34,5 +52,6 @@
 			</div>
 			<p> To visualize flow, or movement from an origin to destination, only a single data is visualized.A single data set that contains both origin and destination data is visualized with the origin highlighted.The map below shows flow from an origin tract to a variety of destination tracts in Massachusetts. The map loads to show the overall flow across the entire state but if the user selects a point representing an origin tract, all the possible destinations will be displayed.</p>
 		</div>
+		<script type="text/javascript" src="../../nav.js"></script>
 	</body>
 </html>

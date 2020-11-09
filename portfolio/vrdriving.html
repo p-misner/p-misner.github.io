@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="../cssreset.css">
+	<link rel="stylesheet" href="../nav.css">
 	<link rel="stylesheet" href="../portfolio.css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,600|Inconsolata:400,600,800,900" rel="stylesheet">
 
@@ -11,6 +12,22 @@
 </head>
 <body>
 	<div class="content">
+		<div id="mySidenav" class="sidenav">
+			<a href="javascript:void(0)" id="closebtn" onclick="closeNav()">&times;</a>
+			<a href="../index.html#about" onclick="closeNav()">About</a>
+			<a href="../index.html#workExp" onclick="closeNav()">Experience</a>
+			<a href="../index.html#fulb" onclick="closeNav()">Fulbright</a>
+			<a href="../index.html#port" onclick="closeNav()">Portfolio</a>
+			<a href="../index.html#cont" onclick="closeNav()">Contact</a>
+		</div>
+		<div class="hamburger" onclick="openNav()">
+			<svg viewBox="0 0 20 20"  >
+				<rect x="0" y="0" width="100%" height="3px" fill="blue"/>
+				<rect x="0" y="7" width="100%" height="3px" fill="blue"/>
+				<rect x="0" y="14" width="100%" height="3px" fill="blue"/>
+
+			</svg>
+		</div>
 		<h1> Virtual Reality Driving Simulator </h1>
 		<h2>a customizable high fidelity virtual reality driving simulator built in Unity</h2>
 		<h3> Overview</h3>
@@ -139,7 +156,7 @@
 		</p> -->
 
 
-
+		<script type="text/javascript" src="../nav.js"></script>
 	</div>
 
 </body>

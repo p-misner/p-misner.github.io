@@ -4,8 +4,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title> Part Time Legislatures</title>
-	       <link rel="stylesheet" type="text/css" href="../../portfolio.css" >
-
+	<link rel="stylesheet" type="text/css" href="../../nav.css">
+	<link rel="stylesheet" type="text/css" href="../../portfolio.css" >
 	<link rel="stylesheet" href="./style.css">
 	<!-- <link rel='icon' href='favicon.ico' type='image/x-icon'/ > -->
 	<link rel="icon" 
@@ -20,6 +20,23 @@
 
 </head>
 <body>
+	<div id="mySidenav" class="sidenav">
+		<a href="javascript:void(0)" id="closebtn" onclick="closeNav()">&times;</a>
+		<a href="../../index.html#about" onclick="closeNav()">About</a>
+		<a href="../../index.html#workExp" onclick="closeNav()">Experience</a>
+		<a href="../../index.html#fulb" onclick="closeNav()">Fulbright</a>
+		<a href="../../index.html#port" onclick="closeNav()">Portfolio</a>
+		<a href="../../portfolio/visualization.html" onclick="closeNav()">Visualizations</a>
+		<a href="../../index.html#cont" onclick="closeNav()">Contact</a>
+	</div>
+	<div class="hamburger" onclick="openNav()">
+		<svg viewBox="0 0 20 20"  >
+			<rect x="0" y="0" width="100%" height="3px" fill="blue"/>
+			<rect x="0" y="7" width="100%" height="3px" fill="blue"/>
+			<rect x="0" y="14" width="100%" height="3px" fill="blue"/>
+
+		</svg>
+	</div>
 	<h1>State Legislature Schedules</h1>
 	<h2> a look into the timelines of all fifty state's governments</h2>
 		<h3>Overview</h3>
@@ -50,6 +67,6 @@
 	<script src="heatmap.js"></script>
 	<script src="scatter.js"></script>
 
-
+<script src="../../nav.js"></script>
 </body>
 </html>
