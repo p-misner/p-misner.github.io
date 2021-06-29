@@ -3,13 +3,40 @@
 		font-family: 'Montserrat', sans-serif;
 		overflow-x: hidden;
 		overflow-y:visible;
+		margin:0;
 	}
 	.hero {
 		text-align: left;
 		margin-top: 250px;
 		margin-bottom: 250px;
 	}
+	.about button {
+		font-size: 1.3em;
+		font-weight: 400;
+		text-align: center;
+		padding: 8px 24px;
+		margin-bottom: 5px;
+		margin-top: 0px;
+		background-color: transparent;
+		border-radius:50px;
+		color: blue;
+		display: block;
+		border: 2px solid  blue;
+		font-family: 'Inconsolata';
+		/*margin: 0 auto;*/
 
+	}
+	.about a {
+				text-decoration: none;
+
+	}
+	.about button:hover {
+		background-color: blue;
+		color: white;
+		text-decoration: none;
+
+
+	}
 
 	h1,h2,h3 {
 		font-family: 'Inconsolata';
@@ -377,7 +404,12 @@
 	}
 
 	.contact {
-		padding-top: 200px;
+		padding-top: 50px;
+		z-index: 100;
+	}
+
+	.contact a{
+		cursor: pointer;
 	}
 	
 
@@ -408,17 +440,20 @@
 		color:white;
 	}
 	.srow {
-		width:  330px;
+		width:  220px;
 				margin: 0 auto;
 
 	}
 	.social {
 		background-color: floralwhite;
 		margin: 20px;
-		width: 50px;
-		height: 50px;
+		width: 30px;
+		height: 30px;
 		display: inline-block;
 
+	}
+	.contact a {
+		text-decoration: none;
 	}
 	.linkedin {
 		background-image: url(./images/social/linkedin.png);
@@ -466,12 +501,14 @@
 		font-size: 1.5em;
 	}
 	
+	
 	.portfolio p {
 		position: relative;
-		top: 220px;
+		/*top: 220px;*/
 		left: 90px;
 		text-indent: -20px;
 		width: 50vw;
+
 	}
 	.num {
 		font-family: "Future", "Kanit", sans-serif;

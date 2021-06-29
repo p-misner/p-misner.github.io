@@ -31,26 +31,39 @@
 			<h2 > An interactive map application built with React and deck.gl </h2>
 
 			<h3> Introduction </h3>
-			<p> During the Fall of 2019 and Spring of 2020 I worked with several professors and researchers from the Tufts University UrbanismX group on an interative map. The primary goal of this map was to lets users visually compare different data sets in order to help researchers understand the meaning behind the data. Due to coronavirus and graduating from Tufts University, I was unable to continue working on the project. In my time working with this group, I created wireframes of the applocation should look and built funcitonal prototypes of two of the mapping features.  
-			<h3> Driving Questions </h3>
+			<p> 
+				During the Fall of 2019 and Spring of 2020 I worked with several professors and researchers from the Tufts University UrbanismX group on an interactive map. In my time working with this group, I created wireframes of the application should look and coded functional prototypes of two of the mapping features. 
+			</p>
+			<p>
+				The primary goal of this map was to allow urban planning researchers to compare different data sets and visualize the how different variables affected commuter flow. Questions the maps tried to answer included:
+			</p>
 			<ul>
 				<li> How can we tell if a city thriving? </li>
 				<li> How does commuting impact a person's life in terms of economic structure? </li>
 				<li> What differences do variables like income, race, occupation, transit mode, etc. reveal about people's commuting patterns? </li>
-			</ul>
-			<h3>Comparison  </h3>
+			</ul> 
+			
+			<h3>Tools </h3>
+			<p> I built the map using React and deck.gl, a WebGL-powered visualization framework for large scale datasets. Not pictured in the GIFs below, I used d3.js to create several static graphs that provided extra information about the displayed map data.  </p>
+			<p>
+				Though the data I received was mostly clean and formatted, I used python with pandas to perform minor data cleaning operations.
+			</p>
+			<h3>Comparison Prototype </h3>
 			<div class="imggroup">
 			<img src="../../images/ctpp/comparison.gif">
 			<img>
 		</div>
-			<p> One data set is compared to another data set and the difference between the two maps is shown in an inset map. As you can seen from the image, the user chooses the two data sets they would like to compare from a drop down menu. Both data sets are graphed on a split screen and the difference between the two maps is shown in an inset map. </p>
+			<p> One data set is compared to another data set and the difference between the two maps is shown in an inset map. As you can seen from the image, the user chooses the two data sets they would like to compare from a drop down menu. Both data sets are graphed on a split screen and the difference is shown on an inset map. </p>
+			<p>
 
-			<h4> Flow</h4>
+			</p>
+
+			<h3> Flow Prototype</h3>
 			<div class="imggroup">
 				<img src="../../images/ctpp/flow.gif">
 				<img>
 			</div>
-			<p> To visualize flow, or movement from an origin to destination, only a single data is visualized.A single data set that contains both origin and destination data is visualized with the origin highlighted.The map below shows flow from an origin tract to a variety of destination tracts in Massachusetts. The map loads to show the overall flow across the entire state but if the user selects a point representing an origin tract, all the possible destinations will be displayed.</p>
+			<p> Flow is the movement of a person from an origin point to a destination. The map below shows flow from an origin tract to a variety of destination tracts in Massachusetts. By clicking a point on the map, all the various destinations branch out from the point.</p>
 		</div>
 		<script type="text/javascript" src="../../nav.js"></script>
 	</body>
